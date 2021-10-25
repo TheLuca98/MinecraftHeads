@@ -1,0 +1,27 @@
+name: Update list
+
+on:
+  schedule:
+    - cron: 0 0 * * 0
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
+
+      - name: Run update script
+        run: deno run -A heads2csv.ts -o heads.csv
+
+      - name: Commit and push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Update list"
+          git push
