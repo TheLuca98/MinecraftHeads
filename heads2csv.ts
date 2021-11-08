@@ -43,8 +43,8 @@ async function main(args: string[]) {
         data.push({
           name: entry["name"],
           category: category,
-          value: parseValue(entry["value"]),
-          tags: parseTags(entry["tags"]),
+          hash: extractHash(entry["value"]),
+          tags: formatTags(entry["tags"]),
         });
       }
     }
@@ -54,14 +54,14 @@ async function main(args: string[]) {
   const outputCsv = await stringify(data, [
     "name",
     "category",
-    "value",
+    "hash",
     "tags",
   ]);
   Deno.writeTextFile(flags.outFile, outputCsv);
   console.log(`Done! ${data.length} entries written to ${flags.outFile}.`);
 }
 
-function parseValue(base64data: string) {
+function extractHash(base64data: string) {
   const obj = JSON.parse(atob(base64data));
   const url = obj["textures"]["SKIN"]["url"];
   if (!url.startsWith(Config.textureUrlPrefix)) {
@@ -70,7 +70,7 @@ function parseValue(base64data: string) {
   return url.replaceAll(Config.textureUrlPrefix, "");
 }
 
-function parseTags(tags: string | null) {
+function formatTags(tags: string | null) {
   if (tags == null) {
     return "";
   } else {

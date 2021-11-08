@@ -18,32 +18,20 @@ Or you can click here: **[direct download link](https://cdn.jsdelivr.net/gh/TheL
 
 ## Usage
 
-The database is a standard CSV file. Things to be aware of when parsing:
+The database is a standard CSV file. The first line is the header, which provides the names of the columns.
 
-- The first line is the header and provides the names of the columns.
-- The `tags` column might sometimes be empty (some entries are simply not tagged).
-- If an entry has multiple tags, they are separated by `|`.
+The `tags` column can either be empty (if the entry is not tagged) or contain one or more tags separated by `|`.
 
-The most important part of the dataset is the `value` column, which allows you to generate the `SkullOwner` user profile. Note that, for the sake of reducing the file size, **this differs from the `value` field from the Minecraft-Heads.com API.**
+The value of the `hash` column is a portion of the skin URL: `https://textures.minecraft.net/texture/<HASH>`.
 
-In this case, the `value` column is the ID of the texture/skin on Mojang's servers, and is meant to be used as part of the following URL:
-
-```
-https://textures.minecraft.net/texture/VALUE
-```
-
-Minecraft then requires said URL to be included in a specific JSON object:
+The skin URL is used to generate the `textures` property (to include in the user profile), which is essentially the following JSON object, but base64-encoded:
 
 ```json
-{ "textures": { "SKIN": { "url": "https://textures.minecraft.net/texture/VALUE" } } }
+{ "textures": { "SKIN": { "url": "https://textures.minecraft.net/texture/<HASH>" } } }
 ```
 
-and to encode that into base64. The resulting string can then be added to the user profile as the `textures` property ([example](https://sessionserver.mojang.com/session/minecraft/profile/853c80ef3c3749fdaa49938b674adae6)).
+Additional resources on this topic:
 
-If you're using Java, check out the `GameProfile` class from Mojang's AuthLib.
-
-If you're using vanilla commands, here's a template that should (hopefully) work:
-
-```
-/give @p minecraft:player_head{SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:"BASE64_STRING"}]}}}
-```
+- [Example of a user profile](https://sessionserver.mojang.com/session/minecraft/profile/853c80ef3c3749fdaa49938b674adae6)
+- [Mojang API on wiki.vg](https://wiki.vg/Mojang_API#UUID_to_Profile_and_Skin.2FCape)
+- [minotar/skin-spec on GitHub](https://github.com/minotar/skin-spec)
