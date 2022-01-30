@@ -5,6 +5,7 @@ This repository is effectively a mirror for the data made available by the [Mine
 ## Purpose
 
 To allow developers to fetch the entire dataset with a single HTTP call and without putting an unnecessary burden on the Minecraft-Heads.com servers.
+Used primarily by my own plugin, [CreativeHeads](https://github.com/TheLuca98/CreativeHeads).
 
 ## Downloads
 
