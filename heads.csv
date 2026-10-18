@@ -7619,6 +7619,7 @@ Aardvark,animals,d9bb497dd25b5144286fe8301f65b64af9ea42627de15a948a8d09275ee4bf,
 Abalone,animals,4f21d025a744d495071201311e41c6ee78d5fe3638be1fa74d270e1788e3ff89,Ocean|PetPlugin|Figurine (Animal)
 Abrosexual Sheep,animals,6481d383bc828ca52d8650d704751db351e785e9e46f0f89c2db869da7559a53,Sheep|Pride
 Abyssal Kuudra,animals,87b90fd21f7aed8a04ccc01d3680f927cbe0dbc7c38b1ca1b217ea3d6416e244,Ocean|Glowing Eyes|PetPlugin|Figurine (Animal)|Hypixel (Skins)
+Abyssal Lantern Fish,animals,bae49e706bd6a367e6cdd6ea1f24895071601f87e49db4bb1ea4f53ba506f0fb,Fish|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
 Aggressive Panda,animals,5880e236494e7135db8ec45f64ba9249cadb94a5c1a7a5157f3e02b01bfdb0f6,Vanilla Mob|Angry Creature|Panda Bear
 Air Jellyfish,animals,b50d7a303d072428e7ea96a735f382bcc756622971b62f4e9ae4104471397792,Ocean|PetPlugin|Figurine (Animal)
 Albino Bat,animals,de1ceccca0f528d997e6b14a8e6c0b39d074c7920389cd2c783e3aa5eafc0bae,Halloween|Surprised Creature
@@ -7629,6 +7630,7 @@ Albino Grub,animals,bfe4d6aa60c1558b837eaa9d7eb057c3693bdd42d8060d224e2a91365be6
 Albino Rat,animals,fc51ab42025ad032fa853307b7c45b9d087c234b67204781c63973c81ce6f3ea,PetPlugin|Urban Wildlife|Figurine (Animal)|Rodent
 Albino Snake,animals,d5b8a41eb3c25a04d79f3e82e41505255de0db857a85533c2f568ebd8038df7e,Safari (Other)|Desert|PetPlugin|Urban Wildlife|Figurine (Animal)|Reptile
 Albino Snake (upside down),animals,16d28f2557fd713cf0e1b815f4d8988dc4a2af6e0f9e566887c8b4044e979962,Safari (Other)|Desert|PetPlugin|Rotated Entity|Urban Wildlife|Figurine (Animal)|Reptile
+Alien Bug,animals,8b941f4db1b163cb427f175f819ef81d34bd9b607f2c1dbf261eada6c7c629b9,Alien|Insect
 Alien Cat,animals,2207bed010cda3201462005d54ba757ec45f6eddfbed745411ebc09bd3739903,Cat (other)|Alien
 Alien Cat,animals,4d94544620bfda030e770549eebf080c77633c8504e9af7deb86dd2c15cdfe3b,Cat (other)|Alien
 Alien Cat,animals,c10e987677e91ea556fd13b2bd556286cbfb0e52293dc7c30584d0ea079b9f25,Cat (other)|Alien
@@ -7651,6 +7653,7 @@ Ammonite,animals,f1546d6a690ecf22a5a93812435ddacbbe9c278a02ea38039d938313344dba5
 Ammonite,animals,a074a7bd976fe6aba1624161793be547d54c835cf422243a851ba09d1e650553,Ocean|Prehistoric Creature|PetPlugin|Figurine (Animal)|Hypixel (Pets)
 Amy,animals,a9cfcdf793956a69ff04ac60cfde1ba10f4a647793c86354d3efda58ec6aef2a,Sonic the Hedgehog|Alice Band|Anthropomorphism
 Amy Rose,animals,75b4d224f7e4338a40a2e8c62ca4fe16fcafb158948da9c4269693c8870f8376,Sonic the Hedgehog|Headband|Anthropomorphism
+Ananke,animals,f38190c099877dbf4ac20e4e658f633ec499e56fac736d707fbf0c39bdf4a2e4,Bird|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
 Anemonae,animals,b5cafb8baf4ea3d04523126c1b7f128c358ff6f426a4b0ec3b815c178aa77f62,Armorstand Head|Ocean|Blossom
 Anemonae,animals,9feea374cbd4040b99d5b465448b12f4545112df8289d7500f4e2c79ae8eaabb,Armorstand Head|Ocean|Blossom
 Anemonae (sea tomato),animals,ab23e0aecd55ce3b6e8c39de5a59b0cb76f8cbce903ac820d608a0fecf5ed0b3,Armorstand Head|Ocean|Blossom
@@ -7756,6 +7759,7 @@ Armadillo,animals,c9c1e96ce985725e22ed6ccf0f4c4810c729a2538b97bda06faeb3b92799c8
 Armadillo,animals,4b0d7df60079ab2cb3adcd1ebce684d46fc687cc5909bee80e3161445229509,Desert|PetPlugin|Rotated Entity|Urban Wildlife|Figurine (Animal)
 Armadillo,animals,11e6a22de99193b0bf4912e9272cfe77ff2f0c08ed3c23dad6b738ebb3d89d,Desert|PetPlugin|Urban Wildlife|Figurine (Animal)
 Armadillo,animals,93f77aca158c205cafcda8cac5585ee21edb78d728b8e152b8b82a65fce12e,Desert
+Armadillo,animals,bc0412fe081058b67c70bae1a543b53a5feeeb34f6d7861f6e3487f077d0afad,Desert|PetPlugin|Figurine (Animal)|Tricky Trials Update|Hypixel (Attribute Shard)
 Armadillo,animals,d387cb74ca213b6477d876cdbd391a7a22cc6ca72a77d8c25538d86ede8b9,Desert|PetPlugin|Urban Wildlife|Figurine (Animal)
 Armadillo,animals,eec571326957e352bb04ca26fa1075bf6354d1c6ec950ae23746f68bd7aa0778,Desert|PetPlugin|Rotated Entity|Urban Wildlife|Figurine (Animal)
 Armadillo,animals,972e903e1781f12aa720d5b3f6702867bc77a0fe1682b32806dcaac29286812,Desert|PetPlugin|Figurine (Animal)|Hypixel (Skins)
@@ -7857,12 +7861,14 @@ Axolotl (blue),animals,7595819359c7ed9e979bd53a49b2861620232d6a87eed70687ccd0bf0
 Axolotl (blue),animals,f473a49513b06f3274624025f83324fef4116b5c431084671ded928f59d5a291,Vanilla Mob|PetPlugin|Caves and Cliffs Update|Axolotl|Figurine (Animal)
 Axolotl (blue),animals,300e28cd4dde9af7a99aeb12c235ff1d3bf6d7e966263bd91a7118b3dfeabcb6,Ocean|Vanilla Mob|River|Caves and Cliffs Update|Axolotl
 Axolotl (blue),animals,357b32c2933bebcd6502cbf406f7df996c8e46e7c6cbfefc5dcdc2fbf5bb54bb,Ocean|Vanilla Mob|River|Caves and Cliffs Update|Axolotl
+Axolotl (brown),animals,76ae1d9fe7b6ac50ea46541fa01d6ff75a236f2a337d84565e91878f2e79fede,Ocean|Vanilla Mob|River|Axolotl|Hypixel (Attribute Shard)
 Axolotl (brown),animals,4d7efe02012cf31ae2708e7d7df079726575c7ee8504328175fe544708187dce,Ocean|Vanilla Mob|River|Caves and Cliffs Update|Axolotl
 Axolotl (cyan),animals,1e8c70e6a56161ecdc6b75674070fb308714a2b2b70e1e6d76bc920ce6ce7de6,Ocean|Vanilla Mob|River|Caves and Cliffs Update|Axolotl
 Axolotl (cyan),animals,e1c2d0c3b96ad45b466388e028b247aafe36b26b12c411ecb72e9b50ea21e52c,Ocean|Vanilla Mob|River|Caves and Cliffs Update|Axolotl
 Axolotl (cyan),animals,d543bfa4ea2334667b6abfe40d852ecf55f8506a9c0c5ad8dd1e732f58d9c6c3,Ocean|Vanilla Mob|River|Caves and Cliffs Update|Axolotl
 Axolotl (gold),animals,7f80cc1492e44668cccdb40178c3a6689e8dfc0d234e98553fb7debc26fcaeac,Ocean|Vanilla Mob|River|Caves and Cliffs Update|Axolotl
 Axolotl (gold),animals,e17f8e58adf8e1c5ede450d2235cff612fc16c4b74490a0e7dbd5930b8c83e7f,Ocean|Vanilla Mob|River|Caves and Cliffs Update|Axolotl
+Axolotl (gold),animals,44235da7b3a0aacccdba3d8e13c61ecc874c7aefa49433903b8cf4374a9bf56a,Ocean|Vanilla Mob|River|Axolotl|Hypixel (Attribute Shard)
 Axolotl (gold),animals,405bea436985d1b759979c45f56b016486da10943dbf9480d38ea72141f10a81,Vanilla Mob|Axolotl
 Axolotl (grayed),animals,2760f7119626613848fbd5542afd47c294aa75ae7858d54b9a525597dcfb4770,Axolotl
 Axolotl (grayed),animals,aed550490bf04bc600067a78e10ea7ad056432184ce2c58d1d022053cf48dc12,Axolotl
@@ -8574,6 +8580,7 @@ Blue Collared Spotted Wolf,animals,9daa3fa82709982de2d8f9a983f6fb685a5cb0525ad39
 Blue Collared Stripped Wolf,animals,aa2b820cbc7bd67297fff967c9a2fea35e5da6f93f62a46c7291445bca773e29,Dog (vanilla)|Dog (wild)
 Blue Collared Woods Wolf,animals,45031dfe2c1824a09ec719cf2bd309fed34be34b8c53dc9b2b1a5cd955be103c,Dog (vanilla)|Dog (wild)
 Blue Cow,animals,81ed1e3df21b29f4087516900cb1db2f8c65cb99e2643ed331aa8ea61496516a,Cow|Sunglasses|Anthropomorphism
+Blue Crab,animals,e834e3aaf6b39eb937f70148057a00aba00c1610ff4ed9115d2ef9eea71effd1,Beach|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
 Blue Crimson Mosquito,animals,fc46841445210619500587796a6260a50d135875e9d8c09819061c816f879d67,Insect|Nether (inspired)|Alex Mobs
 Blue Crimson Mosquito (fly),animals,efcffcea8dc1d69ca4a121d4d328d4cb404a1dabd60f1a49950ae725f500e6ff,Insect|Nether (inspired)|Alex Mobs
 Blue Crystal Bee,animals,af3df0d49319586a4eed2e9ad024051e421db84b259a735d34993e19b616a56c,Bee Keeping|Gem|Insect|PetPlugin|Figurine (Animal)
@@ -8594,6 +8601,7 @@ Blue Frog,animals,51732a0275a015133523fce297937f60c18faab1387a7e6cff12c9b219831c
 Blue Frog (body),animals,a26cde944cb011aa10b829563ed011243134338ddd38a18d801eaf6595e6ef78,River|Swamp|Combined Heads|Frog
 Blue Hedgehog,animals,f036480bd06226a03fd8039c48efd0b270b26e64d3bc150b698574f9d66c5064,PetPlugin|Figurine (Animal)|Hypixel (Skins)
 Blue Hedgehog,animals,f3c502fea9234fdab507d663911d8ff3937be5da2a93db2c8c147c62da50c0b6,PetPlugin|Urban Wildlife|Figurine (Animal)
+Blue Jay,animals,5a8c405ca17f8a96d7a08814f02f0a7c72dcb0e3f6605fbbcd90e56cc1c28650,Bird|Hypixel (Attribute Shard)
 Blue Jay,animals,7cb935de0b69068a05e02f5de919c30d61d0d1df4bd13e36466ed37cdde3ed8d,Bird
 Blue Monkey,animals,f149063feaf89cf25e418be972204b48b15c0835a1c197d2704df0e0554623d,Primate
 Blue Mooshroom,animals,e511c65f5759183f771f61db8e2e9b72386813d0cc44ddd48108300b7a252c3c,Cow|Mushroom (Biome)
@@ -8620,6 +8628,7 @@ Blue Whale,animals,15426eb748ee45797a6c82599a28f75803703136d32541e63ed91cdff36f7
 Blue Whale,animals,dab779bbccc849f88273d844e8ca2f3a67a1699cb216c0a11b44326ce2cc20,Ocean|PetPlugin|Figurine (Animal)|Hypixel (Pets)
 Blue Wolf,animals,8822ab9ae49385097aa572e974144dc59d6bdce3fbfe1052240f98583285a737,Dog (wild)
 Bluebird,animals,fa8ac15f0f3a108ea67d4c17ec4627a0d4c25ea91d6deabfc17b280686358e71,Bird|Easter|PetPlugin|Figurine (Animal)
+Bluebird,animals,2bdb27b35a5eab52134a1a337ef518676415b9ed840183175d059bc157bea72b,Bird|Hypixel (Attribute Shard)
 Bluejay,animals,c0ae1ca12413bcb92962a78fc7e85ba334d7b67bbf380c88f34e3d1dfd174d01,Bird
 Bluestar,animals,3e5282be9a1a222746fc5ef2e2f41872fd15b9a22d819b1bda61af899e4cd4e2,Cat (other)|PetPlugin|Figurine (Animal)|Warrior Cats
 Bluey,animals,3f37a5fbdbf44cd8fa0b9a858b1c215403739fee08f5d9cf4d2672436a6a1848,Dog (other)|Bluey
@@ -9673,6 +9682,7 @@ Common Frog (silver),animals,fda657d40e29287cc1bc2d5d4541748db9928ae7e858e0d8055
 Common Moorhen Bird,animals,88ed7c6400a8e4d7d809007b86e9fa13ff6674e079ef4c0c7f5749cc6926c789,Bird|PetPlugin|Swamp|Figurine (Animal)
 Common Wood Pigeon,animals,9c7def4f8384b278e10c959e4bbe226ce7b38ad380c772b318fd10918b457f49,Bird|PetPlugin|Figurine (Animal)
 Computer Mouse,animals,844ad7013218fea41d1d50eb09609019829dde21260f9b96db7d0dcb9b407c1b,PetPlugin|Hypixel|Figurine (Animal)|Rodent|Computer
+Condor,animals,9e43e9be1a75b9b1b6e6000830ebe0a443876ba2214c0cb3d9485e8bb8b70a03,Bird|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
 Construction Penguin,animals,6a7b9b078986582de57dc5f4e26701aa9f407c2e7ab238cfbd9cfe08ef81022,Work Safety Helmet|Anthropomorphism|Penguin
 Construction Worker Fish,animals,caf237d09796c548a0d34a6ba8e6304df4e230f5d35e89931facaa9d0e1c066d,Fish|Pet Equipment|Work Safety Helmet|PetPlugin|Construction Site|Anthropomorphism|Figurine (Animal)
 Construction Worker Monkey,animals,b390d1c3012d8a3097665c18b11d452a6939463f94720a8362d859f5a6a354ae,Work Safety Helmet|Construction Site|Anthropomorphism|Primate
@@ -9866,6 +9876,7 @@ Crimson Mooshroom,animals,6fa286e15fd959befba9d5fa66cd335af52d54281086816ddf8a38
 Crimson Mosquito,animals,dfcde3d6f444cc05ce209c7b89f495173a1dfdd381252bb2a79c1f7e56b68012,Insect|Nether (inspired)|Alex Mobs
 Crimson Mosquito (fly),animals,1f4b8af2607413c7ce0ae6a8688b6123d15a05e33d2616c4deee0f1f9be65466,Insect|Nether (inspired)|Alex Mobs
 Crimson Mushling,animals,7613ac00f9b7b3fa5e2be3e13a29ebf3c87bf4cb195687c181a95fc0db97f247,Mushroom|PetPlugin|Neutral Creature|Nether (inspired)|Figurine (Other)
+Critterdex,animals,c1e3157115a3f206e5df5301e685ebb4a6a9627ebdaa09b21d500d85315485c4,PetPlugin|Hypixel|Figurine (Animal)
 Crocodile,animals,1f39d7e27a9baad67a13e8d647d90fe32ff1d03009949005a816b883f3304935,Safari (Other)|River|PetPlugin|Swamp|Figurine (Animal)|Reptile
 Crocodile,animals,6bf24d0bf0453422a0a5275b5a545059705309cd5c2da3a30f7191862b76d059,Safari (Other)|River|Reptile|Hypixel (Attribute Shard)
 Crocodile,animals,a8c06d21829cb4231f878934154a725d5dc335ef8cd5477ae7ac739a4fb5f18a,Safari (Other)|River|Reptile
@@ -10790,8 +10801,10 @@ Firestar,animals,ac1647d4dc0de25d06bf14f8bab9f5532afc67c3f32d6ca58874a27bba155ae
 Firestar,animals,f264d2551292a04b95af16f561602939c5c4b7ff3c97d3667d537ae1849109db,Cat (other)|PetPlugin|Figurine (Animal)|Warrior Cats
 Fish,animals,6cd80bcc468cdf4d3bf6a9079d75c1d20846d2444a2e8cc7b0e71bc9dc54ba25,Fish|Crazy Creature
 Fish,animals,bb83c58ef5631c3e70253426b58af1aa12717114e5abab99d3e3e03190a3eb05,Fish|PetPlugin|Figurine (Animal)
+Fish,animals,9a4293f2a8a7aaf2ff0fd5e88ef3f5349fd6594015d5f975862a2a9b5856b25a,Fish|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
 Fish,animals,6ac15a208b58d04f892e1d60fe83bfab9ad0b9cfc3103190224fa22464035089,Fish|PetPlugin|Angry Creature|Figurine (Animal)
 Fish,animals,2cc961bc8a6baf3178d734a94d0802c1db633d88fb2a4b100dfb54e13c3959f2,Fish|PetPlugin|Figurine (Animal)|Hypixel (Skins)
+Fish,animals,be5f2a38fbbe04af06ecc722b33647b6eed94e2b39be494140913783a03f4476,Fish|Glowing Eyes|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
 Fish,animals,ff0a6768469ad6e0ab024c3a525d481ea07f56a23de6a902bd8d8875fcc016c5,Fish|Skeptical Creature
 Fish,animals,2cd5f0a5d8eb17fff2a793042be422acbbaf4b89b081a3831718bc0e9c75abc8,Fish|Surprised Creature
 Fish,animals,49d0e833d9bda32f2d736d8c3c3be8b9b964addd59357c12263ffccb8b8dae,Fish|PetPlugin|Figurine (Animal)
@@ -10807,6 +10820,7 @@ Fish,animals,911e333b2edb2115e63b57eb27b44a2afb72955ccc5043b5c1f83bb6d8946b02,Fi
 Fish,animals,cec8ff5765d72ba6ea743938f033a46aa19af6119278fe227a7b6d6bdff19,Fish|PetPlugin|Figurine (Animal)
 Fish,animals,22fc9f78ce5991cbeff814202894f8ab2a4712e423ae37e2da25aaff2ac3b,Fish|PetPlugin|Figurine (Animal)
 Fish,animals,62e52b814625dc2ea4bd68262b4845383289c16389902580da460c3f24ec6bcc,Fish|Glowing Eyes|Anthropomorphism|Happy Creature
+Fish,animals,7b6b187df67414b5e922b34f0b0f7aa5801c31ac6e211234cef09fc6ec892628,Fish|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
 Fish,animals,3a7fe5a0b6c0d40c18084165d1f21b2c1d01276e0eb15944d5ad3b03de442,Fish|PetPlugin
 Fish,animals,2f4a8eb76efc01cc469637aff3a8cb902e8461b9231fea75f5ce34b375918679,Fish|Crazy Creature
 Fish,animals,9ccaf07dff1b3397600672936b90f19eb5549effd0c3f628a8ae559fe137206d,PetPlugin|Figurine (Animal)
@@ -10814,12 +10828,19 @@ Fish,animals,6f99b580d45a784e7a964e7d3b1f97cece74911173bd21c1d7c56acdc385ed5,Fis
 Fish,animals,155f7830efef19c91fb797b5116b299932f5335e2f7ff170b6dcf04d809f3e95,Fish
 Fish,animals,64382fc8bd3599f669aea4a4759b8083c219ef159e56c297a1a3461fb0cccbcd,Fish
 Fish,animals,ee421f83589ca51c0bb61428dd123a620ff948a0a63ffdd5c3ed5f4155ace608,Fish
+Fish,animals,f11eb51c44f20a6648679fe9ef9840decce43231a6aa2163f0b3a111b097ccc6,Emoji (Pufferfish)|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
+Fish,animals,bfc4684170032a02a94051dd130120bc383d23d8d29d5561ea9c0d375bd3e92,Fish|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
 Fish,animals,978d5d79384e12e56dc7546c9e50151713978445490783a5a07b6374d08ff084,Fish|PetPlugin|Hypixel (Fandom)|Figurine (Animal)
+Fish,animals,6f51dc48f14107235da406018762e8b319c1036c7858ab74599efb93d3af70ef,Fish|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
+Fish,animals,957b16a1fb82bafde0d7875641ad48dc80ee4b471574d5bf6a5a1e4c16c37555,Fish|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
+Fish,animals,7e9076ad276f7b16ea236dd9d287bdaee730b734f4498c1bba488827741c4208,Fish|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
 Fish,animals,c9ded36a0bd5fb67b26d019e6efe79b77935a89e27c3c3030e3095c0872dfc,Fish|PetPlugin|Figurine (Animal)
+Fish,animals,c5c024aeec1c8dc98f2b42add5b0f020788c3f980dff5e863636761e60c5effe,Fish|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
 Fish,animals,832b89b70cf3a1725e5fed89a7b029db82e994d9fa080bc1e5d77b0c86ca34be,Fish|PetPlugin|Figurine (Animal)
 Fish,animals,7b72fb5a3842c7c203984531d2722fa912fde026c8529d33f7113eacfd8a604d,Fish|PetPlugin|Figurine (Animal)
 Fish,animals,7815cf13a8d7fd5acc448e8e7fb17c74d17ff758ac9a992b2695d6048723ffaf,Fish|Vanilla Mob|PetPlugin|Vanilla (removed)|Figurine (Animal)
 Fish,animals,afb849463dcb35acf1d88287606a13a17efe6697ee4c88fda072591beda60d2a,Fish|PetPlugin|Figurine (Animal)|Hypixel (Skins)
+Fish,animals,dc7590766e9370e9e6f2b998a34e93315d8d334eafc0f7e3894b9061d9e5c6d7,Fish|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
 Fish,animals,40cd71fbbbbb66c7baf7881f415c64fa84f6504958a57ccdb8589252647ea,Fish|PetPlugin|Figurine (Animal)|Hypixel (Pets)
 Fish (blue),animals,221253df5d455aa3e8de80a0a1b6c29dc9893089762156ee6b2b48c40adc521c,Fish|PetPlugin|Figurine (Animal)
 Fish (blue),animals,56d69eeffce752e080d1fc0ebfba55ef89b3a6bcb2ef0669ef45a0fede9ca743,Fish|PetPlugin|Figurine (Animal)
@@ -11281,9 +11302,12 @@ Frozen Clownfish,animals,98560deaf97349485389bba8be379d899853291885d73359a868597
 Frozen Cod,animals,936370410d7fc4ead93583ed5b36850303f96c4778d6c9f83b4cf2b9d7e61bee,Fish|Transparent Head|Frozen Block Entity
 Frozen Cow,animals,52dd02dbb4f3f789c7b438ed6b292b4af9eac1bf60c785d5aef38c3dfc01b81e,Cow|Transparent Head|Frozen Block Entity
 Frozen Creature,animals,80068645ada0e4118e94e9010ca6cada90d5ff2ad9745cb5f7be1680e494d599,Winter
+Frozen Dolphin,animals,560883fd8f9b5e8f421a3a8b0918ac0dd7e6a3dedb31a3b288327d6da896c0c9,Ocean|Winter|Hypixel (Attribute Shard)
 Frozen Dolphin,animals,1ee1f79cd9ebcf32dfd6a3f3f081563e406a34e34d0ae1679c0331f3f3a0b27b,Ocean|Vanilla Mob|Transparent Head|Frozen Block Entity
 Frozen Fish,animals,ddd79afb35ac7016416d904c2d63975837d56de65880b8918c46ac21a74ae539,Fish|Transparent Head|Frozen Block Entity
 Frozen Fox,animals,ac52f75da8a50e9e893324e05d616ac5ddbee032b0bfa52c431f1a66bc720f36,Transparent Head|Fox|Frozen Block Entity
+Frozen Glowsquid,animals,5a4dfb0b6ca7ea12ebf406c29101cce6187fb8fadfe4e82664a225f4574e29e9,Ocean|Winter|Hypixel (Attribute Shard)
+Frozen Goat,animals,f1978b0e77b2a66e4a9420ddf1fc3911381ec7b2cd960074545f4926a9d50dfb,Winter|Sheep|Horns|Hypixel (Attribute Shard)
 Frozen Grub,animals,c18c2990ab5571654e51381769288c0ee8e316f88baeeb95966ee296d6b9280c,Insect|PetPlugin|Hypixel|Figurine (Animal)
 Frozen Lion,animals,93a898bae00cc65655527f55947b08f61a0900c8ae40faa627e701b42f218fb2,Snow Fight|Cat (wild)
 Frozen Mooshroom,animals,70ee180663400acd8e69dc6c310319cdd6b45afb99d35cc1351cb2da0eda2872,Cow|Transparent Head|Mushroom (Biome)|Frozen Block Entity
@@ -11331,6 +11355,7 @@ Galaxy Bee,animals,78a662778386ee2bce1bcb5ff26908da9392094d8995a80f490520ff71599
 Galaxy Cat,animals,9f7ddb948eea73c3812bb37f7f6f68e33ba8b20f269b08e7063969b94a535461,Cat (other)|Space Travel
 Galaxy Cow,animals,4186473e80bb357b353da22048bfef13b0b3812707798abaab50812eafc31c7d,Cow|Space Travel|Hypixel (NPC)
 Galaxy Doge,animals,d4a558ad1bb5b7e87198919c8e4f9a249101e814f493b559cb2d672f57c11dc,Meme (Doge)
+Galaxy Fish,animals,3c9285e8e922e1a3cbb91f712f35c6492b0019b38504fc6063e7b614aaf35d7b,Fish|Alien|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
 Galaxy Horse,animals,2786dec5ea79d57e73f1d2739f751c3e9eb856f5d7d6aefb1ea93c0b4a0fc618,Horse|Space Travel
 Galaxy Panda,animals,c05a3a71ec1f0cd0cc2c0fbdfb3425e4d2822d63a05c4f583f557189480a5db5,Space Travel|Panda Bear
 Galaxy Parrot,animals,ca864a854f12128bf2b8845f04256425cb4b0b17ecc44fcd5cdb42a91b1c211e,Bird|Space Travel|Hypixel (Skins)
@@ -11413,6 +11438,7 @@ Gex the Gecko,animals,14ba72e10f624bce4af92edd6be3dfae2b7351f912ee747645e7eb37a4
 Ghost Bee,animals,282ebc0883deb2931b10ead52d0e43d2187d0756a60d95d17ce0197236c41969,Bee Keeping|PetPlugin|Ghost|Figurine (Animal)
 Ghost Bee,animals,35edd4836a28e74109f6a168b5404c2436902656cf314e04dc339182d628368c,Bee Keeping|PetPlugin|Ghost|Figurine (Animal)
 Ghost Cat,animals,cad618f86365042f1df4fe0ffffa83025d081ed1b697e949061edbde67d42763,Cat (other)|Ghost
+Ghost Crab,animals,bfa2a6201e4006617407613bc888e4e130e39c0134577d848bb6475624788c63,Beach|PetPlugin|Ghost|Figurine (Animal)|Hypixel (Attribute Shard)
 Ghost Dog,animals,61f2d80b2abb588ceeb6915a7abfcd5283edc6b076df8b6932feec2e94f03e,Dog (other)|Glowing Eyes|Ghost|Anthropomorphism|Hood in the Neck
 Ghost Doge,animals,94ef94b5e4b886bda3db818326bd591576deba28b0dc9e9446f5b97301ec10ac,Ghost|Meme (Doge)
 Ghost Ducky,animals,bb06b18d3dfedab44466e0a74e155a8f217872040a085520a5a0f30e8cd1885c,Bird|PetPlugin|Ghost|Figurine (Animal)
@@ -11425,6 +11451,7 @@ Ghost Rat,animals,9b36dbe45844cbce49b28f8d322d3107f6b56b2dd0d1d77fe23b7e79f645ba
 Ghost Rat,animals,1433a2c29fd1cd479b2c3be85bc2297afd476237b5c862d22815c75f2af7a8e6,PetPlugin|Ghost|Urban Wildlife|Figurine (Animal)|Rodent
 Ghost Rat,animals,736ee51f61cd50eac8f171a61dff61d0c0908718e254afe17cae254fcbacea0f,PetPlugin|Ghost|Urban Wildlife|Figurine (Animal)|Rodent
 Giant Isopod,animals,3fcb203b029aac4958407daf4072a01a353105162373ce7e559c669d78325bcb,Ocean|Insect|PetPlugin|Figurine (Animal)|Hypixel (NPC)|Hypixel (Attribute Shard)
+Giant Water Bug,animals,91044c8039247b1421081bc5f0dd15cc5cca66fc255cbcb19d2f257e59e9380a,Insect|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
 Gilded Wolf,animals,be0a389b445d91caedd69baeb54f5902515c2eaa51c6ff629c4d947c9b38b161,Treasure|Dog (wild)
 Gilded Wolf,animals,b3ddd5625d457299a48e54bfaedfdbd770af05c5c60b6accf46d172ff700c691,Dog (wild)
 Gimmiegold,animals,8b329e108ac28b0bec8d47b7cdce253df1db80b46052b5915d963e1bcbab0db4,Fish|PetPlugin|Figurine (Animal)|Hypixel (NPC)|Hypixel (Attribute Shard)
@@ -11522,6 +11549,7 @@ Goat,animals,d416a38c72026361098cbc5ea15a9a8f38ec6e6ee4939f47fc2d8c7552e02ccc,Sh
 Goat,animals,7c09ba5831b64144a4ea874823f81b500a5afb0a297c3f699aed6eb1697882e4,Who is this?|Sheep|Horns|Blushing Creature
 Goat,animals,fb1c1fe79946a3d2ddfdd5e326fe7842c53025a0780d56c039b632810f21eb46,Sheep|Horns
 Goat,animals,f9de653ee159951a117cc783372d3ee4179ac2043ce1f894447003ccfd01c15f,Sheep|Horns
+Goat,animals,fb4ddfe6b8b5cfb03be6a173bbb7dfc4ad5dc9b7fd34dc8e84fa7f71c1b85a01,Vanilla Mob|Sheep|Horns|Caves and Cliffs Update|Hypixel (Attribute Shard)
 Goat,animals,ad17f3dab01badfde7056dbf08c2f1b4d92ed23ceb613cab45b8c7c5294f8e09,Vanilla Mob|Sheep|Horns|Caves and Cliffs Update
 Goat,animals,b5e3ac5dc1cfaf5e207469ae88a89394d702cc87b35bb2c1e7650ae3acddb50a,Sheep|Horns
 Goat,animals,8cf02d02212a7af35fcb3a483f375539578844957fe8cfdcdf5029076fa1e736,Sheep|Horns
@@ -11544,6 +11572,7 @@ Goat Without Horns,animals,ee741bc3031b83c074a4c7b5449db43e9a22190241a9a57564f83
 Goat with Visor,animals,9315744117077c5ec50f78246757b90341f4f71ea759ac29ba127c919ac34d50,Sheep|Horns|Anthropomorphism|Goggles
 Goblin Squid,animals,c164fe93349e7db8e733226523baa6d117110e53d30f8c2eb23b97a720523be7,Ocean|Fairy Tales|PetPlugin|Figurine (Animal)|Hypixel (Skins)
 Gold Axolotl,animals,3a6534c32ab856028558478115d904d52f5f154d80ecb903b866b19099a25e46,Ocean|Vanilla Mob|River|Caves and Cliffs Update|Axolotl
+Gold Fish,animals,8df68a1ca8569f7036cb3549a0392b521d8348bcb0b25a0cbe81b7725fc65959,Fish|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
 Gold Llama,animals,e75def9787f8abbb8f2f1893221340080e594544dcae55f058b6d33062ba0268,Bust|Llama
 Gold Macaw,animals,5dad34650f8d1c6afbfd979b38d7e1412e636215b8f85240e06d998278879b8b,Bird|Hypixel (Skins)
 Gold Magmafish,animals,5324eda6af85e50f35180607341728ff90faea1465be57a6242c6dea63aa3f28,Fish|PetPlugin|Hypixel|Figurine (Animal)|Nether (inspired)
@@ -11633,6 +11662,7 @@ Gray Snail (down),animals,7d867b884701d3a58b1d05b7bbf69a8bc6134eecf759b455213d50
 Gray Snail (up),animals,ba8d8e1daa2836f4ba95e4e7dc2304bd23b352bd524b71db320b9b56d836e2e7,Rotated Entity|Urban Wildlife
 Gray Trader Llama,animals,20fdfa60c624fb667c8313b2fb1dab40e0ad2e6e469b567bf596ad26392319c5,Vanilla Mob|Llama
 Great GatsBee,animals,a1235c3dececec89f37f25abbefa227ec3a4fe73e03be9361ed473301b4e0d7b,Bee Keeping|PetPlugin|Figurine (Animal)|Hypixel (Skins)
+Great White Shark,animals,ee3071d26f23cf8991c086ccbce61e798999dc6aa701bf488ebfb60410492f4b,Hypixel (NPC)|Hypixel (Skins)|Shark
 Great White Shark,animals,4d895e439c3824a3fdc3e48420232736d87ee4af4d30baebac00b453c7095624,Shark
 Great White Shark,animals,925a0a25081d02e932915b1dddc13843eee8df9df74260f256dd78293f73d103,Hypixel (NPC)|Hypixel (Skins)|Shark
 Greek Sheep,animals,5e47b7b50d16c3749e82cd8336d93953d14f78133279e3d15f92e99182bf4af7,Floral Ribbon|Greek Mythology|Sheep|Anthropomorphism
@@ -11749,6 +11779,7 @@ Harambe,animals,f12a13dcfa9f33495798b7d8685422ea8a9a7a31fecdb6e8ac72d77c8c3a1ee,
 Harambe,animals,77c0ed931cac815d9ee053a1983e8719b122f2a852b2fa5bfe525de8d1a7,Celebrities|Meme|Primate
 Hariet Broodal,animals,e02957c26a76b3817cb789a567af7dddad9def0005a4f8a0969c15dfdd0ba6af,Female|Super Mario|Hair (golden)|Hat|Anthropomorphism
 Hatching Duck,animals,a63269f9962940a5e7ea0dc68124b680acc32201460fd7d1d4c3cb72e27ae4c3,PetPlugin|Figurine (Animal)|Duck
+Hawk,animals,f202164427ad2dadf175e3fd8c81335a30b2c7e1d5e2f93a57b81570d1c461db,Bird|Hypixel (Attribute Shard)
 Hawk,animals,1b43c76c234c56adb3afd476a57a62bb16f43d87bc17ba68f6ecabe62be4b8c7,Bird
 Hawk,animals,8c54c8eb92ddfdfd1436f0686e64c4e4f63003b64b570665e3002b78565baddf,Bird
 Hawk,animals,6e8be7d324b3a3bf5356f7a80ad982f04b8b39cffc05e548834d00e0513422bf,Bird
@@ -11839,6 +11870,7 @@ Hermit Crab in a Soup Can,animals,e74f384906e33c4a62ee35df8013ed0b007eb08b204740
 Hero Rat,animals,6f89e44aba2d4b30041b44a2583469fe4b5afe203bac3e4da1dc2d338a2743da,Comic Helmet|Anthropomorphism|Rodent
 Herobrine Doge,animals,44f452d998eabac4642c6b0fe5a8f4e2e673edcae2a6dfd9e6a2e86e786edac0,Glowing Eyes|Herobrine|Meme (Doge)
 Herobrine Pufferfish,animals,53fc0c186f6afabb1b40091584e4373a5b68f7a33ff3529deb99677baaa3cb1c,Fish|Meme|Glowing Eyes|Herobrine
+Heron,animals,2ee53b7626a836d26d7ddca5f0c2b0dd87519a84769cf3500d01a3c6eca0a69c,Bird|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
 Herring Gull,animals,42a93868066f9ab7fae1c5a94a7b4c55e00281d070783cf133779b2f8bce946b,Bird|Beach|PetPlugin|Figurine (Animal)
 High Explosive Sheep,animals,d36bb7a352e7c45235eb1cfb25b66385c97031b695893198716ec519148a3fe8,Explosive|PetPlugin|Sheep|Hypixel|Figurine (Animal)
 Highland Cow,animals,62def25139cb9ae02cbd8e608617c9ade4e3043106e498a70a5c0c36d44b54a7,Cow|Horns|Flower in the Hair|Anthropomorphism
@@ -12004,6 +12036,7 @@ Ice Phoenix,animals,12582057e52d0f7fffd1a1f93acf196db5f09b76f1ba3ede28476cc4cd82
 Ice Sheep,animals,1d3ceb4e52ecd82a2fde677a2cc6e146795519d7a53888c8352182e459d55121,Winter|Sheep
 Iguana,animals,a20d5d637f3c5887c3fcb2f608f784c3c9e6a42d6cb8f31aed7134142a1fa84d,Reptile
 Indian Elephant,animals,697ee57f920fc31afa24da3cdf91059f6dcebbf6bd3f9d3084505f0ac2942fe8,Safari (Other)|Hypixel (Skins)
+Inferno Koi,animals,ad6e0b20580cb0673858ce820be34b54d5d464719b29b3f9974263511b0ad755,Fish|Hell|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
 Injured Cat,animals,cd714101350b2048645102424e761d583eb0e77f95e58fb77d27f458b493273a,Injuries|Cat (other)
 Injured Polar Bear,animals,6b3109a490ad3c8891fb2cabedb031b1c8052efa1c57d33e7fda4f400342fec4,Injuries|Polar Bear
 Injured Pufferfish,animals,8ab7cec2511ab2d971deea629337425ade3be637c2a39783676e2553b23dd7a0,Fish|Injuries|Emoji (Pufferfish)|PetPlugin|Decaying (creature)
@@ -12046,6 +12079,7 @@ Jellyfish,animals,e9efe9a1d47eb0aba6cf86ebd4fce83e44e0feec1f60caa4bf8b7ce3b41139
 Jellyfish,animals,d252af16db32d144912109ad90f3f64b293dd1d239af1c4ce3c5bca8e58af533,Ocean|Spongebob Squarepants|PetPlugin|Figurine (Animal)
 Jellyfish,animals,6261728192b7d596d0e7db86b933ceac26d0c850206e749cfcea8663593271c3,Ocean|PetPlugin|Figurine (Animal)
 Jellyfish,animals,23de48a84668a3619187da196e777f931f7554849e8f243897ac83c8ad61,Ocean|Summer|Beach|PetPlugin|Figurine (Animal)
+Jellyfish,animals,538a963bd073229d8148f9edadc5cd1841a1e151e75994ec04af231722610b1c,Ocean|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
 Jellyfish,animals,913f086ccb56323f238ba3489ff2a1a34c0fdceeafc483acff0e5488cfd6c2f1,Ocean|Summer|Beach|PetPlugin|Hypixel (Pets)
 Jellyfish,animals,4d0526002af498241f4355cbdd96f76248c4a36acd930be955fcce1d311bd760,Ocean|PetPlugin|Figurine (Animal)
 Jellyfish (black),animals,525242ef3705672b985695d6c9b0c67cf235c428e2a97ebf365e879d26c8aa13,Ocean|PetPlugin|Figurine (Animal)
@@ -12679,6 +12713,7 @@ Mole Miner,animals,6cdea45bc21c37c7b768fa382130c3849f83eb51f6ef9d05b3d9010feecd5
 Mole Rat,animals,23f3f3ac5e41c0982e82986490b623f49c6b9334136e62566c1b8a2b132947c6,Safari (Other)|Rodent
 Mole in Pineapple,animals,50a8cf22b77e514217e9f8506d11029a91bf7942d5e27794b43a4503c53deea,Fruit|Summer|Blushing Creature|Rodent
 Mollusks,animals,435f70fc2c313f68e7cd40d2d5243fac48a230787bf9e0e15586cde76b13ab4,Ocean|Summer|Beach|PetPlugin|Conquest Resource Pack|Figurine (Animal)
+Moltenfish,animals,b403ea1ab4359a775bf6161c3c39fe8cd8b331893e9c936cab77fe5b7651d066,Fish|Hell|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
 Momo,animals,8a7e741c4a04d8e1be42e57bb9fd13f2f289b65d414d3de71a60351213a6c4f0,Cat (other)|Mascot
 Momo,animals,794cc85dd0ed321e35714c5d9f7c90ad485dcdd8da8319b4ed66236f37dcc1c8,Avatar: The last Airbender|Surprised Creature
 Momo (Google Doodle),animals,95731ba0b94f921d63c705677fb1b99e4d713579234c93b67325e2736356270b,Cat (other)|Mascot
@@ -12854,6 +12889,7 @@ Mooshroom Cow,animals,2ededca505a77fbd392a1ed5be43a46ebbb474c0913359b73b434af933
 Mooshroom Cow,animals,2b52841f2fd589e0bc84cbabf9e1c27cb70cac98f8d6b3dd065e55a4dcb70d77,Vanilla Mob|Cow|Horns|Hypixel (Pets)|Mushroom (Biome)
 Mooshroom Pilot,animals,88887e29f8003e7f3d3ee48d83acf0a8e3cf0d86e4d7ebce9fa98e2f47918e6d,Steampunk|Cow|Anthropomorphism|Goggles|Mushroom (Biome)
 Mooshroom with Hat,animals,68e327f0eabafaeb81c4d1d04ef6e0eb4eb905353bad310bc0e094fe6d40c4fe,Hat|Cow|Anthropomorphism|Mushroom (Biome)
+Moray Eel,animals,f94e157cb088e6b31ca21c743ad8ec90115678c50e2eb3f4f7942735108a7331,Ocean|Hypixel (Attribute Shard)
 Mordecai,animals,cd63860bcdb38b277b32f92fdc46f20924b3905b0d9b3eef21eb99af317526c4,Bird|Regular Show
 Mordecai,animals,818ef8555d076803413122b8c8f0c0ea3139901bd918388969193bbeccb34bdf,Bird|Regular Show|Neutral Creature
 Mosquito,animals,e30ac1f9c649c99cd60e4bfa5336cc1850f273eab9f5b0b7940d4d4d7dc825dc,Summer|Insect|PetPlugin|Figurine (Animal)
@@ -12999,6 +13035,7 @@ Naruto Garfield,animals,4d52ab54e76fac06e8b482ef65a54b8930e6b20738df13f9de49a87b
 Narwhal,animals,c6b25622cf7c7185ffaacc17843b5ab896efb3770ec40954ce5f35a1ddd51e39,Ocean
 Nautilus,animals,b53d63eb175b00fb35285f4330d0be68a0713db94e00e6fdd85832d41e3a08b,Ocean|PetPlugin|Figurine (Animal)|Mounts of Mayhem
 Nautilus,animals,32805e4a7982e706ebd2ea6c8209402cd7c1cf9cc08b7aace3a8af7718cca7dc,Ocean|Summer|Beach|PetPlugin|Figurine (Animal)
+Nautilus,animals,18ddf45f2a16e662c667541422cbbd944398b1a90c500b03308b1c99c10003d3,Ocean|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
 Nautilus,animals,3bb340dd3302615348de5162fe1670b9c5c9c616cd92d2de9d8398cb33e842ae,Ocean|PetPlugin|Figurine (Animal)|Mounts of Mayhem
 Nautilus Monster,animals,2417f96556838bd75c611adc3760f297e92ddbb41981ab0ff77626311895a6c6,Ocean|PetPlugin|Figurine (Animal)
 Nejima Kitsune,animals,232cf0a1b6d7428da763326f39e6708d73c6fe5929446a29e148dfdafae66e6b,Toy|PetPlugin|Fox|Figurine (Animal)|Hololive (JP 1st Generation)|Hololive
@@ -13328,6 +13365,7 @@ Panda on a Log,animals,67a5b3d568b469d11a4e111aedf8136a1477f6853fd17f9844c9a5a2b
 Pansexual Sheep,animals,cadb3aba2a8e203b35a96cbc97e499e5c6ccbae5639a26a2f42d61aaa357316e,Sheep|Pride
 Panther (black),animals,98bf21293ba112d9e773d0a7c73e5855eb92ebec1144fcf5c8af336bee6b66a8,Hypixel (Skins)|Cat (wild)
 Panther (white),animals,4d1d1f17b06b778e09ea911f90564608da943eca3df4c171a160444a9f73107e,Hypixel (Skins)|Cat (wild)
+Parakeet,animals,7f39c3cd96772c4eed3ccb5dd0fcd1fc9664a92f5b22283ae05aaaebaf77f254,Bird|Hypixel (Attribute Shard)
 Parakeet,animals,7b50c614febe21f9c0b84f8caaf46deb46f149e2bd3c036079621ed58062a28a,Bird|Blushing Creature
 Parakeet (blue),animals,1778994ba8617c5f8900b3d14a8e2c5e371619b6f892e41d3ccdd31db4bf6569,Bird|PetPlugin
 Parakeet (green),animals,e841c518b42b5daa54d216525b5d5ea0965190a9188866f3c71c6734d6d7b347,Bird|PetPlugin
@@ -13796,6 +13834,7 @@ Pokemon Trainer Doge,animals,57aa830aba49960d207e65e52088c1d89ed05f42bcf956627e3
 Pokobee,animals,38d1e8bd553ad7c8559327561fb9e0087a98088cabc33e40c40f950a3bde58a1,Japan|PetPlugin|Anthropomorphism|Figurine (Animal)|Hololive (JP 6th Generation)|Hololive
 Polar Bear,animals,d9224ce0309ef67c7cdc9550ebb174f7a80a64c050586119a1e3633f20d39d5e,Anthropomorphism|Cap (Winter)|Polar Bear
 Polar Bear,animals,f0701bdf3b88f6e1d7c6e59ca2a3e27ed070d6fb3bc68057f3c12d548d1298f,Polar Bear
+Polar Bear,animals,941458db27210e8905795b0f3368015cd0f27f688fb0a14f58b7a447079aed8f,Vanilla Mob|Polar Bear|Hypixel (Attribute Shard)
 Polar Bear,animals,7611a22703fb56ffb20e7259bd7ab164c0a4256da1df23828797b05e2bf0a645,Hat|Anthropomorphism|Polar Bear
 Polar Bear,animals,6ef6791e7521e678bdb80f25ba2edac6ad5936a92bb9a1aab8ec280b21dc7e4a,Anthropomorphism|Cap (Winter)|Polar Bear
 Polar Bear,animals,224ae94ef5625732b152e900083c3b398fde97b42264a81f99b999d97912a790,Polar Bear
@@ -14607,6 +14646,7 @@ Sad Duolingo Bird,animals,a746d4623abaab0b4c131372ab3991cf04e11df6a5374a5eddc263
 Saddled Strider,animals,d95fb93c887c3b3e243d753f68e41653002b047f96d8e07154bf0e1d80e0c75a,Vanilla Mob|PetPlugin|Nether (vanilla)|Strider|Figurine (Animal)
 Saddled Strider (cold),animals,2f5692d0843b2e52f0c9366a0c222fe48009e08ad2a80bb166edf6b3283ee880,Vanilla Mob|PetPlugin|Nether (vanilla)|Strider|Figurine (Animal)
 Saddled Zombie Horse Baby,animals,6c0750bd82feb142be19a87149ec130c8401e9a58898415c7f09082579f3ab54,Horse|Zombie (Vanilla)|Fix Head|PetPlugin|Figurine (Animal)
+Sailfish,animals,5d75ee062041cb61a673f0ffc215f2d4be27ed45e039666351bbbaf3310e2126,Fish|PetPlugin|Figurine (Animal)
 Saiyan Ape,animals,f63554e2bb4770a1db310930b73a4b5ce15a8ad2e58d52ef88b6fdd572fbb7c8,Dragon Ball|Glowing Eyes|Primate
 Sakura,animals,bee11a5a1cdbba5c09d4c7db19b8f06789e72e5243a5405b489f11b1cc047d03,Who is this?|Ribbon|Anthropomorphism|Dog (wild)
 Sakura Sheep,animals,8cd863ed3ea0670006ba33dc58ed4d92e14eaebbd937c121118961b01193baee,Sheep
@@ -14615,6 +14655,7 @@ Salamander,animals,ba3bb2f7be01fdadaedee8cd46bc56beb8584d9fbf5515b853b457370c620
 Salamander,animals,6fab6010619bfe76f4e62b82b9cfaf6e3b3c1607fd22798871f20ddd98744,Reptile
 Salamander,animals,2dc45f89f987eacf39c0aa63cac0f365a20376a507ed21344882565d00da4054,Reptile
 Salamander,animals,a1a10a14cffc6d07e7f93e44512ec998c1f0bb211f9eb430163fcaf751262bdc,Reptile|Hypixel (Attribute Shard)
+Sallow Sailfish,animals,c75576635f97c01f3ca6250b1887d29ff41c7af48a827a11ff523819cf0a6f77,Fish|Glowing Eyes|PetPlugin|Figurine (Animal)
 Sally Acorn,animals,4bc01c3945224613f3491a37881d22d2f42b2c881e8399b9fa2c25d260790ecf,Sonic the Hedgehog|Hair (red)
 Salmon,animals,8aeb21a25e46806ce8537fbd6668281cf176ceafe95af90e94a5fd84924878,Fish|Vanilla Mob|Vanilla Item|PetPlugin|Figurine (Animal)
 Salmon,animals,afbdf10317a7a6315c3cbaf7edc590f0d97714bd699c8615a24f72bb8a9bc,Fish|Vanilla Mob|Vanilla Item|PetPlugin|Figurine (Animal)
@@ -14666,6 +14707,7 @@ Scar,animals,6cbb80626cce66a4922f422bff47a41a337d1c7f3e0cabe915237b78043836e,Lio
 Scared Chick,animals,babc5d38cf742ea07f023535d491c23882b058c9face4a81b0d138fa0f5fd5c0,Chicken|Surprised Creature
 Scared Moth,animals,b429b73dcb1f6c1ffebe2dbf2ca0dd0f977cb51e4da99e18a9164a36ec19fa33,Insect|Surprised Creature
 Scarf Mouse,animals,a7160c628876a5285cb9b796c183de63c20c974058458cc20515c3dfeff22880,Undertale|Scarf|Anthropomorphism|Rodent
+Scarlet Macaw,animals,ad7acbd9cd6fd6ec75ebe2e7c2b42d4bb0dedf9fbbd3c6f5a2a933db3870e0d3,Bird|Hypixel (Attribute Shard)
 Scary Hippo,animals,ebbdb0698fd5948f2e43b0dc1b64f31aaaf94f1327c6e25bb0191db0fe85a8a8,Safari (Other)|Tooth Gap|Angry Creature
 Scattered Aries,animals,adf8071da82ebf44f72e81935a7daf7d3d0af1e303aab4a3a320fce91a4dd9e5,Fancy Cube|Sheep|Horns
 Scattered Aries,animals,577b3bef67cad3757d77eeab7ab31b4633b7c4a45730d0b19d127d3e681b116f,Fancy Cube|Sheep|Horns
@@ -14729,6 +14771,7 @@ Seagull,animals,bcba34ab9ee28f3553a47a056f4ae2799d552fc419959c5d861210cb4d2182d2
 Seagull,animals,bdd2065d98ac92d66245e7dc24ba746c2bdc0dbf3fa0a45990e0d7babeab4874,Bird|Beach
 Seagull on a Log,animals,8ab84192a00e200f3496dd2da7377caa4f8f6c1230d480aae098dacebc4e6a54,Wood|Bird|Ocean|Summer|Beach
 Seahorse,animals,5f2401738f95ee7bae4810aeec9c826b73c397bc4378c4bbc8ca1163bec17b73,Horse|Ocean
+Seal,animals,ccec51fc1a3a3ccbbec87d34a8c59c7f51404ca4a558c20354eb4eb2593b6710,Ocean|Winter|Happy Creature|Hypixel (Skins)
 Seal,animals,3a7728bbf6f53f6c1e3b121778e2c2175f6c27032dbd9a5fb3a0d8747e104f67,Ocean|Winter|Hypixel (Pets)
 Seal,animals,36e23c51a146c9fd928e99d0e06ea4df4c32f68f5f7ec73d2b2330297c0c18c5,Ocean|Winter|Hypixel (Skins)
 Seal,animals,ae79abf1b52e47072fe5848473ee1399fe32487879c2da3b1f5cbe07693ad54b,Ocean|Winter|Hypixel (Pet Items)
@@ -14781,6 +14824,7 @@ Shark (lime),animals,a0888a3ec750f85b57263e89ec51190342d1bf9a8dc529bb564110a9786
 Shark (pastel),animals,eb81aec4f294a70cd85373807d14c6ed1aaae60a191b588bcb80f68e1e4dbe00,Hypixel (NPC)|Hypixel (Skins)|Shark
 Shark (portal),animals,f83cff1ad6a8d81be031982d1344b9c43c54398b777342398c94481193a371ae,Hypixel (NPC)|Hypixel (Skins)|Shark
 Shark (purple),animals,c74ba13baa5f772b6b230c4c3a9e6cf4fff31248d99d7972d804991010fb508f,Hypixel (NPC)|Hypixel (Skins)|Shark
+Shark (purple),animals,2e25da46c188e78ba83020d2d0e02773785af06508caa1c232b338ce1a207027,Hypixel (NPC)|Hypixel (Skins)|Shark
 Shark (red),animals,7770e55c87efaabeca8529a2f94e0ac0cc780b4c795d74ccce0c3a26ad7c9c1a,Hypixel (NPC)|Hypixel (Skins)|Shark
 Shark (rose),animals,86c229663b6450753274876e1bd78a896cb8ec40f87b0d8c35f68ed1b4c12250,Hypixel (NPC)|Hypixel (Skins)|Shark
 Shark (toxic),animals,94a39aa13b76420998dedd0fcfcc859ae340e7a9dbefcf8e0635e798e951737,Hypixel (NPC)|Nuclear Fallout|Hypixel (Skins)|Shark
@@ -15118,6 +15162,7 @@ Sneezing Baby Llama,animals,37b526fc01187f08d191fd7cf9a609f21c035fc39099837c556e
 Sniffer,animals,3d6c9f43510cb90d24493e07b7cf8ca9f54132d09a257f20b7048022e3b1b707,Vanilla Mob|Trails and Tales|Hypixel (Attribute Shard)
 Sniffer,animals,87ad920a66e38cc3426a5bff084667e8772116915e298098567c139f222e2c42,Vanilla Mob|Trails and Tales
 Sniffer,animals,901e60d798cdd5899b0a28adf2f29074680d121040f8d8f9d89bf3d1e892e363,Vanilla Mob|Trails and Tales
+Sniffer,animals,6f1a3e699081d63df71c5cb1fa0cd4357935d80c69e07f12f18108931ffc64ef,Vanilla Mob|Trails and Tales|Hypixel (Attribute Shard)
 Sniffer,animals,200786297691a1e3e10d7bc03df87fc2a2391a59428ff4faab79381935f245eb,Vanilla Mob|PetPlugin|Figurine (Animal)|Trails and Tales
 Sniffer,animals,2553fe9867a46dbb0953aff93da8c68437766ea98b19c429f1d76535fa020332,Vanilla Mob|Trails and Tales
 Sniffer,animals,fe5a8341c478a134302981e6a7758ea4ecfd8d62a0df4067897e75502f9b25de,Vanilla Mob|Trails and Tales
@@ -15128,6 +15173,7 @@ Sniffer,animals,bb1d06c9d2fd18db6739b4f870bc8610bc5ac9bdbb165c9f1c7b8bde39c78364
 Sniffer,animals,a56a39513ca4d80aa62a6e521dccdcc05096141c9d9a6b3a72677650bd12736f,Vanilla Mob|Trails and Tales
 Sniffer,animals,15b631b6a4990910e095f8b318ebd1214326a4f0f58d1b48d42f996c1ecbc994,Vanilla Mob|Trails and Tales
 Sniffer (grayed),animals,776d3e57d99ef2a4b09279978bdfb5e6f0ea1644e415a722ba4d551e2cf3fb70,
+Sniffer Covered in Honey,animals,a3a034e7ed269fb4b7d3cd8662cd997be84605e029b9e70c184b7e597eb41b36,Bee Keeping|Glowing Eyes|Food Fight|Hypixel (Attribute Shard)
 Sniffer Hybrid,animals,81118224787b0d09e1bf23c5a7c490b27dff429b210fb06697b811198cdbfed2,Axolotl|Deep Dark (inspired)
 Sniffer King,animals,adc7ff648792ec00779c3fdc9f2b340a04340b072b9898bb39c400d13756a11b,Royal Headgear|Anthropomorphism|Trails and Tales
 Snifflet,animals,a37b3474c7c2f4cb0ff0b53849b7379514f58c7723282b37990e7f1cfa88d64f,Vanilla Mob|Trails and Tales|Tiny Takeover
@@ -15212,6 +15258,7 @@ Spark of Zeus,animals,bb42db182471da05bc2e3d04ea08b7069004f5c066c0aacca1f18c40ee
 Sparkling Ocelot,animals,66c3b5d0d343213b6e81941d0b5315eedb2d992fdde6b3e0d5b4e869cbfb5d5e,Transparent Head|Hypixel (Skins)|Cat (wild)
 Sparrow,animals,818e5c115361025f9b0b0deed82122c6627c7f22ab44a3d2948a4873ddeae9e5,Bird
 Sparrow,animals,107400822bfd4eb645e88661940ecbdbe12f411d44ba7e21546dc691d0b14c07,Bird
+Sparrow,animals,eaba3055778d249a0b37832635d8b7fb68e8f5d847ec2312bca726d78d8dffff,Bird|PetPlugin|Figurine (Animal)|Hypixel (Attribute Shard)
 Spider,animals,e5044f6f486152e8173ccc064e5fa78d54e96fbacd4016c4295dada46bb3f7eb,Spider
 Spider,animals,f929a3eddb9e0c72fb9fed02d83c8ecf5aa52983d7a3570a261b9751c11b81ad,Spider (Vanilla)|Anthropomorphism|Cap (Winter)
 Spiffo,animals,61ec3c481679f03779b2ad526e70b9e5bb4bd6025b7645a2729eada22f292e4c,Asian|Project Zomboid
@@ -15662,6 +15709,25 @@ Tuxedo Cat,animals,af916bbe9846aed30e93880593b630c4ffc635518f0fb7ec11e8c0ecfc7a9
 Tuxedo Cat (orange),animals,26c5ed52ac921b974b3e0fd1f2aeee1474fc113eb08bbde5c668c55920ab4d08,Cat (other)|PetPlugin|Figurine (Animal)
 Tuxedo Pufferfish,animals,9401f550153f4c566f7bef5d10bf85a64eb5a415327cd8a84d32c467c2a5324e,Fish|Emoji (Pufferfish)|PetPlugin|Sunglasses|Anthropomorphism|Figurine (Animal)
 Tuxedo Sam,animals,d77959d1ea056d0ccf4dc72eacde667779b6c9b7f644862a22b6b4685d6829ff,Hello Kitty|Hat (crooked)|Anthropomorphism|Penguin
+Tuxedo Sloth (azure),animals,665d4434e19525d1f4e55c5065b8a6f25e4975dbd4346f6ce3a2610839d82369,Safari (Other)|PetPlugin|Anthropomorphism|Figurine (Animal)|Hypixel (Skins)
+Tuxedo Sloth (black),animals,7cece7416eb8ddbd65e3fe471f4ecfe06b6bc21aa6d0b2187876d79fdb5d6b65,Safari (Other)|PetPlugin|Anthropomorphism|Figurine (Animal)|Hypixel (Skins)
+Tuxedo Sloth (blue),animals,b67ef33143144e22dcbaa0a443d130cfac2b42a6911215b8089eb8a202d7c3,Safari (Other)|PetPlugin|Anthropomorphism|Figurine (Animal)|Hypixel (Skins)
+Tuxedo Sloth (brown),animals,ff43c00a58a5023de5a51e7a6cd994555166def7362e8980df01433f1c333c13,Safari (Other)|PetPlugin|Anthropomorphism|Figurine (Animal)|Hypixel (Skins)
+Tuxedo Sloth (gray),animals,618f43f49521ee75ad23372f04ecc329a322a2994cc239a1b4491ed61b755ff9,Safari (Other)|PetPlugin|Anthropomorphism|Figurine (Animal)|Hypixel (Skins)
+Tuxedo Sloth (green),animals,c239b1875992064a00632e296e68b94cec1b36823a5386640b95afb55c185125,Safari (Other)|PetPlugin|Anthropomorphism|Figurine (Animal)|Hypixel (Skins)
+Tuxedo Sloth (light gray),animals,35d09848b1f8acbc53bb39722e8c37b4d64404dc374b16f5f108ec1acea220a8,Safari (Other)|PetPlugin|Anthropomorphism|Figurine (Animal)|Hypixel (Skins)
+Tuxedo Sloth (lime),animals,e30562608f42956f2aff47795e8562f76fffeefeb841ea8d7886de7a1344170b,Safari (Other)|PetPlugin|Anthropomorphism|Figurine (Animal)|Hypixel (Skins)
+Tuxedo Sloth (mauve),animals,54ec5fd5dfa637b199c6dca1f3cb5f7eb160964b9a80cebe2a9d9400a7f21f6c,Safari (Other)|PetPlugin|Anthropomorphism|Figurine (Animal)|Hypixel (Skins)
+Tuxedo Sloth (mustard),animals,7c1b1a40972999db5936f65c5e4011afab811dd9da4a88757a320603b6d44b4f,Safari (Other)|PetPlugin|Anthropomorphism|Figurine (Animal)|Hypixel (Skins)
+Tuxedo Sloth (orange),animals,994dabe0aa818a3e2ff2c2b7cf28151434c29d93b4cbdd261d63ed2964027427,Safari (Other)|PetPlugin|Anthropomorphism|Figurine (Animal)|Hypixel (Skins)
+Tuxedo Sloth (pink),animals,28c908b118cd63d0638cde94c5d3b4d762e008b478ea1749679ab67547587ba6,Safari (Other)|PetPlugin|Anthropomorphism|Figurine (Animal)|Hypixel (Skins)
+Tuxedo Sloth (pinstripe),animals,d4c7b65948c5c236c22713ca0228b257380a5eb047a60aaa02b7ae5c959ff495,Safari (Other)|PetPlugin|Anthropomorphism|Figurine (Animal)|Hypixel (Skins)
+Tuxedo Sloth (purple),animals,b321e7fb6eca8773c67e743b692c7ee0c9d3198533b58a7c735f608c2d4472ca,Safari (Other)|PetPlugin|Anthropomorphism|Figurine (Animal)|Hypixel (Skins)
+Tuxedo Sloth (red),animals,1b11d96593b3854c22129d5e306a8394f2b5d10097435ab05b1fdcee0cc8b44d,Safari (Other)|PetPlugin|Anthropomorphism|Figurine (Animal)|Hypixel (Skins)
+Tuxedo Sloth (rose),animals,41b39bba36971e4e60ed896b5ba6e84a86fce903049f18a241b696489b114adf,Safari (Other)|PetPlugin|Anthropomorphism|Figurine (Animal)|Hypixel (Skins)
+Tuxedo Sloth (teal),animals,f6133fdea0d6d1493f829500c9e667ce7f1e9d74b3ac74c8a4157cf47916352f,Safari (Other)|PetPlugin|Anthropomorphism|Figurine (Animal)|Hypixel (Skins)
+Tuxedo Sloth (white),animals,7c5ef11b7709873217af853a2f64e16c3c497e92f669a3120dad2a535fa71add,Safari (Other)|PetPlugin|Anthropomorphism|Figurine (Animal)|Hypixel (Skins)
+Tuxedo Sloth (yellow),animals,1724c79d859eb98eaa20e12255b5bc88df4a8d25304e53ae0cc318043d8b336c,Safari (Other)|PetPlugin|Anthropomorphism|Figurine (Animal)|Hypixel (Skins)
 Twilight Sparkle (coronation),animals,63c2074d3b3124b8407df3bae63ff39d81a0dd0c20942b0428a2e94beec959cf,Royal Headgear|My Little Pony|Anthropomorphism
 Twilight Tiger,animals,e78c069d065c01fd6ea8f793f382cef12dfd9cebb5165e3cf3ea50ea604a88c0,Hypixel (Fandom)|Cat (wild)
 Twitch,animals,2581d828cb370bac11ea4a50bf72e5b4df4b025c6621efb07f964caded2697b8,League of Legends|Anthropomorphism|Angry Creature|Rodent|Hood in the Neck
@@ -15717,6 +15783,7 @@ Volibear,animals,1fd77b3813b009701ae73a4517495b22990480b2c01e1805bd8d95a79f99786
 Volibear,animals,af95a2f30691458a700451b9c6696c7d6585e2ba86b85a0be48e002d22a6c277,Bear|League of Legends
 Vulture,animals,30bb759b0f7223cb707a8b5640155ffc567f5ccd8f85af544e1c76e1f2f76d98,Bird|Desert|Minecraft Live|Hypixel (Attribute Shard)
 Vulture,animals,6800151ed1d18cb0c234fa7275498e431462f4065590e7722181364fbc68dc87,Bird|Minecraft Live|Vanilla (removed)
+Vulture,animals,7020b49319a6b7db29730744dbb948a0e540cba6a66df69c6010378f1caa8b96,Bird|Hypixel (Attribute Shard)
 Vulture,animals,9775a1b2fdbbfef56faafd67bf2a78150e109cc1c111a50b6fb7029173c96e46,Bird|Who is this?
 Walrus,animals,b1f1483c616e40f64ff5d92b354c8ba6c5a7fdcc79914c0685a038e2125ee543,Ocean|Winter|Sunglasses|Anthropomorphism
 Walrus,animals,52ff36bb3935f591ad062ade9e3443c6a460d23c2e6151708f72a312a83f226e,Ocean|Winter
@@ -15927,6 +15994,7 @@ Wombat,animals,c28e26affc93e94f2433b3a88d93a5b934a4e1d0090b0c0078236e3d857fdd3,
 Wombat,animals,fc49fcb26a1963a5baf1aca37e006786f833b53e61a3640dc7c8a6c19256ac29,
 Wooden Frog,animals,7e37b31c7c5b4eb06c368c2c6ce4d1fd8d8c97cc92950743db0b8ba582be6473,Wood|River|PetPlugin|Swamp|Urban Wildlife|Figurine (Animal)|Frog
 Woodpecker,animals,c06bc079a389359e04fa334c62ce30d994039ae901cce5a601daebb479a15692,Bird|PetPlugin|Figurine (Animal)
+Woodpecker,animals,bff3a1fe8d0791325ccebeba45d85396afbe9aca45a7e72cb76b8c52c0400b0,Bird|Hypixel (Attribute Shard)
 Woods Wolf,animals,6e8c2a6e104a3e9d7397326f01bf25862f0aaf9e3830d49dbb9b4a4305358404,Dog (vanilla)|Dog (wild)
 Woods Wolf,animals,de929c290b21eea8662a1757ab93d627ab65503ff02e3cde15441e1cbb41f6cd,Dog (vanilla)|Dog (wild)
 Woods Wolf,animals,1f72bb899869b76e1a2b0d513736b8d6bdc5138f374a8577e1c5c76b72fd4218,Vanilla Mob|Dog (wild)
@@ -17210,6 +17278,7 @@ Honey Block,blocks,21365970f9a6ee4f29ba4dad4b36b20df9cc6450f545fd2e77c486ff6fa92
 Honey Block,blocks,407e4501928ea8db53ec80eccfa383644967a00d8ce5b8735fb9df8e68603dab,Bee Keeping|Vanilla Block|Outer Layer Block
 Honey Block,blocks,4a7e0d55ea8051569955da138697174a0bd76190b2d58b997509737dce5fb61f,Bee Keeping|Vanilla Block|Outer Layer Block
 Honey Block,blocks,5b7b14f3c78785c1fd244255e05d537d6c551207262a60c38125c01f663a075e,Bee Keeping|Vanilla Block|Inner Layer Block
+Honeycomb Block,blocks,21f302414115c8a2e1bcc7240ae07e859f21afc94ba611e92298af5b3a07e32a,Bee Keeping|Vanilla Block|Inner Layer Block
 Horn Coral,blocks,3491b6e6ae9451c47e09bf1ff23d50fff87ba5927a51f46ffedf926c5cbde77f,Ocean|Vanilla Block|Inner Layer Block
 Horn Coral,blocks,22aab02b8b46a22b98f85693c7005b13729518b491b9de727e3a56e1972fc7c1,Ocean|Vanilla Block|Inner Layer Block
 Horn Coral (dead),blocks,e3ea7645ef5853dd49f192028b0220074d820e000005e5956417977eb5b79356,Ocean|Vanilla Block|Decaying (organic)|Inner Layer Block
@@ -18708,6 +18777,7 @@ Adaptive Belt (beserker),decoration,cd1a7092823b1594a702cc857b390fe895115a858de6
 Adaptive Belt (healer),decoration,b9d7a3b684224bbfecd7414f382b65b927bab4ded9ff4f632b8004791dda648b,Clothing|Hypixel (Gear)
 Adaptive Belt (mage),decoration,a1839edde9ed5f29ade0eef712a194e7ef126f6f4771e5ad307ab540ab8a33aa,Clothing|Hypixel (Gear)
 Adaptive Belt (tank),decoration,c1f4091376289a9d48f0057cf73bc28166fa28898eab8dd9e38fde4e02b6706a,Clothing|Hypixel (Gear)
+Adriene Plushie,decoration,bbf0d998a0c34f13e83e5d0ca020196d3fff75821f4e5baa0df82d7a052d1b3d,Figurine (Human)|Dark Skin|Hair (purple)|PetPlugin|Minecraft Dungeons
 Advanced Solar Generator,decoration,afdd9e588d2461d2d3d058cb3e0af2b3a3367607aa14d124ed92a833f25fb112,Machine Part|Feed The Beast
 Advent Wreath (1),decoration,43564fa787b8103c5e20b04f49927439c5d0d02dd884f56d71213e89a3847c,Christmas|Candle
 Advent Wreath (2),decoration,55a2d3cddb81f8ed9c483fd78a98be14b54113f0ef744362a010ea1dd4e177,Christmas|Candle
@@ -19686,6 +19756,7 @@ Beacon (gray),decoration,de4baa04ba6c1c6baccd9972858dcbbf8a61d773871931319fb3f9b
 Beacon (pink),decoration,a40d48ba59b035e1f102bea9f3421fefa5b6bab9ef6f5f3e2cc78b518b94a25d,Other Illumination
 Beacon (red),decoration,20064c48af9f4ea259689ab2e99e46f5ab9e89541fdb8f2c1fdd6388b71fae7d,Other Illumination
 Beacon (yellow),decoration,5645a44a9a28ddc47df6e8498111b627d0fbde9852b8c7fe84734f1d6eefc9fa,Other Illumination
+Beacon Bonnie Body,decoration,46e6b57db67dbd1912d26919fb99118e305653dfe6517680bb48a267d6f3fd7,Organs and Bodyparts|FNaF Fangames|Combined Heads|Decaying (creature)
 Beacon with Diamond Blocks,decoration,59c4eae00bd7f39a9ad9725a1fe010f75fc7d3b096cd2c5889946ed7ca2366bd,Other Illumination|Treasure|Vanilla Block
 Beacon with Emerald Blocks,decoration,83a6858012b25e1e86adbf8cf06ba5d2d924b4c23fcd4d5e513cfa81242623b9,Other Illumination|Treasure|Vanilla Block
 Beacon with Gold Blocks,decoration,9265f96f54b78885c46e7d2f86b1c1dbfe643c6060fc7fcc9834c3e3fd595135,Other Illumination|Treasure|Toy|Hypixel|Metal
@@ -19806,6 +19877,7 @@ Bending Priority Road Top-to-Right (Type 1),decoration,a47e56f8d9efe4e4eddb40ed8
 Bending Priority Road Top-to-Right (Type 2),decoration,839986754ddb9a67dbfb4c86befca2cffb11687bd2587d595b49e0a3316d82df,Traffic Sign|Armorstand Head
 Bendy Doll,decoration,7d50fbaf5ba92e65cdd88d6451dba8c0fb830ab515bfbda1db4f4576c6867672,Bendy and the Ink Machine|PetPlugin|Figurine (Humanoid)
 Bendy Statue,decoration,2aae2a7cf49f97193043676e75fcc1310f25da5b0099a8046a56bf1f0a7b4f04,Stone|Bendy and the Ink Machine|Bust
+Berdly Plushie,decoration,709a78f9f1914e772b04dcd814138eda924f7f506d0bc7f96d2aebe89e705566,Bird|Glasses|PetPlugin|Deltarune|Figurine (Humanoid)
 Bernie Plushie,decoration,36c9113ec16103e65f6df04d59547b049a3b6e3ec97a4a55d603b4357d752634,Scarf|Club Penguin|PetPlugin|Anthropomorphism|Figurine (Animal)|Penguin
 Beryllium Ingots,decoration,f333e31b7a24e3796c24fcf000e682bfc3b70cd01e59abe1092e8bee1133b0b6,Treasure|Forge|Periodic Table of Elements
 Bespin Wingguard Cap,decoration,1ec2a4d16e06ca8fbb54f968a42b6d48cd74b6544985628ee621d4e4ed1b1c33,Star Wars|Armorstand Head|Cap
@@ -19928,6 +20000,8 @@ Bird Feeder (white),decoration,cf327bfd961a8e974327150a372bf4ef2923f5d797f74e25e
 Bird Feeder (yellow),decoration,e177932c282fbd94b45b4ace0b49879250962c81ab3a6dbc0e38d0445bd5915a,Pet Equipment
 Bird House,decoration,ff0dbee370877feb4a62ac9f93e13fa5de04d313ef83feee815f6ed3a7abca5c,Wood|Pet Equipment|Garden Decoration|Dwelling
 Bird House (acacia),decoration,19e316ba48e51c6eb73cb068a2d468f678eed82d4529d4b12eec8bfa7819aa86,Wood|Medieval|Pet Equipment|Garden Decoration|Dwelling|Hypixel (Reforge Stone)
+Bird House (bamboo),decoration,4bc2d307d8593ae8c7e84af8da6e4704da321ef7d97a535c6046602fc9902b70,Wood|Pet Equipment|Garden Decoration|Dwelling
+Bird House (bamboo),decoration,400c613f75662f6820e32d29da5fff3a6b84b2247a14c53d98ae28bf977b21e1,Wood|Pet Equipment|Garden Decoration|Dwelling
 Bird House (birch),decoration,e19997593f2c592b9fbd4f15ead1673b76f519d7ab3efa15edd19448d1a20bfc,Wood|Medieval|Pet Equipment|Garden Decoration|Dwelling
 Bird House (brown),decoration,a993498eac1971528571067d5b110bfe52b2693b622a3b677ad5710f1fa31ce,Pet Equipment|Garden Decoration|Dwelling
 Bird House (brown),decoration,b0f1afd3e65e622346691748b1d7a5bb39c4fd6b1ef28af5f338545b2571c,Pet Equipment|Garden Decoration|Dwelling
@@ -19955,6 +20029,13 @@ Bird House (oak),decoration,97f82aceb98fe069e8c166ced00242a76660bbe07091c92cdde5
 Bird House (orange),decoration,03316bdbcaf8dd64717d5cb171a0b8b83c29c3b5c1c743c58f7f74e9757e,Pet Equipment|Garden Decoration|Dwelling
 Bird House (orange),decoration,ff812112dd187e7c8ddb5c3b8e854e82f19197414a8cdb542021f1a491897e53,Pet Equipment|Garden Decoration|Dwelling
 Bird House (orange),decoration,a8fed12285f1d9bf245fede4147b8cda93d59383ce8a58d6299dd4eae9843,Pet Equipment|Garden Decoration|Dwelling
+Bird House (pale oak),decoration,3ade6cf3ef96c91231043f11c6ac9242768d9dfc6f5ae79dd1d8dbc362b59174,Wood|Pet Equipment|Garden Decoration|Dwelling
+Bird House (pale oak),decoration,e057497eb5fd691829a82e4759078bee624257a6f33419a5051dfdd7a4d4a4b3,Wood|Pet Equipment|Garden Decoration|Dwelling
+Bird House (pale oak),decoration,e4b854dabdbef424b599ded65a2cadade08a1ab5a536fda2560826f88774ab5,Wood|Pet Equipment|Garden Decoration|Dwelling
+Bird House (poplar),decoration,3b70af09ed98a37d0f0ba603bb133d54e7ef3261ce2231640f380cf92b6e5234,Wood|Pet Equipment|Garden Decoration|Dwelling
+Bird House (poplar),decoration,ddebe7d904620d8f76e09a1774a043e73d813ede455ba3aa6091871f7eb5dcdd,Wood|Pet Equipment|Garden Decoration|Dwelling
+Bird House (poplar),decoration,9b001670f912fcaae15722f3d21733e04d0818ef438fab0e80e3e7c28ef19f64,Wood|Pet Equipment|Garden Decoration|Dwelling
+Bird House (poplar),decoration,15f8ea7fdcaeede0ec8b0383ed7bda333f7d5ede50e25628fd191c43d4fed1c4,Wood|Pet Equipment|Garden Decoration|Dwelling
 Bird House (purple),decoration,4e338bb32287afd632bc874b32f53a56f44b7aee26cd3d5c6fdad99f340f470,Pet Equipment|Garden Decoration|Dwelling
 Bird House (purple),decoration,4f17a6a9afaa7b07e4218fe555f2823b0284cd69b49b69b97fae67eb29763b,Pet Equipment|Garden Decoration|Dwelling
 Bird House (purple),decoration,57decee8429afd9aa679753384f3793c0227b61dd536f80a47e4b4de363ab8,Pet Equipment|Garden Decoration|Dwelling
@@ -20313,6 +20394,7 @@ Blush (dark pink),decoration,53e3941ab7e8ccd099bd524b3fcd36f2fe4fbca8ddda5fff469
 Blush (light pink),decoration,eac5ff9d23ede7a8c76a9a67594bfdc846c6d14565d90e726b146c6ef8298fcd,Bathroom|Makeup
 Blush (orange pink),decoration,aac15da206c8ba0d601cfc5814aea1395d34072ec0cca003f370299937211fb4,Bathroom|Makeup
 Blush (red),decoration,c07440f3f8fa97ef304122ea661913157253184e6da094971c2661370a196017,Bathroom|Makeup
+Bob Plushie,decoration,a8bf69a75b73e2f3fc72bc79cbfa4002c621c9c9d70ae419aa748c17341ac0b7,Cat (other)|Animal Crossing|PetPlugin|Anthropomorphism|Figurine (Animal)
 Bob Ross Plushie,decoration,a4acbf5ff3b3fc1dafbc115e70da50ca7ec2e5e12bb6ab66b1fa5daae445dabe,Male|Celebrities|Beard|Hair (brown)|Figurine (Human)|Art|PetPlugin
 Boba Fett Plushie,decoration,33721b2dd02dfaff93e98cec0846fcc6d189d71b471a8a801d30ff3c68fdb1a1,Figurine (Human)|Star Wars Helmet|PetPlugin
 Bogged Action Figure,decoration,9a1aa92b2d6e9a618543a29e033d1feea5ef37fca6d62438e88c4ca7ad082ed2,Toy|Skeleton (Vanilla)|Swamp
@@ -20507,6 +20589,7 @@ Bookshelf,decoration,15833b5a448843dde256a321062f33879d54bee8917aa13867436df733a
 Bookshelf,decoration,4fdc4bb034d8f4317ac4fe3a40c43d6234a8f51892dec66340a12da87ccf5917,Wood|Book|Vanilla Block|Inner Layer Block
 Bookshelf,decoration,93184d6ad4a0e15b3a71dadf45f6c7ce9ec96172bc9ff25fd3af787a379bd1,Book
 Bookshelf,decoration,757d79c5cbaa5184aa2aba90ce98910652acd81ff1b298fa0eb96a601c135682,Wood|Book
+Bookshelf,decoration,697bb94d511f412fb683d5c73924dd7c9dc8dfc64b439f50466f5a10c9aed393,Wood|Book|Vanilla Block|Hypixel (Attribute Shard)
 Bookshelf,decoration,205e1f19b10b3b2775c951c0a0359b96780fec546af5fd276b75647ddc44c31d,Book
 Bookshelf,decoration,8513dd7f7c17d6aad748ba862ba2bc784843c88df83485ffd05aeaf5676014d0,Wood|Book|Vanilla Block|Outer Layer Block
 Bookshelf,decoration,18c0ca8fae701314330fdfdded3445e4542a3597b70d38f47d75111eb04104b8,Book|Inner Layer Block
@@ -20956,6 +21039,7 @@ Bucket of Water,decoration,175302be206f11b66187b862ad911a2125d7a98ef1dfdbcb0ac4c
 Bucket of Worms,decoration,56aef2a6efcb7bb6c173e6244b1a13bfa651c9fc464e699c73eab0342fb17ad,Bucket
 Bug Book,decoration,38a7c9e0c1dab89e14b788d96157ab0152136f8fd7a23d6db3eebe555d448ec3,Book|Insect|Hypixel
 Bug Books,decoration,59adafb39b5bb280eea9efaa3c998d4f3e79db8d7b035b4114b7a7dbec721d1f,Book|Insect
+Bug Books,decoration,5e004262b15a9589060daec5b1adea4aefd4ef67673259177045e67c3f27d09c,Book|Insect
 Bugs Bunny Plushie,decoration,9a6e55756b318909967d3273ee892bb33913c43a9c0de1c989eddf8df9724380,Looney Tunes|PetPlugin|Rabbit|Figurine (Animal)
 Bulb,decoration,92e2300541e93b91d57d342ce5de135a17d6dbe3e2f31071ea774180cebc74d1,Machine Part|Decaying (inorganic)
 Bulbasaur Bust (#1),decoration,d6787ea683bb94df8a2d32264ee00bd96e0ec2c1be46970bd251b69e3428ea25,Stone|Pokemon|Starter Pokemon|Bust|Pokemon Generation 1
@@ -21385,6 +21469,8 @@ Cap (purple),decoration,8ed8d008b7642c39ff686e43d60d4c2f34265b8be413ca1c70fdfbff
 Cap (red),decoration,55052e57b80b94e76afe152da5c00a61ccf08cea02d10b990460154a63eec810,Wood|Armorstand Head|Baseballcap|Headwear
 Cap (white),decoration,852cb78f5e387c56d511fdab2fb45bfd61ec059670f1d75b24947d32b61f1e30,Wood|Armorstand Head|Baseballcap|Headwear
 Cap (yellow),decoration,66adad99393b910ea636184d954756f2683564bb5ed3d28d53616b4e72b2b9ac,Wood|Armorstand Head|Baseballcap|Headwear
+Captain Clark (body),decoration,817cb3678081f97df29467bce73ed69115a9a06e8c7807838906d631c1e6e9b0,Organs and Bodyparts|Combined Heads|Backrooms (Movie)
+Captain Clark (body),decoration,668dec4c0e6e1a1dcdb58afcb1b4ae6a9ba86987b78c2086bd94b0ca3fd61e43,Organs and Bodyparts|Combined Heads|Backrooms (Movie)
 Captain Foxy Plushie,decoration,3403d79d1666491b98e22da92746ac2dbf054b4b62b9d6883cfee24c55cc9cab,Seafarer|Five Nights at Freddy's|Hat|Eyepatch|PetPlugin|Figurine (Humanoid)
 Captain Foxy Plushie,decoration,c9f1eabcd460f2e2f7de6f2ec8765199a96469663ea3f5cd683cd7647550c830,Five Nights at Freddy's|PetPlugin|Figurine (Humanoid)
 Captain Mangle Plushie,decoration,62ba72e833853358c6bc6968a4388b4d3ddee719c0e4d082b5da84c577a3fa,Five Nights at Freddy's|PetPlugin|Figurine (Humanoid)
@@ -22645,6 +22731,7 @@ Computer,decoration,c8fc17dd0a7f4b9f6c88748ef9ed11bd2cc489b89678f3bbcafcc145af0d
 Computer,decoration,e78e6a83ffa3a169fc7a12c6f6ac931ff1b212c360a56774e4c8d4e269b94e5b,Monitor
 Computer,decoration,a9f8c847be6f0eb635db3df566274a2187a23c8467515dfe09926aa62edf908b,Monitor
 Computer,decoration,b978c31c63d7da80b9448220b8a9b896003f1b3281c341ab10194c6c4dfbe23d,Monitor
+Computer,decoration,aa724b29adbbec0057caf336b695f24c0d5e54961690c598d6f541ad01e9fbb2,Monitor|PetPlugin|Figurine (Other)
 Computer,decoration,cf3e1d78754b706a8a39e21569d83365aec23b3aedc5d3bf17f92336dad2b500,Monitor
 Computer,decoration,b5dd3bec7c545401c77c8e441ee30aedf3a53bd708292dbff1a3edd563faadc4,Computer
 Computer,decoration,141eaa4065e0b5d15f9078a3dc2e6d3449e127d7bcf1a6bb3bfdce8e3b882636,Monitor|Computer
@@ -22803,6 +22890,7 @@ Copper Pipe - Exhaust,decoration,8bcf27af93968133711198f213813408077291ede82f5bf
 Copper Pipe - Rim,decoration,2548bab3c48dc85ed3328ad8ac8719d0c13483971d818ee6d20974d91a6eb5ef,Steampunk|Machine Part|Combined Heads|Metal
 Copper Pipe - Valve,decoration,b56792965b606ba85f87a510cebe110c0599fb69815105e606e106c5919d14c2,Steampunk|Machine Part|Combined Heads|Metal
 Copper Present,decoration,74300a5f8111753fb9e224d60e46d46fbb03cf3f0974b3dee43887ea5ff01fcb,Present
+Copper Pressure Gauge,decoration,412bf44446729e29f549a4de7d86cf95b3b8ea3bc2caf09d68969996df85ffd5,Machine Part|Metal
 Copper Radar Dish,decoration,1ae923472ecf90ec4cf49a16eb892fc2c05759779e3d33de3b717593779c51c6,Machine Part|Metal
 Copper Ring,decoration,f83a812525faf3499c3294634398b5e0e967489f2ee63e14490c1440553af065,Jewelry|Metal|Hypixel (Talismans)
 Copper Showerhead,decoration,86ff601b496b4b6439f8823f4198220935c31a0f102ea0a0a6d3b8e8e5568533,Bathroom|Metal
@@ -23203,6 +23291,7 @@ Current Lane First,decoration,53233d2f5e3d3bbecad3fcb0fca422fc699446908f29f55163
 Current Side First,decoration,399ef9bdb62c9214ac17927d47d6d0ba48fa3e1f1dd5648dd07195d6216dcbd2,Traffic Sign|Armorstand Head
 Cursed Bone,decoration,3a250850069f4729038cd3999616b86a74e275a45285192e056dd8132179384a,Fossil
 Cursed Eye Runes,decoration,e665fafd1fed8e9fe35ab560f0b5603fc5ec487c2198ce39bd54c622c4b799e1,Stone|Rune|Decaying (inorganic)|Eye
+Cursed Land,decoration,c07f19c316bab4e3f74816c9e99ded918587145dfb503eb2f6c5bc7dbdbedc,Halloween|Hypixel|Deep Dark (inspired)|Landscape
 Curva Izquierda,decoration,140e01821447af25cf90d2d0a4d81b1f8d3d984ee0578ea8cd099997c444a0c2,Traffic Sign
 Curve,decoration,acd9ae72358d51a063ba2cf2063cd169cc6b04399b5ebd7d455e00e5444a561a,Traffic Sign
 Curve Left,decoration,794accf5138ac760e7950841def9ac87febaf9dd6b037ef5ea6da867c745e729,Traffic Sign
@@ -23626,6 +23715,7 @@ Dice (white),decoration,5cfadaec776eede49a433e0997fe0442f76599892419baab83d28e8b
 Dice (yellow),decoration,a02fc85f808b3fd9c1584c1869c1efcdd3baeaffe2c67d544fc98524984aa,Toy|Casino
 Dice of Primaris,decoration,e69937d71b55002161993da05a596b08fe0ef64138e8744b949aea6c6a091a7e,Casino|Warhammer
 Dictionary,decoration,629a495c9f6afcad453e4579874103f122c36bcdacdbec762e2453e6011861,Book
+Diego89 Plushie,decoration,abf26c5674b3db46680690cf04e35674e2c7768d34bd06a9c69996b2d105c3f0,Figurine (Human)|PetPlugin
 Digested Mushrooms,decoration,420ff5b19da524c30993e0487962f9c145c85465492a111d9c383d0f748d59f8,Mushroom|Decaying (organic)|Hypixel|Nether (inspired)
 Digital Clock Radio,decoration,7fe2c4407d71508089289379df2f27796be2748b0f68bb74e91a7c1361298484,Device|Hypixel
 Digital Safe,decoration,8b5d160bbdaa308350325ee7a96f6059004a31338615d43564a4c722e28f7cec,Device
@@ -24320,6 +24410,7 @@ Empty Matchbox,decoration,9455a0518a51f388f7565fde28b1ab94d589754435d8dd9d64ddf9
 Empty Matchboxes,decoration,274f62754b0629a1ad87ea540b4ba790ddc4b7f0bcb36845f6365dd03278a77b,Storage (other)
 Empty Mug,decoration,dcc0ad6015fa6982231c2da367bbdfc3f1c5fee499a42a16e1934d0eddf6b,Medieval|Medieval Tavern
 Empty Popcorn Bucket,decoration,821505862650c880865f639a262dccbeec8e9aea3b920ea54db084249047e7cc,Candy|Bucket
+Empty Potion,decoration,df0c83c1bbdbdfa9859c410c2c1deb530f19bada1c208a858b69ff65ae864bc1,Jar
 Empty Spawner,decoration,97b2189300f339ba050e01ae2a540b7e89ef896a55c7916dcc9e5851af86411e,Vanilla Block|Spawner
 Empty Steel Tank,decoration,459de56117b975839d404a52579d63a0441b9e33bd57a3042e7d4cafaad67ff8,Machine Part
 Empty Stocking,decoration,7defed88556bdb56a8c8c49736f677686af646432a58132a6d45a2d8fa9f78,Christmas|Clothing
@@ -24401,6 +24492,7 @@ End of Kraftfahrstraße,decoration,73a7b9f9a0c101ff347687dac7b648194dd5e9cd3767a
 End of No-Overtaking Zone (China),decoration,a2c2bd1b055378ad9acd9b6a25867b34191c122fb16f473127f2673461888637,Traffic Sign
 End of Overtaking Prohibited Zone,decoration,2e90e34b8ecc08cf7f766d57278e20fac0400201474fdd89cd00e3f88f60d66c,Traffic Sign|Armorstand Head
 End of Overtaking Truck Prohibited Zone,decoration,d4ce9d6c8fdad0546a95e402ae3e1b747bc1f08e7a387e18ba65721ddabf59ef,Traffic Sign|Armorstand Head
+End of Pedestrians Only,decoration,9e5d4f7edc47107be0b70bf340d996886de7fa1c97a3106edb42373395df4eb8,Traffic Sign
 End of Priority Road,decoration,1cb66f2bf7b018220c670e1fd56eb869ae3777366a7247d12e40e39307ce205a,Traffic Sign|Armorstand Head
 End of Priority Road,decoration,a1140329e58d899544639c338bd293e87443c4f613d3f9f8242ff60a781e7d95,Traffic Sign
 End of Residential Area,decoration,6e3e715cd1b0c3d68cca1e152b6a3cc49fc45eae42a32f877b47223d86d9beb1,Traffic Sign
@@ -25042,12 +25134,16 @@ Fish in Ice,decoration,2deeb1f5970dbdb8cea395c8c801c69e7896c1a086eb6d2100ac71e6d
 Fish in a Bottle,decoration,e77f8fd02625b7bb205764a1635381767f6631da6148fa9420fbd4fbff2338e7,Fish|Jar
 Fish in a Jar,decoration,e1155c8fc630dcee6322f6c280fab6b3cefb816c7e0210bf86c4ff97836c9d7b,Fish|Jar|Hypixel
 Fish in a Robot,decoration,b9532ab976763efca2f3f55821f6f524846c4699df007b3c91d6bbe987b85370,Fish|Robot|Pet Equipment
+Fishbowl,decoration,d93299111e880ffa54f5b947c7177e906d2e8f76b90b597bf73005f883dc96c5,Pet Equipment|Hypixel (Skins)
 Fishbowl,decoration,14272a9a883c525f3d97031778ba1ac11ae1ff0d37ceaa8428a94f2f252e5333,Pet Equipment
+Fishbowl,decoration,45e8a1deb4edd5751f93f10efe4251ef6c8f688db61ec7e0ca085aa863a18fb7,Pet Equipment|Hypixel (Skins)
+Fishbowl,decoration,af1e85845d95c5583aa708c1acf35561a2906b1959cf428e9d16e2748ef8cfa0,Pet Equipment|Hypixel (Skins)
 Fishbowl,decoration,a4cdee5fb73e21769f712231dddbc16d7af6898db4f6820326098c7b76cf2818,Pet Equipment
 Fishbowl,decoration,f8094f8af7345849b93d96a45428342afca89c05c90998c9e79b139dd83c95a0,Fish|Pet Equipment
 Fishbowl,decoration,d344f9bbb3701c7eece018642a7837c33315ac3988ee2bfde96e8772496e7485,Pet Equipment
 Fishbowl,decoration,3299af6b0de9b0749360a84c1cb9372ec01edc604f044af578166155cbf760be,Pet Equipment
 Fishbowl,decoration,4d3df9ba361b4b47decb94b12e96eb131f209de780a1454b37dbfccfaf291ad9,Fish|Pet Equipment
+Fishbowl,decoration,7056a427b1362285686605c379381bd886db1f6670c338ab87db143fe3b4b99f,Pet Equipment|Hypixel (Skins)
 Fisherman Villager Plushie,decoration,1676d7c89f9cbc54883d2d8bbb085208a308b30a76f4505e42fd18d0e575a3a4,Male|Villager|Hat|PetPlugin|Fisherman|Figurine (Humanoid)
 Fishermans Crest,decoration,90bdc5f18bb4916c1564c4d2d13c077295649f63f37d4b51cc116de516631c13,Jewelry|Hypixel (Fandom)
 Fishing Boat,decoration,bc66e43aaa8bdafb19c76db9a84c35cc0cea4c7a88553a2b366c8b0dee153330,Boat|Landscape
@@ -25314,6 +25410,7 @@ Footstool,decoration,282662cad15fb7bfd099e62205c66b6c7cba9ac2012e3aa7226fea93912
 For Handicapped Ahead,decoration,f56e0e6d043ef1b2f3322d38f6b289857d1236cd2848182cf7d605a4fb5c8218,Traffic Sign|Armorstand Head
 Foraging Fortune Booster,decoration,6f6ed8db4c81d39bd2705de4b14cd850e60a1b808f3668d0a5af04170d746be8,Wood|Hypixel
 Foraging Wisdom Booster,decoration,81f4910eeb6670df13d9a12338324190e62ee3db483ab3e7f2b4ca93b53b0e79,Wood|Hypixel
+Forest,decoration,fc323194d08ed1e46fb213ff602b0108f5dff2c69492093cffb68a65a423de61,Wood|Hypixel|Landscape
 Forest Dye,decoration,9e2b24a8ac53661a2c4809f3bc5baf21693e0fdcaa4b8c345193e6acdbb98900,Jar|Hypixel (Dyes)
 Forge Dragon Egg,decoration,2da2bd5bef118310d85e71995d6d18f8f65d9b67d86031fd77ca1d06676a2e0c,Egg|Easter Egg|Dragonvale
 Format C,decoration,fe3ec7e7b46b3992c9d3d208b27ae4326a6efe4a84845284b3c16f304e006621,Terraria
@@ -26541,6 +26638,7 @@ Hades Plushie,decoration,9b5eb7dc189e7514d7570eafa8496be86ec38c9dc65740b34475825
 Hail Dragon Egg,decoration,f9d63b489c2f3e2739110014b506d40377fcb64c57f87847acdf66414e09d191,Egg|Easter Egg|Weather|Dragonvale
 Hair Dryer,decoration,728e03bbe2fc1636a485886cf3be3c7cacc4b1f829280e63d15de8241df8e1e2,Bathroom|Device
 Hair Trimmer,decoration,575f647ff230a266cef6408a2599296d3c2bbf5464bec320381cdf1a52881054,Bathroom|Device
+Hal Plushie,decoration,85fb1bc67c37d7069ca85ccda949dffd23cd374915e2ad4dd66c185b90a98a6b,Male|Hair (brown)|Figurine (Human)|Mustache|PetPlugin|Minecraft Dungeons
 Haley The Horse Plushie,decoration,ba11848a7f7cbd05d08cfac42436da1589fa1720cdce88d8d3922dd59e53a92e,PetPlugin|Figurine (Humanoid)
 Half-Creaking Statue,decoration,1425e1bc6ae2ed6190e30c863041fb2afc054ec2a70385884593064814d3af37,Wood|Stone|Hair (gray)|Glowing Eyes|Bust|Pale Garden (inspired)
 Hallowed Crate,decoration,65e51c26e0e05a378d0ea6c6a3edf166d993967b53fe7ae4ce60e6704d8590aa,Storage (other)|Gem|Terraria
@@ -26735,6 +26833,7 @@ Headphones (pink),decoration,a39e607fc05f2a0e81d5000ee73e2b5d63bddd91e4d3c991115
 Headset,decoration,9c65ea61b02b3a8a0259a6be680b396d6bb3ac0a97396cd3f89ecc3ce8390321,Wood|Headphones
 Heal Ball,decoration,3d46ec51fbcc7012f3df94bc308ae14db02cede6dd2f5c03d8f1e3e9550d19c,Pokeball
 Healing Box,decoration,6961788ee326aaa2a8df4fd5689b4def61f6d1ff308319aed12193a946535699,Health Care
+Healing Potion,decoration,df1a808af4f6a21be37ea430454d9a003ecfcaf3971048eeb5685e060f55a258,Jar|Brewing|Roblox
 Healing Ring,decoration,50247bc4a01d2a2391cd8d8543c9fc673cda74b06bfc127a72ec06ad3ed580e1,Jewelry|Hypixel (Talismans)
 Healing Talisman,decoration,651eb16f22dd7505be5dae06671803633a5abf8b2beeb5c60548670df0e59214,Jewelry|Hypixel (Talismans)
 Health Crate,decoration,c34be12ec724eef04fa333c504331b45e30acbcb0a0ff8fca3fe28d3814f0710,Storage (other)|Wood|Health Care
@@ -27696,6 +27795,7 @@ LED Component,decoration,63dd67464c84b1b8ba8d968c668dd3dc9473c28e73caaf273f8ee9f
 LEGO Stud (10),decoration,1c993c7aacb822f5fa927973c98732fc0de490d4eabcb2f2200d5ae752d3dff4,Lego
 "LEGO Stud (10,000)",decoration,2376e72ca41837c267436d2013ab8eac15968fba1ea491ffe0370d8e8e7b3a0f,Lego
 LEGO Stud (100),decoration,c2bdd1bd885e66ff0589b6cc1822ddabf00d24afba59ab75d1407bca43ada1fc,Lego
+LKGLS Plushie,decoration,9e845af2948f4a392dc8de405febd9ad59ecf6eabe6b99871fbf9c24020cdc64,Figurine (Human)|PetPlugin
 Lab Table,decoration,247106a8274db6bcbcd8a466d97e90023101bb5a5c1519cda9ed2c20bed9f1d8,Minecraft Education Edition|Device
 Ladder,decoration,b5f2a32afc1dfffb677f18e7dd108dcd91dfa80306ab2939ba26bbfb4151f30c,Wood|Armorstand Head|Vanilla Block|Fire Department
 Lamp,decoration,d88e0e812d4fd96bd1945ec1acc5ab4db2008b720efcca9d07deeaba27c8dd9f,Other Illumination
@@ -27957,6 +28057,7 @@ Lapis Lazuli Skull,decoration,d964880551c492233689657f26a99e4fe61ad2af712b040272
 Lapis Ore Chest,decoration,6bd0317957506a827fc8e0a8e2ea2c62748d0e96afcd0bc604e27a04bb717a0f,Ore|Chest
 Lapis Scanner,decoration,77060e98d96579aeb7ab8ccd0ee1caa52ab63dc26ea2176e1a3fc38c13a77f6c,Machine Part|Inner Layer Block
 Large Agronomy Sack,decoration,ef835b8941fe319931749b87fe8e84c5d1f4a271b5fbce5e700a60004d881f79,Fruit|Cloth|Hypixel (Sacks)|Bag
+Large Bait Sack,decoration,dc1705d41d97e3b647c1286f1be8b566dba202f3a0ffad2294ae9ace8bb60f93,Cloth|Hypixel (Sacks)
 Large Black Hole,decoration,c4bd37827f3f55b838b64afe7f90c0d77eb400d50ddfea70ff35c29868fe8c45,Space Travel|Hypixel
 Large Combat Sack,decoration,1c13c4774c82c07071e6d1408717b1e3eac56186042a5803fc174452e32a254a,Cloth|Zombie (Vanilla)|Hypixel (Sacks)|Bag
 Large Copper Trophy,decoration,566a5b7bdfaa93d44c50c644cd045c398a5010a79779007290c9a78cf898623a,Chalice|Metal
@@ -28332,6 +28433,19 @@ Locked Crate (purple),decoration,6fb243d506235da4518743f3b8f89e4193a44becc8e4065
 Locked Crate (red),decoration,a1763be8dc074fb1daba7b1ea20d1728fcb8838e0e11f1abfbc00efd904a80a,Storage (other)
 Locked Gold Chest,decoration,18521be3bdb1c204acb6b7ad3cae9742f42a7bd8758808dbc88d05b1c32ef5,Chest
 Locked Present,decoration,24777115ba813428325c4d34432d48e2842da1497b145a38737ca0af259f7f35,Present
+Locked Treasure,decoration,cb726c22f6ed0fd458594e544b870a0994fa5066cc16d98d7d1e99eddc4a161a,Chest
+Locked Treasure,decoration,f74759e87460cfa30f50ab458dd4b1292886574bdd632c7fd28e138b1bf9a2ed,Chest
+Locked Treasure,decoration,71d91c9d2fae7d89c814cf504f2a7581b248270b58ab010b782f46b01623f570,Chest
+Locked Treasure,decoration,14a2c207d54c33fed6d368c3760a6d350163088d077fca2b9196373722d2ee33,Chest
+Locked Treasure,decoration,5be5655d728ae7c278d6192e5e31d38aedda88280414442e371a8ca43af8de8,Chest
+Locked Treasure,decoration,caf8397f2bc5e5cfc1365e8ab5b5624b58937636c67ac46d047b13a532dd8387,Chest
+Locked Treasure,decoration,87a3479a4c1fe726c3e3b7978a24c76ad1bd3d55bdaeda00dd26e8f7a6c71bb3,Chest
+Locked Treasure,decoration,ad51790e7cb8283049475027d4cc4a5273636d81ae3a7cb15deb17a8246b857a,Chest
+Locked Treasure,decoration,e20b5abf98b0a6e027747979aa2fe7677f1100745dcc44bce798dae773fb4a3a,Chest
+Locked Treasure,decoration,248e76cfe62e2d3ad53cf22686f7706ecca8602a92ef8eeb536b55b495d1c779,Chest
+Locked Treasure,decoration,6742d55de5ae5649c069a803734828fe4fb58d22825c445a6a76082499faa259,Chest
+Locked Treasure,decoration,735d0220b9f765f108f41ad885733438af4c172eca950916155ce26ad90301d4,Chest
+Locked Treasure,decoration,c026f9dd10343c79d53377a207f65b39eff81011c91cefc34dd3d576e21b4541,Chest
 Lodestone,decoration,f50216597f16bcdc22f10a3cc2299ca884c57e46850fb8def01895662d390404,Stone|Vanilla Block
 Lodestone,decoration,f133de8c3bb61e424117208e2c773add3e37b96a049c1bb9f31609f446277775,Stone|Vanilla Block|Nether (vanilla)|Inner Layer Block
 Log,decoration,a77eb6ed3f557e35788eb548560c16916ac800d575dab6270649383753c6314e,Wood|Decaying (organic)|Inner Layer Block|Hypixel (Skins)
@@ -28403,6 +28517,7 @@ Lucky Cat - White Right Pawed,decoration,bbdf9fb7f2ac5987ecfbd173e8b9711d99b5811
 Lucky Cat Gift,decoration,a72dd752984807fb9c15b91855154f5117f787ee9098e06a4c34a6eabc5d4f31,Present|Asian|Cat (other)|Japan
 Lucky Dye,decoration,2d87701ae93c2ddf5ddfe045c45fe49677d88abd1717bf161832e6c1d935e05f,Jar|Hypixel (Dyes)
 Lucky Dye,decoration,7c6ec87403533b5ce359c1762c53d57c7f8f44045957a6ab361dc6c4d73f37a8,Jar|Hypixel (Dyes)
+Lucky the Cat Plushie,decoration,bf9179bb21dcfd222cb1df65712226b55ab3308078c935a083dfefdef9c9ad2d,Cat (other)|PetPlugin|Anthropomorphism|Figurine (Animal)
 Luggage,decoration,8b696506e21a9c31045f1c8ff15955f3f07b47127eba0b212cf8cfda32b892f5,Storage (other)
 LuiCalibre Plushie,decoration,8b6633e149407010ac83f25633f013e1cc4fb143484059b6e0e24adf4972e3c4,Youtube|PetPlugin|Smoking|Anthropomorphism|Figurine (Animal)|Primate
 Luigi Plushie,decoration,4e7a46f88b60148f0026ca84f926d2b35f7f8edd3a97435c8e7e3df933f796d1,Male|Super Mario|Hair (brown)|Figurine (Human)|Baseballcap|Mustache|PetPlugin
@@ -28843,6 +28958,7 @@ Medieval Castle,decoration,3288fc6f13005956853b28c9008b290f04f765c4ba50a8e9cd62c
 Medikit,decoration,8793eef4849078df4ccd498054c74e2171c771f2730944164a8ee7b2d563832,Health Care|Hypixel (Gear)
 Medikit,decoration,26b7e0ac9b117897e2e29d9e17348513d558b6b0ceedfe09f9ad67473e87ce83,Health Care
 Medium Agronomy Sack,decoration,294c8341a535f80b3f43c5c243d03006bd325c9e96ff3ab957ccc37062830ac6,Fruit|Cloth|Hypixel (Sacks)|Bag
+Medium Bait Sack,decoration,997597ee2ba9cd88ddd0b49801c93bcef1634147190f67de240f743882137c37,Cloth|Hypixel (Sacks)
 Medium Combat Sack,decoration,e4b2b79a4e060abb00aa88e7c4cd5c0039f5e5cad2d45c1cff5676cb83a1815e,Cloth|Zombie (Vanilla)|Hypixel (Sacks)|Bag
 Medium Dragon Sack,decoration,8fad6f7a2110bb2ba66ed4b34dd6fe1794ea33ce7b24ce34bef865cc4a2cde38,Dragon|Cloth|End (inspired)|Hypixel (Sacks)|Bag
 Medium Fishing Sack,decoration,ff75871c90b94f4fbc167e351d36e8aeae1cc2fec03b16629007f74c989de648,Fish|Cloth|Fisherman|Hypixel (Sacks)|Bag
@@ -28901,6 +29017,7 @@ Mercury,decoration,3178f235768ed2f0f1a07ab02b92f599cc42c741d2f733e5368b5a10484b3
 Mercury,decoration,97fb27a1a11ba456c0a13f90901364ced9ecad8fe9c99b6838ff5f4dab1f6191,Planet
 Meridias Beacon,decoration,f8a42876abf0d379cabea4fa185e0021d04df0f68e889dfd3c0acc7f85023032,Orb|Skyrim|Hypixel (Talismans)
 Merry Warlus Plushie,decoration,a3b2c6a0708feb843286d9ae07ff365ba4b3ae3f2edf2c961a8f109b7c92168d,Ocean|Winter|Hat|Club Penguin|PetPlugin|Anthropomorphism|Figurine (Animal)
+Mesa,decoration,28f4e1a7c9078f3b882f72b5c1c562fc08c9880b17654ccd302b9e04cfaa0386,Desert|Hypixel|Landscape
 Metal,decoration,d570bf75fc0bbfe472c8f5024d01f0775c3e79a54d9817124ee9ca5c897225bf,Forge|Metal
 Metal,decoration,13033628d1c3d33bc6034cbbf0cbb11b917c7174270b1b88b5ad440ccf2e8da8,Inner Layer Block|Metal
 Metal Box,decoration,d17569619c58d58e2b4f26de08a9a4b284203c9020d6190a97e5a70cfee749c4,Storage (other)|Super Mario|Metal
@@ -29617,6 +29734,7 @@ Mossy Stone (gray),decoration,3d8bac22cc161bd03d2b9c4e55bf33d4c4387ea730dae1f32c
 Mossy Stone Brick Block,decoration,79a241fff37206e0db976c792ac2338b2cc39eabae83c7d4673a1b3dbc3f40eb,Stone|Decaying (inorganic)
 Mossy Stone Steve,decoration,8badd0393a489cb007d5af81014d13f2555027e91c0ab6b25beda15c6891d16d,Male|Stone|Bust|Steve|Decaying (inorganic)
 Mossy Zombie Plushie,decoration,4ecfe6ce68455dc86ff2fc6d4af7e6e4957496366a16312ee4f860cbbad589a5,Zombie (Vanilla)|PetPlugin|Minecraft Dungeons|Figurine (Monster)
+Moth Books,decoration,30953dfdbb741be1f677fbd6dfe1b1c195f1383f844a51816ceb54b42989736,Book|Insect
 Mother Spore Plushie,decoration,a1e55d2a1709374f0509c6853dcddfdd9e8785dc3aa22116b6d1b0e0dbd00e33,Mushroom|Youtube|PetPlugin|Hermitcraft
 Motor,decoration,8cbca012f67e54de9aee72ff424e056c2ae58de5eacc949ab2bcd9683cec,Machine Part
 Motor Vehicle Lane (China),decoration,9fc0813b2db7bffdb0c5ee1999c62f43bc0b33c6ccb61879b395fbe0ac1d0152,Traffic Sign
@@ -30010,6 +30128,7 @@ Nightmare Freddy Plushie,decoration,c1817b828d1aee8daac3b01d75ce5827f3080c2ccef5
 Nightmare JJ Plushie,decoration,295166fcb2bfd96b4328c1312c1687fb8b1f47baa34023765b82af33dade4048,Female|Young|Hair (brown)|FNaF Fangames|PetPlugin|Blushing Creature|Figurine (Humanoid)
 Nightmare Mange Plushie,decoration,21f87edbb560078ad909b3865c359710f14712fdc58db7a22298d1836b76b3d5,Five Nights at Freddy's|PetPlugin|Figurine (Humanoid)
 Nightmare Mangle Plushie,decoration,bfb7f1678ff6b26da2c2cb1115688e53d06d742bbf5cc2920ba23c9023dec613,Five Nights at Freddy's|PetPlugin|Figurine (Humanoid)
+Nightmare Mangle Snout,decoration,faab919ee26377e06e37f46018b9c068c12e4c180acdaba00bd5a2fb8529503d,Organs and Bodyparts|Five Nights at Freddy's|Combined Heads|Decaying (creature)
 Nightmare Plushie,decoration,a85216f6b92467e9d6e6675534d474de9ea7ec14c8eb06862b790a733298dc3a,Five Nights at Freddy's|Ribbon|Glowing Eyes|PetPlugin|Hat (crooked)|Figurine (Humanoid)
 Nightmarionne Plushie,decoration,f028cccc53f60552d82a2d387848d60bbb0309d16b4d10acf24bf2247b36a619,Five Nights at Freddy's|Mask (full)|PetPlugin|Sad Creature|Figurine (Humanoid)
 Nightshade Dragon Egg,decoration,e8ca55b302336b4b125a7a0eb5e058b4376071a906963e5c7ae2dee69949dad7,Egg|Easter Egg|Dragonvale
@@ -30709,6 +30828,7 @@ P-body Plushie,decoration,f48ab8459c1ac5291cf29f893fccc581cf43a5bada5edf853a982e
 PAL,decoration,5492fc8614a57386f95b27bef345616b0d7b8c68b15129d229fc7b5aa0a81f11,FNaF Fangames|PetPlugin|Figurine (Humanoid)
 PC,decoration,bcd095c59ffa1e48c268ce4d6e37b8ce4d9a448862b3d76d83f5c6d8c3b6709c,Computer
 POW Block,decoration,cea12ea219e39ef208e6483f885a7796251867181964e1c54df5d74473d632f0,Super Mario|Outer Layer Block
+PRC-25,decoration,d44a6ab35c7d0ae35f86b466e2a9a214dd922a039d846a2c62ecf2e96e46d0ff,Military Equipment
 Pack of Lighters,decoration,c6664ced4291de78d187f374e21d1f7e08fffbdc21cc3e3ffd41b5a3c9266b77,Fix Head|Device|Smoking
 Package,decoration,32c27108cf25ef793668cc2d953f59388e05fc2c199946571a9c88ba56250772,Shipping|Inner Layer Block
 Package,decoration,824f769c9450f22e484e089ca02e324fe37b18f4c18ef296021871ba4ad0c396,Shipping|Hypixel
@@ -30840,6 +30960,7 @@ Pale Oak Chest,decoration,b5e53667db45b57ce5a39b1565ce7e530c132ef708e1de434cc82f
 Pale Oak Crate,decoration,f590db0b20c99a78a35e782bcc84f123c9f5d3aab106fdc158406e9a0fe97b09,Storage (other)|Wood|Inner Layer Block|Pale Garden (inspired)
 Pale Oak Crate,decoration,3bbb2d2aa3d3e4bb59df3d555b1644984ab53e1616e7eab9c65483be681cdb72,Storage (other)|Wood
 Pale Oak Leaves Chest,decoration,15937068b890bc3a1a98fd9cc7ad591da81bf9e78661c2564ef41da4d1d76e28,Chest|Pale Garden (inspired)
+Pale Oak Log,decoration,29c458b36c77cc066b313bf43322bd8f83b980a8736624cd4f9af3ae24ebd891,Wood|Vanilla Block|The Garden Awakens
 Pale Oak Log on Fire,decoration,a57aa028fee17f65306bb6fb75979368e57e46837d61234b9dae27c320a56965,Wood|Fire Department|Pale Garden (inspired)
 Pale Oak Stool,decoration,bfd82be7dbaa339fe8304932951b9561e41770f5c8ab656fb73345cf9bf0dce,Wood|Furniture|Pale Garden (inspired)
 Pale Oak Support,decoration,9d186e82bd7d070f6462095d389ca1a4c84ef2e15a1d348e7dfc1c9678ba5afe,Wood|Stone|Construction Site|Pale Garden (inspired)
@@ -30979,6 +31100,7 @@ Pearl,decoration,20ce0b86f016e4074fdea18909883c9348f9640eaa6e1e2035d23ac75e6838a
 Pearl (charged),decoration,5170f0940d55022b721a64ea446278f359fe4bb395725dc8e93c02b1229e1a7f,Gem|Ocean
 Pearl (grayscale),decoration,a9bf061c56eaaf12cc8a49099c75b6cd054c9b2aad080422d66af729ae477fff,Gem|Ocean|Orb
 Pearl (white),decoration,74a5db8ea7977c7f96a68dfe1fa49b66eafbecd3811a6b6d3d177dda5f942313,Gem|Ocean|Hypixel (Reforge Stone)
+Pearl of the Dreaded,decoration,4fb36cf4bb01593e474d8d2de08bb5bafd16a9786bfd708cfed1c90cad223cac,Treasure|Ocean|Orb|Metal|Hypixel (Fandom)
 Pearl of the Lotus,decoration,e431ccfc98d629ac6043d590dfcacecc36ca1440587ed0712c5a098033c5fe73,Treasure|Ocean|Orb|Hypixel|Metal
 Pearl of the Swamp,decoration,adef6d7a26d04f2b541e3127a6cb0d1e750f75945ba260980ab24a380edae3c3,Treasure|Ocean|Orb|Hypixel|Metal|Decaying (inorganic)
 Pearlescent Dye,decoration,fab1c76c2bce51df4d8dd1168603d76b8da703348a971c48ef4cfea913962902,Jar|Hypixel (Dyes)
@@ -31110,6 +31232,7 @@ Phantom Foxy Plushie,decoration,6aa05deeb4a64933cd201a42b95ebc115f3123d12ad24ffd
 Phantom Freddy Plushie,decoration,9bff734efb37cd98efda7754f74b8584f229e7d7eb8dfaa91cc02a543d8adb6d,Five Nights at Freddy's|Ribbon|Glowing Eyes|PetPlugin|Hat (crooked)|Figurine (Humanoid)
 Phantom Hook,decoration,c95eff1654366d5245238ddbfb65a7a7128468a9ce343861fe239e87c14c3f6d,Halloween|Fisherman|Hypixel
 Phantom Mangle Plushie,decoration,eddbbc45eeb38b8c062ff7ac9a041d0c3cd625754fcbbdd0657d38a9a036ecc7,Five Nights at Freddy's|Glowing Eyes|PetPlugin|Figurine (Humanoid)
+Phantom Mangle Snout,decoration,c449b27a0275b889c43f4cac4e8d9caa2572dee4bc61b18c71a0537518d8d4e8,Organs and Bodyparts|Five Nights at Freddy's|Ghost|Combined Heads
 Phantom Membrane,decoration,83ab022dba02b14b86f2293fe51c4df9d51b6cd0ced16aaf139e3e7fd3809dba,Vanilla Mob|Brewing|Vanilla Item|Phantom
 Phantom Membrane Bottle,decoration,159762e53935cb95616a60f936f8f1781ed3c279f965a1b6ea950649281d567,Vanilla Mob|Brewing|Vanilla Item|Phantom
 Phantom Puppet Mask,decoration,e51f3f17ba4871a99438a3ae79f5f97d2d65e2b6511b720205fbd0b1e374f9aa,Five Nights at Freddy's|Mask (full)
@@ -31127,6 +31250,7 @@ Phone (red),decoration,51e6c69a3ae8f3a61623e0d2b70f670cc68eb9721ad14cd9979748090
 Phone (white),decoration,ace37acc6c512b7ab4410cecfa75e6d2d27a33a5173e115f0e7660559c4e1313,Armorstand Head|Device
 Phone (white),decoration,47520e52cb22aa0a2eb8b59d5d7baff7ed6428f34797b286e744ad00952fe796,Armorstand Head|Device
 Phone Book,decoration,e853f3c94a7632c9371d2271429f7975afb8df2f9f8c478d9eebfbceb4ed5966,Book
+Phone Booth,decoration,b1744c14303f7af1d12b79e84111a5102d90fb786fdb6f556d025c5b296f6ad7,Device|Dwelling|Hypixel (Skins)
 Phone Case (blue),decoration,1ae0ebb719c95c18eb4ddf433a92d86d679737d93b32bf1156b0c3bf3037f72f,Armorstand Head|Device
 Phone Case (green),decoration,6632524e58e517193d32cf50aaba9bcadd71c7f682890b9425835bf903074e7f,Armorstand Head|Device
 Phone Case (light blue),decoration,d072e77fae894391ba7ca534064c244f8f78e1d00ccdfb439967e6bf701476c,Armorstand Head|Device
@@ -31735,6 +31859,7 @@ Plushie,decoration,9c794229a467fe3371cdbc2e6f45db71017e88284d3bde11ff36039d00e9f
 Plushie,decoration,87c38c28bc3e7dbdef8ba22eb232860fa2a7e5174581bcbb9d21a9143b36ba90,Figurine (Human)|PetPlugin
 Plushie,decoration,fe1a09224ea1d65fbd7f29a78b4330844abb6007475f7d965b5552ff8c2368f8,Figurine (Human)|PetPlugin
 Plushie,decoration,263680112025ef3279e4560fb1bc0050909663fa33729227470f34631f1d6d71,Hair (brown)|Figurine (Human)|PetPlugin|Costume
+Plushie,decoration,dec0fc1be29ab0c25d4f09eb0e8559a6cd21fd2e7a25b9b7c96d0ec5ee51bcde,Male|Hair (brown)|Figurine (Human)|PetPlugin
 Plushie,decoration,6f15b3a17bf7e9518cbfe2477233315d521a0d7a20278eba667a52c7373b4ecc,Who is this?|PetPlugin|Figurine (Humanoid)
 Plushie,decoration,356d78dc5493cb867070da9b9644434ac3193cce707570d37391cbd49520e142,Male|Figurine (Human)|Glowing Eyes|Hair (mixed)|PetPlugin
 Plushie,decoration,6e3dd6f1a51786f79a137c41b909c2c4e727b3a42089de285f45d13405b650fc,Male|Hair (golden)|Figurine (Human)|PetPlugin
@@ -31998,6 +32123,7 @@ Portal Dye,decoration,622f3e4e5ae0639d1d2ddafbe69323dfe7f8a908de45822b1709a34588
 Portal Gun,decoration,8bd467d3b465575ba239e4ac6c014449bc0a557289414ab56d136b9e783a651b,Portal|Device
 Portal Gun,decoration,12781b78bbabbb238ef6a327c3f04dee5ba18a8655faada098c457c86fd53e,Military Equipment|Rick and Morty|Device
 Portal Radio,decoration,5d2586845ca07f5ce4a521976a166179ed5183ef868e4d6cebb5b69f64e5e2d0,Portal|Music|Device
+Portal to Torrhus Canyon,decoration,1c3be0c6a5a6fca77b4504c2cf9359da83516cf5808642f4407ba12fe9407464,Hypixel|Landscape
 Portfolio,decoration,47f95edb47a02adf2a5f993a53c5547aaff46ed10cb10a31d94862523eb39323,Book|Minecraft Education Edition
 Portfolios,decoration,5f55a7dc6322ec72f31ecd3c3b0024903b52bba584aedea1cf1a7e6eae27a280,Book|Minecraft Education Edition
 Porthole,decoration,d1700e0c21dec131901a5a38595a577402af0c7b1631f060c3235416e4f0a688,Armorstand Head|Ocean|Machine Part
@@ -32193,6 +32319,7 @@ Present,decoration,2994a92f9ddf27e33b437b911ac1e62fe7af56235ac152934bf61c0f0fa06
 Present,decoration,8491062ca91cfef3c15d1ec117c099183d41943b116a23e1b4c5acf02b7ddd0b,Present
 Present,decoration,b70fd8c2d3cf5ed123185cf844a3f5d97f0ffb63d7e2203c33cadf26fa1e566f,Present
 Present,decoration,12919c67317c7678438ff520c98dde0e3b4d68769c8938a5a3de2968edfc7314,Present
+Present,decoration,f313f7b7cb35a49c0653bbdd5792413be4c762752b1ef4d507f52b115c5971e9,Present
 Present,decoration,60e46dc072cb490806ca8afaed81b117f782f2a3b7e68e808e49cb6d7dc0f6e9,Present
 Present,decoration,890bad1ac420dea7a7f0ec15e7b477e75d36954d493a328895a6c5b22dd1fe37,Present
 Present,decoration,89739c475b741ea4fc831ef20bdc74a735fa6004283a5d7fad321d63330637df,Present
@@ -32629,6 +32756,7 @@ Purple Endstone Portal Frame,decoration,d627cd31cb76e768c92b6f47b7fd2bd9c787e950
 Purple Energy,decoration,42dfa0832644385bc0e4868bfe8e12d2d2ce6d307634b9cb2f06196534fc131e,Orb|End (inspired)
 Purple Fan,decoration,1f31c31d438802dc40072f158bbdf0a623d2f065e97159b92269ff76b98bc34e,Device
 Purple Fish Tank,decoration,2bcde7a6b5c4caaf5d64dae5ade0829c9b7e1e48075f6528d09fd2baa933bf5b,Pet Equipment
+Purple Fishing Line,decoration,9bb04c6c9c457f50f3789b09f53f3810cfd3def3aa7936be05e2024eaf622762,Fisherman|Hypixel (Fandom)
 Purple Gem,decoration,857b578e7e6736ded9b4ec051625560533239cef818dd28d6a4c49604ab25b4,Gem|Hypixel
 Purple Gift Backpack,decoration,40894781820f81b706a081577d7391a6c30f2c474b087aca14d54b6f659f2ea7,Storage (other)|Present|Cloth|Hypixel (Skins)
 Purple Hand,decoration,6e111f798c65445fd801c27d55dd5458eccc7e4aa92881dcb52b26646525e36f,Organs and Bodyparts|Poppy Playtime
@@ -32958,6 +33086,7 @@ Red Monitor,decoration,3757a8044e17881940fb07e945d5ba2be5b2624818dfdd3fcd69b1dd0
 Red Monitor,decoration,8772ac3c55b2f5a3f371db8ac7063fe776f4e3a2deca6bb7e45e7b537887f097,Monitor
 Red Monitor,decoration,4b0e87770e86a78fd39573ae3fa38350433c74fcf7037618dbfdd18aff698290,Monitor
 Red Monitor,decoration,393dfb51c82654b23d51742206fb82eb526174c1b85f1e8bd37f8dd6d5d4fe51,Monitor
+Red Mooshroom Books,decoration,f6b92817c7508712da13bbe850b737d142f4e66f7974ab0707cf430d599abea,Book|Mushroom
 Red Mushroom Bag,decoration,990c7807b018ca1e58d963d615f31f954a31de57f1d9f43b15159b47db7e0cef,Mushroom|Cloth|Bag
 Red Mushroom Block Chest,decoration,4a1fdb6b1e98e5f3a63921f9380f76061481fb12a3e397a3544d4a89f4e64e66,Mushroom|Chest
 Red Mushroom Jar,decoration,cdcb28f19a9e047166ec50b4b2e2e02f61e2384388f7cb16c842465225502b1,Jar|Mushroom
@@ -33078,8 +33207,10 @@ Redstone Lamp,decoration,e937fa3878c8e2ee809a9086606d33bb12fb6513975abf62695a359
 Redstone Lamp,decoration,cb9c7be77d9a708c775ce0ea7625ed2b65182e250843d4915dceb7aef51c165d,Other Illumination|Vanilla Block|Redstone|Outer Layer Block
 Redstone Lamp,decoration,d57eab10f2d1b2e3d7d7a03c873ac393f6e4325a6f02598d71c7b58eaccf63a7,Other Illumination|Vanilla Block|Redstone
 Redstone Lamp,decoration,58d1c6009f2aa55b69e891350eacdf82454addcdf3dbcec2623e93a75260e14c,Vanilla Block|Redstone|Lantern
+Redstone Lamp,decoration,6e946ac468fa3eb801f5ded64e3cf6a92e32553f4ff70f984c2c7f0145649c15,Other Illumination|Redstone|Inner Layer Block
 Redstone Lamp,decoration,7ad4a74f925d14c3a68c6b1d99e644953e9d3fd22b108def61feb2ec40e8fd2e,Other Illumination|Vanilla Block|Redstone|Inner Layer Block
 Redstone Lamp,decoration,c2c51e6f3136cc0e56ee5954b342e754ef077e88a368c9388528884875067cdd,Vanilla Block|Redstone|Inner Layer Block
+Redstone Lamp (lit),decoration,e861292e00a36de13f42cd99ede68b19ff584ea862b0c433c8043005940ab78f,Other Illumination|Redstone|Inner Layer Block
 Redstone Lamp (off),decoration,f3e71ad919523eace9cd62a25b18e4e17ab38d1256241f4262dfba7297c4d92,Other Illumination|Vanilla Block|Redstone
 Redstone Lamp (off),decoration,b4e75c3119fb4cff7cecc8064cedc4f9135fe001573fb702e73e4a818d4539de,Other Illumination|Vanilla Block|Redstone
 Redstone Lamp (off),decoration,bd58d459165d5978753eab5f44bd609f3db84ee3bb016932052389d38b895,Other Illumination|Vanilla Block|Redstone
@@ -33876,6 +34007,7 @@ Sculk Shrieker,decoration,44b5bc974a2bdd6bcf5bb0ac069a92d26ead7342e50e3394effe04
 Sculk Shrieker,decoration,8f336e8cb626a9ace9ea4ccbb57c7ad20065de2b6bf5707b038b2f1a43b6ff19,Vanilla Block|Redstone|Deep Dark (vanilla)
 Sculk Shrieker,decoration,44266df0075a2400c8ac9df3633bb3a849dbdea00b2004e313b4da94f01f8943,Vanilla Block|Deep Dark (vanilla)
 Sculk Shrieker Chest,decoration,a08da20e503a9d7d0fed46022f31f0f55cfafdc7758d8d1c4086850d4a715606,Redstone|Deep Dark (inspired)|Chest
+Sculk Sinker,decoration,78975a6065a9ad149589670b00481dd6244bf56cdb6c8038df29a1c5d0b1888c,Fisherman|Hypixel (Fandom)|Deep Dark (inspired)
 Sculk Skull,decoration,85514192a714a2a1831b3eadb17b7cb2c1515c19207e05026371683ed712f6d8,Skeleton|Deep Dark (inspired)
 Sculk Skull,decoration,2c74d0b93288fe6823f4dd45fb7b2c5d8add5a235a1df6bf143ce9f17d721e9a,Skeleton|Deep Dark (inspired)
 Sculk Skull,decoration,3bc5f77acadb15470d9c45fd13853a5f283a0312ec0ee9dc5a7d79e33e220a2,Skeleton|Deep Dark (inspired)
@@ -34271,6 +34403,9 @@ Silver Orb,decoration,bd6fe417f1564a8ef2af8bc20002ff01b191954194afcc2a680a9da44b
 Silver Play Button,decoration,50e665c492e3ff6244e14f1889ea2066562b60aeba604c76e44030a68dd8a64,Logo|Youtube
 Silver Playbutton,decoration,55ee3c3de4556670bf2935c757246e34162055b554d807afc01be33da00a210e,Armorstand Head|Youtube|Device
 Silver Plushie,decoration,1da94738dc20ecd222f3c388bd4e95b059d23186f727206419e77b38e9b8c1c1,Sonic the Hedgehog|PetPlugin|Figurine (Humanoid)
+Silver Ship Engine,decoration,d90973503f85aa3ead9ad96f3d16c97a70aa1f3f7f6bc3d682a9883a3f5d2a8f,Machine Part|Boat|Metal|Hypixel (Fandom)
+Silver Ship Helm,decoration,a4c81f9f6eeb21ee943779509417e651e5b31f4be21ec2bf338d7210ec87ade3,Machine Part|Boat|Metal|Hypixel (Fandom)
+Silver Ship Hull,decoration,3f4f67df5d9157ee2f08276ae496b2941e0e3c748dc1d0f9c041987196128873,Machine Part|Boat|Metal|Hypixel (Fandom)
 Silver Star,decoration,a1b08e027caa3f5b33d5a363175ed0780688aa2aa27def2795cb366468e41335,Planet|Super Mario
 Silver Statue,decoration,4c0eec0e0cbb445114071c9fe0237c16fcc30e89ad8e7945eef171d7952b132e,Bust|Metal
 Silver Steve Bust,decoration,c22d3b0fcdf661139950010435045a1f8773c60e4409df3bfca8b2a16cccac9d,Male|Bust|Steve
@@ -34454,6 +34589,7 @@ SkyMart Brochure,decoration,42a3048f53b24fb36ebac64d858389135883f25874e4546d1fcd
 Skyscraper,decoration,2d2c4aaa8c4836165ad120b80bf5f1b43f8c02e7dad93d49b732787b3c08b831,Dwelling
 Skyscraper,decoration,6438092748d8fe4299df72b92af1c431378e2aafd3f725fa3d23cbd77c3b8c79,Dwelling
 Skyscraper,decoration,76cf3db1561873638856aef02a9293ce5f1bec4e0ed9a62315bdb41286cae9dd,Dwelling
+Slateskin Potion,decoration,8cb1d0e9f47778ff6b76320dec5a5d237d85f176826d311bfff527b7b75631a9,Jar|Brewing|Roblox
 Slayer Sack (large),decoration,599712d397f0bfbfe0124c5ed80c810f4fe1e0a5c55d71f428dd2834c8a2c399,Cloth|Hypixel (Sacks)|Bag
 Slayer Sack (medium),decoration,6a7da3fdd00a2cdd643a3da3e2ac5cf81f7231ab31b0bf61767ba3fb21c2c1b2,Cloth|Hypixel (Sacks)|Bag
 Slayer Sack (small),decoration,2c6cf591aa2363bd84342404dc594168b904f65a1e25f8be658b91b567629dad,Cloth|Hypixel (Sacks)|Bag
@@ -34486,8 +34622,10 @@ Slippery Surface (China),decoration,2baeaa227b132660068d69ae4582eae40298fc334e04
 Slot Machine,decoration,de1c2a5c4d4c35fc3754295f39c333ef678bd2edad9c88f2d1680f149682,Toy|Device|Casino|Hypixel
 Sloth Plushie,decoration,be96917073c2848e5dba64bbca79e4e8e4eab2d0b1aea062df29124d746c2cfc,Scarf|PetPlugin|Anthropomorphism|Figurine (Animal)
 Sludge Book,decoration,f1320e03e2edb86b912a9a5e50f4ab98c7b1762266cf7b020d65203b0fb69746,Book
+Sludge Dye,decoration,b16b462c6a8a9e06e52a9074ff3235a464e7c222584550d4011ebf03576553c7,Jar|Hypixel (Dyes)|Art
 Smajor1995 Plushie,decoration,bf365c498caf90fba85a92d3e4865f0906d95f77a5f1019bbe2eefb1260145e8,Figurine (Human)|PetPlugin
 Small Agronomy Sack,decoration,2ab879e1e590041146bc78c018af5877d39e5475eb7db368fcaf2acda373833d,Fruit|Cloth|Hypixel (Sacks)|Bag
+Small Bait Sack,decoration,ae73926e88bd1b9548fcef447d0fd5e249e403f8f1c43d7e6a07c77c7ca864ca,Cloth|Hypixel (Sacks)
 Small Combat Sack,decoration,9b8f452c9d6b6254b5478569a60b0b6fb031c7ad2f06ea3dacf2ce874ca7083,Cloth|Zombie (Vanilla)|Hypixel (Sacks)|Bag
 Small Dragon Sack,decoration,5739492be78c572fb4c6bfaf8f10bd528553b43af575ba073acbd2c4bf77c40b,Dragon|Cloth|End (inspired)|Hypixel (Sacks)|Bag
 Small Fishing Sack,decoration,c4fbc77d27dab10de5abf9d0bcc47198f923b0e6c179a3c3983e77f12f7c033e,Fish|Cloth|Fisherman|Hypixel (Sacks)|Bag
@@ -34546,6 +34684,7 @@ Sneaky Tiki,decoration,3eac8820104cc421e0392142dc7c79eb84bd2be8f8155c29d72f5fc58
 Sneed Plushie,decoration,6283314ca4d90b15e62ecb70d6d47d2c8cfce25fb5e712ff942e5fad81b889bb,Male|Meme|Hair (gray)|Simpsons|Baseballcap|PetPlugin|Happy Creature|Figurine (Humanoid)
 Sneegsnag Plushie,decoration,f1a4b511ceb3ce8b007c67fd3b0968964c744c79331ec620c6125b9be47033c0,Hooded|Youtube|PetPlugin|Figurine (Humanoid)
 Sniffer Action Figure,decoration,8c2e4a39465c1666e6290d8e884ac37210e3a56cb92fbb4da9ee8efc6aba3873,Toy
+Sniffer Books,decoration,e2d191f3412497a9eae37860629745b4ff517f9de45f657247ed5048eaf8968d,Book
 Sniffer Boy Plushie,decoration,a89a34b81a6046b21d7f42b87600828250bb830c1cacd89e6cb20dc7531abc3,Male|Young|Figurine (Human)|PetPlugin|Minecraft Live|Costume|Trails and Tales
 Sniffer Egg,decoration,dc0f6958bcd04b5525fe093de169cdea7e424ec98223ae1cc318b5c9eed6d2c3,Egg|Vanilla Item|Trails and Tales
 Sniffer Egg,decoration,bae445d1392cb559a68b4f4401e1aa3ec5e7f9e89c0b62632bccf0ac3b41b4b,Egg|Vanilla Item|Trails and Tales
@@ -35210,6 +35349,7 @@ Spiny Shell,decoration,2b403c6d23902813edc6932af127031a75e7494c7f46c31c904c33494
 Spiral Bulb,decoration,94ef515f7f099847e0dd2b58cbf6be5dcf04f6c8a2cc6460e604cd96ea417fbf,Machine Part
 Spiral Monitor,decoration,6130443abe50d425f8f83bdbf0604cd085cd55a6a601a520b298402ae3f95364,Monitor|Horns
 Spirit Artifact,decoration,87d79f76caeaca0d24b30728496c50ecf1e57fdaaedbf2dd01623db9bf789ce4,Treasure|Hypixel (Fandom)|Antiquity
+Spirit Dye,decoration,abacdb6dda04358affc4cd0ed27c754f8fc4e0f5500770cf64181ec613322fc4,Jar|Hypixel (Dyes)|Art
 Spirit Orb,decoration,3bdcd6a074d570dbb343ec4adef1212a5cc549dd7b4901bd662aa63311d3a83f,Orb|The Legend of Zelda
 Spirit Orb,decoration,40a34d28a4cd9ce2a429cb2bc5d688ba76398688c782274b4ced746582a39d98,Orb|The Legend of Zelda
 Spirit Wing,decoration,e29ad76c2459911c2bbacdcd0a7b82e0835567e3e5134b05a6f5af669dd88b83,Organs and Bodyparts|Fairy Tales|Hypixel
@@ -35472,14 +35612,32 @@ Standard Quest Chest,decoration,56d7fdb50f14c731c727b0e0d189b6a874319fc0d79c8a09
 Standard Quest Chest (open),decoration,df39bd10b2369af699a31a7bf7d14539f3c125216fd8395ef9a50e99412c75c5,Realm of the Mad God|Chest
 Stanford Pines Plushie,decoration,2e9f592a12f123d6ea13a9e01920079f72e545f310476b019edf80eef809ae55,Male|Old|Glasses|Beard|Gravity Falls|Hair (gray)|Figurine (Human)|PetPlugin
 Star,decoration,d909a565e705d66ba806fa3022c7f323f595f6eb29be3e2a3eebffa85513ecab,Space Travel
+Star (Black),decoration,2790a03b405855df910de7bb8b10443a084874d133c1f40780d141f807e0ca30,Planet
+Star (Blue),decoration,1403f3dab0c5fcb24755e671a1f2292fc254e3c82e81e707e7dc0c13b6350a36,Planet
+Star (Brown),decoration,fcf33f0cb46f567197c14fe2b29655ee4690742c74709de48c4e9b4635a26c85,Planet
+Star (Cyan),decoration,c9aff00cec438120dd1feabebe28dcc4d8c40c9b5824cb04fe9cf21b5121f47d,Planet
+Star (Gray),decoration,31a5a2646c41e4a3e3c6196ed09ededfa23e2960eb4a050606abcdcbaedc8bc9,Planet
+Star (Light Blue),decoration,e9a188536c22432f4524ede18226cab40fd5ad4331df383f5b1e5db9addd6c55,Planet
+Star (Light Gray),decoration,6a90e4c0ee653b66cde71653f2ec844d6880311337aa5445e92b2c6fdf314b1,Planet
+Star (Lime),decoration,ba6243650a42ed59191e2816566f8332dd8b6685c5d748cca0aa9e544eaf5eb1,Planet
+Star (Magenta),decoration,f80c24314b9204ccd0ee74bbc8b16bb658c948a5a5d65a685f8d3f9dc41cddd8,Planet
+Star (Orange),decoration,469c82468687945a3470b50846681a2bbbec63175f0732438b5a31379e444c0,Planet
+Star (Pink),decoration,f26da738a371be57672da2285a6edda323e6bf3aa627305b1803731962f5dce,Planet
+Star (Purple),decoration,5a44c42fd4317cded58d086cf7696b61b0d86c3d287d1b526ab51b8efda3a38a,Planet
+Star (Red),decoration,8520efe0373cd4dfe8fbf4b7c7fb4c359b6bbe38ea44e82aafde13a8c875794d,Planet
+Star (White),decoration,b1a76a8ea8994436b35c6afe947470b1e30ff1550e6b3a62609ce64125a2eec4,Planet
+Star (Yellow),decoration,db70d86b95b16800c98579fbd7df22feee84fe4f51f45fa5c0a22b4b635c651f,Planet
 Star (alternate omniromantic),decoration,892264b235b9ec3c2b14bafd6377d3ce63b0015239dacc862d3e37f37d4db092,Planet|Pride
 Star (bisexual),decoration,bdb49af4693e37c938fd34d7a2b754b37d977b321af12635a0d6b6472a75ae7c,Planet|Pride
 Star (bisexual),decoration,c22a1d2e180a5705628d8219e0271951f46727dbd1ada57df5dafe9bffc1f917,Planet|Pride
 Star (black),decoration,65387c753249959a3c96accf7f38abd9c85431c93344457f828b943b7c77fec1,Planet|Christmas
+Star (bronze),decoration,43a0420e9ba9624e497f0006d562f6feadbb27c1d99d0a545db8b5df72d2fafd,Planet|Metal
 Star (bronze),decoration,9b68eb135098c133a96b3eac726dd72975020b1e749a2e283c80c9dbbb9f9715,Planet|Christmas
 Star (cyan),decoration,c2ce2541ed004b3077a8e7f58d7d1cc556b25fe2b40e3343301461beaa3a3d98,Planet|Christmas
 Star (dark blue),decoration,8d2c496fa4422dae5daedb803d0bf2968bf8a714561330c30066314ba87675b5,Planet|Christmas
+Star (gold),decoration,d340716aa69fd07a450a87ed967a5817e63ab348cedf3460eeccee5795f64d0e,Planet|Treasure|Metal
 Star (gold),decoration,f2ba9ead97c8fb44b156ade9cb214ea912434a2cc47c4dec50f21021c75dd2d7,Planet|Christmas
+Star (green),decoration,8ac833c7b6710c8d306a7645892f5089ef9b70294b5378401fd94b360047d15c,Planet
 Star (green),decoration,21a3134de9ff6d562bc5df1f6cfd1b690d2d4b05900b9b8ac3b19d5f7bdf6487,Planet|Christmas
 Star (grey),decoration,ca49defbdd937c233f36c4ad3ce5ec564ebf9d0c1f355090cc8eb56b60a559cc,Planet|Christmas
 Star (intersex),decoration,94aced1325833552c8bbe0f996f43e26f20afd8782ac42446f50e08be27732e3,Planet|Pride
@@ -35494,6 +35652,7 @@ Star (pride),decoration,168fc4063edb268aaa4fd39a18b12bbde73d70688ce7a8c1df44f57b
 Star (pride),decoration,da680ca3378bc3c4b9edefb0f296056ba6fd703bd9f700b5ada1cfe52f7991dd,Planet|Pride
 Star (purple),decoration,2951bbf0bd1dc05242206986a1343ad1362963d40ce4ceb98024f2e876e6f3e6,Planet|Christmas
 Star (red),decoration,13eaf685953dec492b349e5ca620c2a8adb129d752249ec30b37add26b4a9c5f,Planet|Christmas
+Star (silver),decoration,29b068068a9f5b81c7cca7bd29a3dcf76ca7c9748cb6935ea9dec9e7b572fe24,Planet|Metal
 Star (silver),decoration,f82cb61940687ec6a7478f19f2093c996d91154f3d187f064b0fec2640eb137b,Planet|Christmas
 Star (transgender),decoration,cd232201d55aad540ba3e2b77d2e2c73e38f402fd4b0c73ec534f25f98a9f382,Planet|Pride
 Star (transgender),decoration,3bf42d17b3399b445c54a58fb11107de792e65fe25f24c0bc50a05e65be353e7,Planet|Pride
@@ -35969,6 +36128,7 @@ Surveillance Camera,decoration,eb28f4eeff891b78d51f75d8722c628484ba49df9c9f23718
 Surveillance Camera,decoration,3db83586542934f8c3231a5284f2489b87678478454fca69359447569f157d14,Device
 Surveillance Camera,decoration,8e5aa048cdda7d7bc7dddd59fe43e0c6c7d5567d14518ee54a722d8a59198,Device
 Surveillance Camera,decoration,c4a74457c935949df1fe7ee395b48c448b33e60334130958536b148ebd6c6,Device
+Susie Plushie,decoration,f1b5b48b35f2deeb92f92a5d08e0542ae15118579069125e9c54b2a1cc6c6c08,Hair (brown)|PetPlugin|Deltarune|Figurine (Humanoid)
 Suspicious Scrap,decoration,32427d026ee8e83f74422772bad0aae44a16eece708901fc206a51f4720f71ef,Stone|Hypixel|Metal
 Suspicious Vial,decoration,f19355ea41298327c87be54262d29c54b292cb68a80945dca905c302f06110c6,Organs and Bodyparts|Brewing|Hypixel (Reforge Stone)
 Suwako Moriya Plushie,decoration,c3798e513e7e0c0c981cbce3d69c2490afda3cc1e7cc3988583f8db1f85fb358,Female|Cap|PetPlugin|Touhou Project|Hair (blond)
@@ -36667,6 +36827,7 @@ Toilet Sign (women),decoration,87be0ee98cb6591a771005d507acdcc1c07e0bf69f1c9ea3e
 Toilet with Poop,decoration,9ab0a5aa72f5ce270a87160a51268ffcfc795c069fd813ece93610846b382ab2,Bathroom|Furniture
 Token (2 credits),decoration,8d39c64b8f79401dec75bbe1bdbb195fb21887897243d2f80ef37a9338e9f65,Number|Orb
 Token of the Century,decoration,2088f2eb8628c4c9a91350636766dea22cd6fde8240c64b43a2ccffbbb36928d,Hypixel
+Tom Nook Plushie,decoration,e2486a942f091405625bb6345ba1882fa6ce4d19a6081944c8041a5d6c5d861,Animal Crossing|Yokai|PetPlugin|Anthropomorphism|Figurine (Animal)
 Tomato Bag,decoration,f2f52f927efffd5d6cdb4ee6b78f9b54adbd02fe723445609d939b92523b6f67,Vegetable|Cloth|Bag
 Tomato Sauce,decoration,dd820842aeb89b0370f622cb435af189e999f8f51f27d96e91948748f1d27a89,Spreads|Jar|Improve Head
 Tombstone,decoration,b7cab56c82cb81bdb9979a464bc9d3ba3e6722ba122cf6c52873010a2b59aefe,Stone|Religion|Halloween|Cemetery
@@ -37167,6 +37328,8 @@ Treasure Talisman,decoration,31f320025142596396032cc0088e2ac36489f24cfa5e9dda13e
 Treasurite,decoration,be261c6b852dd38e0d51349b1b8132887cd1b69da04d8daf0121af79ad8dd92,Treasure|Hypixel
 Tree Ceramic Shard,decoration,3619b9961d2bd1ed186344c89dd908dce83fc4c5b5067fa5fc7be69ecd3b069d,Art|Greenery|Minecraft Live
 Tree Dragon Egg,decoration,3c1a34cc32556f861ce5b8e4117bdd0060903d87e84eee4a86f7c7594c65bfe8,Egg|Easter Egg|Dragonvale
+Tree Stump,decoration,a9652faaf4439a1800a96f6ef513860c2ce83cc488bf94dd18b9278bfe4f4a67,Wood|Mushroom|Decaying (organic)|Hypixel (Skins)
+Tree Stump,decoration,b45818a69b663599d5400f4057a4326fd271080c832b17cf4bfe4ce0bbb07d51,Wood|Mushroom|Decaying (organic)|Hypixel (Skins)
 Tree Vase,decoration,48e91e88a6c76a8e5cab5e46d866a54059c98248bd911b29577d37ea24b0d2cb,Flowerpot
 Trial Key,decoration,6deb839af700e10ace4f5dba0da5b45bb107368bd42b8333858181fe35f4923c,Armorstand Head|Vanilla Item|Tricky Trials Update
 Trial Spawner,decoration,cfe2f511677d39c43ea376512b69212e45e810dc9cf966dbcc8980d9e0167674,Vanilla Block|Spawner|Tricky Trials Update
@@ -37338,6 +37501,7 @@ Tube (green liquid),decoration,cee6ab0fcbc68257274cbc322e13a39503cc3d788a3616637
 Tuff Bricks Chest,decoration,d1f4bd027ea26f0492e59c93ee06d0ab3b1922ee57aa672944ac44ccc85e088a,Stone|Chest
 Tuff Chest,decoration,13ca463a2a94ab551e74a370eaceaee136d190131bd05797b8653bb697f90995,Stone|Caves and Cliffs Update|Chest
 Tuff Golem Plushie,decoration,b29203a9b873c96a93b690a862e730fa03ffd088013be23c99e6d25afc8a81a1,Golem|PetPlugin|Minecraft Live|Vanilla (removed)|Figurine (Humanoid)
+Tundra,decoration,e923a6280874a5920737b58e8d990cdae4af98590cda69b694ddf8e9ddb0c694,Winter|Hypixel|Landscape
 Tundra Orb,decoration,de047f08729b2ed9d567a6359e5a6d3a9ae3a29c50432643ba087ed0d836a10b,Orb
 Tungsten Keychain,decoration,a0cdb66b5179b2af60b7cf045cd403c9a304a4b18aa1a5eaa2d8c4782149294f,Forge|Hypixel|Metal
 Tungsten Plate,decoration,d83ed217dfd497539e86ab5b898b7b3bf5a186492e24f8b37a634a7947d1180,Forge|Hypixel|Metal
@@ -37587,6 +37751,7 @@ Valentines Trophy,decoration,11dd0f2455c0a53678419fe0eabb7c1a4628e8a840ba9c3b741
 Valkyrie,decoration,46587dd593b1536f3d5adfe8a8c90bcd842b4227da8f1247f14b8380d81576e7,Terraria
 Valkyrie Card,decoration,3b622bc82b48738d245ed967e727d11cdf480cf583d72a35e54f65331542,Toy|Armorstand Head|Clash Royale
 Valor,decoration,821652b2a24d41c60657b566085dd193bafad6783338f98f74ea917be483732c,Terraria
+Valorie Plushie,decoration,d084967249f6db88d0c9bdc006e2a6584bbda1b376aff2ad72b71b5ee37aca75,Female|Figurine (Human)|Headband|PetPlugin|Hair (red)|Minecraft Dungeons
 Valtrya Plushie,decoration,1d3b6fe3e340d679b2f17d4988c19389ef23d08befc1309735b04def86aa17a4,Female|Hair (golden)|Figurine (Human)|PetPlugin|Virtual Youtuber
 Valve,decoration,7aa631101c7c6e60b978b5a84056a6c5e13c5cee0a745be49eec319337f3c871,Machine Part
 Valve (blue),decoration,1ae7af70827050a5745221a0a5b336c09841173c95a04116098302f8f6bf1021,Machine Part
@@ -38535,6 +38700,7 @@ Zombie Book,decoration,e995bf121392522b4a69212c42d7e6b46f1496626e9df032c3ea07cc5
 Zombie Brain,decoration,9ef66446dca2dfd23c8f1d75f5bc1919ea65b4e83827d0378be64a21785529,Organs and Bodyparts
 Zombie Bust,decoration,37957e62784aa53f7f15ac6d35df05ea12df2644f072bc1a437e6f9217a19296,Stone|Zombie (Vanilla)|Bust
 Zombie Easter Egg,decoration,283503be46ce2e5c989007bc83184343452dd6dac5ed145f242675c3f17b8f0c,Easter Egg
+Zombie Hand Holding Eye,decoration,3ccdec4a9ea0845d383c8de0c6abea56f2edf0160e5d912b9ca7d7569f3be5ef,Organs and Bodyparts|Hypixel (Minion)|Hypixel (Skins)|Eye
 Zombie Head in a Bottle,decoration,56128e3ec440d0cfe5241a42f2761f3e5b8466b8f9138c4bdd2bd37a66883646,Jar|Halloween
 Zombie Mask,decoration,9bfb6565082d9f2f7ab8a58ec8b4549091102a72944b956c7aafe4d2d49cd6d7,Mask (Minecraft mob)|Headwear|Hypixel (Gear)
 Zombie Piglin Action Figure,decoration,2743a3cd16a80638d20b5560f6269c18e333ee0203a4265eddc255cd622cf5e8,Toy|Piglin|Nether (inspired)
@@ -38767,7 +38933,9 @@ Birthday Cake Ice Cream Scoop,food-drinks,c7e3c873160283ad8bb9b7d962ea684884fb91
 Biscuit,food-drinks,54863df8811ee8c83e2e26c4cf6483c30c7bc96a43c6e19904c7e8bb4e054a89,Pastries and Sweets
 Biscuits,food-drinks,fd7cce1b899ba984e77dcc25a85a59562087a17b359f39316c5dcdd2fd7fbe9d,Fast Food|Pastries and Sweets
 Bite Late Night,food-drinks,5799b8bac4d5b0da85e0ef212e7b27bd95d3b1e81e89e00b9bd23d266bfe5349,Candy|Five Nights at Freddy's
+Bitten Cheeseburger,food-drinks,adaf5cf16499b3e020ef0c20f4b53660215a0df9ba8d00a8fe4e4231d16aadb0,Fast Food|Roblox
 Bitten Cookie on Table,food-drinks,ffd248e2bba1a6e8eadac23442c0ec47f6b36751abd739ffa9425baa493da1c0,Armorstand Head|Pastries and Sweets
+Bitten Haunted Cheezburger,food-drinks,69ec29391c4fd9b4dadd2f833b24a4fd532ca63d324323635d551591bdf615ef,Fast Food|Halloween|Roblox
 Black Cake,food-drinks,3a944bb0acc4d89a900c86e0598f9a2be082374e908f2b0bf6a9ec03bae6800d,Halloween|Pastries and Sweets
 Black Cake,food-drinks,8d2a5cb8bfc326d9173797ad0de353ba7dd53e01503e5e8297a3b66bffffc95b,Pastries and Sweets
 Black Cake,food-drinks,d16852dfaaf858d0ae9731a81cc3195b1484a2df6b49812ff256f20ef5c2,Halloween|Pastries and Sweets|Remove Head
@@ -38790,6 +38958,8 @@ Blood Cookie,food-drinks,dc3a8f835a263026e50aa5e5edf3bddaa36c81b83f1b99ec79af16b
 Blood Donut,food-drinks,8989dc9681b6cf9d3b4a8e2c554ea1bce632679d3196a4540835ac8d3ad312,Halloween|Pastries and Sweets
 Blood Potion,food-drinks,36be266db2bb1f0c3e473287178862498510b0fb727d73caf064917677b4f4f6,Jar|Halloween
 Bloody Gingerbread Man,food-drinks,af896607a0b238f9e8b572fa9d531cad089e55972dc0fefe94b7610965e5c327,Christmas|Injuries|Pastries and Sweets
+Bloxiade,food-drinks,253758b98d450de1547ffc8f63d0eee6c02cd64048df9591ae426f410395808b,Drink|Roblox
+Bloxy Cola,food-drinks,e7acb46e22d7ee7c7c5ef94ea2cb5a812547f2f55c91d9d2aba48c5a814b8fd3,Can|Drink|Roblox
 Blue Bucket of Milk,food-drinks,6f2cdff62f05dbe7db7fd191949183e2764d68f37726db356aa461a58c54a,Bucket
 Blue Cake,food-drinks,faa5b945a80793de5b8bf1c56dad38c29919dac0fd358b4cac148969816f0d3f,Pastries and Sweets
 Blue Candy,food-drinks,3690d4b463eac37ffdaab2ea8d38467c1efd1b8fe906a447599c31ecbd69a524,Candy|Orb
@@ -39167,6 +39337,7 @@ Cake Frosting,food-drinks,f7b94057fa0525895118f9f2c242aedfbad310762c9e09e2c53db7
 Cake Robot,food-drinks,6062b25936191ddd93cb45bd95996cbcd61b3b174edab6724cc004121a27e823,Pastries and Sweets|Robot
 Cake Slice,food-drinks,efc146863b2bd6b900e6caefa446eb99684b9646f515e98d528688f050ec9478,Sliced|Pastries and Sweets
 Cake Slice,food-drinks,82c47833a085b4b73cd493deee609f1025c0ce536d294549b422421f9ee21104,Sliced|Pastries and Sweets
+Cake Slice,food-drinks,6d5fd17f780d2cb5e2e9a12844214ef6f1ca23875759e67dd7e5f0da3a93ed0e,Sliced|Pastries and Sweets|Roblox
 Cake Slice,food-drinks,b2c6f4c3a1b21040647bbb689a9777f6ac8b996ba330f515202ca2fcc8f443f9,Sliced|Pastries and Sweets
 Cake Slice (blueberry),food-drinks,d56580a1c103f00e73dc50a68b36beeba5b75d7e518fa78932c2d02ee5d921d7,Berry|Pastries and Sweets|Hypixel
 Cake Slice (blueberry),food-drinks,613fed5f7ee6f1c2cf2afadfc24f19adc1eb0d0646a1d42fb3d3e686e85a68bd,Sliced|Berry|Pastries and Sweets|Hypixel
@@ -39379,6 +39550,7 @@ Cheese on a Plate,food-drinks,34febbc15d1d4cc62bedc5d7a2b6f0f46cd5b0696a884de75e
 Cheesebite,food-drinks,411f19c783959807338e2bf7080b1e34abb8c452464c0dce5bdf434cdc250717,Cheese|Hypixel (Mutations)
 Cheeseburger,food-drinks,22e6aab8311de1b47b9455b8b8a8a49f745680d829f55861908849d2a22593,Fast Food
 Cheeseburger,food-drinks,cb64d87ff1068f0874346b9472e1890979522e4ea7a3e3725c6cd66e329a351f,Fast Food
+Cheeseburger,food-drinks,b8b9ba99c8cc320bce1d82fdf1efcfd2faf482c1bdbe0296a5f17f7128f4fab4,Fast Food|Roblox
 Cheeseburger,food-drinks,bf56126532ea06229c9e34a0c768de817bacb26583e23f3eeceb02478f3d22ab,Fast Food
 Cheeseburger (seedless),food-drinks,2447326c9c2421dbb29e3dc4ec66202a0c652b0cf9a60f9f669554c7cb2eebda,Fast Food
 Cheesecake,food-drinks,8d6c1e6bc424d370b16089c61c182c2b756d8d2b7a0ddb527c87edacd190c00a,Armorstand Head|Cheese|Pastries and Sweets
@@ -40190,6 +40362,7 @@ Green Pepper Jam,food-drinks,b2c497c11b8f2a0387613ee8dd68eedce88ea7803f56876a95b
 Green Poison Cocktail,food-drinks,71a722b6b359abfb828219851f192481cdbbc17d386f16b6793097c7df8e126d,Drink|Summer|Alcohol
 Green Potion,food-drinks,20c1e2b1d46cec8db5cd905a5915283d1613f0a91cec6f39bb503345000f3c7f,Brewing
 Green Slurpee,food-drinks,68d89a0b1fa9e25d893867b915fdcf5adacb9f8586d0a41a43bfc95e81ad23ba,Drink
+Green Smiley Pea,food-drinks,688772c9339a34b13be3f91bb0fa1c88b105dd94d5a7fdf8e3f28de004a96e8d,Vegetable|Happy Creature
 Green Tea Ice Cream Scoop,food-drinks,bbf48a39042c9806cedb6a649a6c0599d81b5aae62bfaccf110160e7abe7a610,Ice Cream
 Green Vanilla Cake,food-drinks,7c5ff1276f41eb443b1ed385dade9ed3f446943f3a704dfc973953e4de71a864,Pastries and Sweets
 Green Vanilla Cake (black),food-drinks,d56648e059c8255820752ef80ca6f9500dccce4f481da3862700b8a6f49305a,Pastries and Sweets
@@ -40287,10 +40460,12 @@ Hardee's Hand-Breaded Chicken Biscuits,food-drinks,788ecc784a72d67d058b10e52a72b
 Hardee's Ranch Tender Wrap,food-drinks,f46b87622e40becb28f70e52e72bfcc8abc7191a784d031a2eac944ad38e5470,Fast Food|Chicken
 Haribo Goldbears,food-drinks,7620f3574bb68ae002d4337d763e2df8fbfee5004d1311789a305244d6e9ea8d,Candy
 Hashbrown,food-drinks,7126918f8512e9967911b19c5eaf6d989b2c88e9e206dedc52ecfad0b7eb4a82,Meal|Hypixel (Reforge Stone)
+Haunted Cheezburger,food-drinks,4f143d16b37d903916a1401b943cc18bdc52cc8545a3f01a991dbb5ec0577fac,Fast Food|Halloween|Roblox
 Hawaii Toast,food-drinks,cf323bb64c79b0754cb8341af3d05bd84f48cd5f6270fff005540e6c90682ea2,Meal
 Hawaii Toast on a Plate,food-drinks,1a3bbd9a539cbf9c72f20026bd750be1d2aa909d1f34369da0353a3ab5d8536e,Meal
 Headcrab Roast,food-drinks,927d01678ae26f67c1277b5eca290092589646f44ce10f73f9480ba69fcf39e4,Meat|Meal|Alien|Half-Life
 Health Potion,food-drinks,8d74ef148555ff18535c37f99eeb88307be919d03dc7cb23d18a8fe241c7b,Jar|Health Care
+Heart Break Cake,food-drinks,a65f647a91243b3947b3e7db8b053cf79e835026fa191199ecb0b0e46ed294d6,Valentines|Pastries and Sweets|Roblox
 Heart Latte,food-drinks,50117676a4e405e25805988ce3acd988033e10b4e5fd39bc8a7fce510727bbbf,Drink|Starbucks
 Heart on a Plate,food-drinks,24e1fd99968899b34eac71fe6aff7e53da281f0b0f47f0a82df5f76ef79d2570,Organs and Bodyparts|Halloween|Meal
 Heinz (tomato ketchup),food-drinks,3fff309935a0088add043231b10d1237311a07c74d4500ed8a9b0ba8fe7d1179,Spreads
@@ -41584,6 +41759,7 @@ Rainbow Tea,food-drinks,f0a57601464afa9fa372f0c7cbdc14d2b6820916a4651fd241bc6115
 Raisin Box,food-drinks,45e8ba971646c7ccffe783c7f5a9463552331df66afd714c9d4be3ddf90f67,Kitchen|Groceries
 Raisin Bread,food-drinks,6146b7d3a81ffca6ff80af37a3ae88b1c78d9f9f86393abd60ae42a27f6f4e,Pastries and Sweets
 Raisin Muffin,food-drinks,e3dee3e1fa4c7c89b6048d44fd57e1c771f623aad11b4eeaea77d313cc92e576,Pastries and Sweets
+Rambutan,food-drinks,28843bce15647b8cce6c785e228bcae83b8926bc191f1cfe8025bdf8f6d40ee,Fruit
 Ramen,food-drinks,9a66b1b2fb84d80a62d7ffe5c0ecb415a3e3c946c7b9b23de6e5b154042d4ede,Meal|Japan
 Ramen,food-drinks,78e47ee452ecee5da9a408f6ab6169869b3736d45fa30b3773d62fee4a8b87df,Asian|Meal
 Ramen,food-drinks,703811d2c49b7e09d020dd52258f5c6067f8bca3bd91fb45200174e72386d75b,Armorstand Head|Meal|Japan
@@ -42314,6 +42490,7 @@ Winter Glow Coffee Open,food-drinks,4a76b34454bb410de5eadb0cf302f401bee08e8fdf08
 Winter Glow Coffee Open,food-drinks,cac83f4480ea231d1b216c31f201201507785f0effffec56109b0eaba0fe8be8,Starbucks
 Winter Glow Coffee Open,food-drinks,badd41a4bd770709b986e38f035bcb475a5695a9f99b3a9955838e083157f43f,Starbucks
 Winter Glow Spice Latte Coffee,food-drinks,1a63512ce98e113013e81891bbff004dac6e6ccb83761e680d75b212c592b867,Drink|Winter|Starbucks
+Witches Brew,food-drinks,3fd062aea8694a3d88fefbfe4cada05419e892971f116b9d514cb950e6585ec5,Can|Drink|Halloween|Roblox
 Withering Puree,food-drinks,7ba10bfb24d6f06c30c9aacb3f9c8afce42ae78f6156b31559df63c0b312f1b5,Meal|Hypixel
 Wonder Bread (white),food-drinks,23494db6fb3767cc8a5586914f058587070ce9ea8466bf1b841979b8706764b6,Pastries and Sweets
 Wonka Chocolate Bar,food-drinks,6bcd4d575190bf1fd83f3c915d048fde6f612b7c69114f0ebf8847b4a01cdf50,Candy|Charlie and the Chocolate Factory
@@ -42332,6 +42509,7 @@ Yellow Cupcake (black),food-drinks,b607faa61c59816014842ccfffa9613396d8a99ed07a6
 Yellow Cupcake (yellow),food-drinks,e2f509250ec4a1116c1a5fa7ca9a3b41de25af067f0cd6ce7ef7eb126974eaec,Pastries and Sweets
 Yellow Gummy Bear,food-drinks,f1c2b42a5576a405b348bbd22a69db4c547e0caf8d394f0b4eb618754a9a23d1,Candy|Bear
 Yellow Slurpee,food-drinks,12d84636ef33c2f2ef43dbff53fb791a1db231aa20ed7f408427366f11054039,Drink
+Yellow Smiley Pea,food-drinks,58c880325267429f1d3bdb1e60c8b2fd8ea50a9d9e491378692b2f9204ff9383,Vegetable|Happy Creature
 Yellow Vanilla Cake,food-drinks,a07b4b2bbc0a6a13f3b8700632243c97e5d28c1d83295bc76452395035525ce1,Pastries and Sweets
 Yellow Vanilla Cake (black),food-drinks,62e449ab1d6c10981bc4aa743546d5ef9244908c658d897f31b821305078d03d,Pastries and Sweets
 Yellow Vanilla Cake (yellow),food-drinks,7a7478b53f58eed2045849396ecc5360205007e7bedc8de776ab15ff20cc4a17,Pastries and Sweets
@@ -45800,6 +45978,7 @@ Boy,humans,d1d69d3ef7acc993a3ba35c3359e529a14f54787916a3db8558f57f781341d28,Male
 Boy,humans,756feaf8c66cd9fd4bb82842c8719d8b82f7e138c4bcd88b9398f343df7a975d,Male|Glasses|Young|Hair (brown)
 Boy,humans,231339491e5be4301b4344349b82d421e9daf1209b663793f3264a916381,Male|Young|Hair (green)
 Boy,humans,6b3043ad7c7a7ca8760295391be6a4b040f720a7551b31fefd045016a2c9541a,Male|Young|Hair (ginger)|Happy Person
+Boy,humans,12590c59b246172f716af2a5295c9f7da40e9ce2440c260dfcf1b4607d6639e,Male|Young|Floral Ribbon|Hair (brown)|Sleeping Person
 Boy,humans,e7c28907de0ccc4090f448b42c765eb6ddb18e8b93c738fa202b56a7072f5d12,Male|Young|Hair (black)|Headphones|Sunglasses
 Boy,humans,d010e97aba390404db16ee2d438c58b04e36a38e6c5ca430e7b1b2e289ba168e,Male|Young|Hair (black)
 Boy,humans,ec4a73ad8211a8b88365348b82ff8d7d8a070f0b572a0f807ada1b04a03b2cc8,Male|Young|Hair (black)
@@ -52623,6 +52802,7 @@ Honami Ichinose,humans,8120140086f6f079175dc4c16cd88791ddd6215dabb0fcbbcc1f2d1ed
 Hondo Ohnaka,humans,ccfa2075c4b853533c0af880d0ce0c979cda978e62be0857affca7e204eec83e,Male|Star Wars|Steampunk|Cap|Goggles
 Hong Meiling,humans,fa89a7969fae165da8a713ba8c143ee252f21bea39753c474edaf841af6d794c,Female|Young|Hair (ginger)|Officer Cap|Touhou Project
 Hong Meiling,humans,914bcc5b7f5b1f4b9b9359c7241a1277fe9bb0e0cc06d4275a7a960aa9eb9e91,Female|Young|Officer Cap|Hair (red)|Touhou Project
+Hong Meiling,humans,fb923f0522c7b46e77105b348f1bd2548f402b7e7fe97fea3e4d0fe15210722b,Female|Young|Hair (ginger)|Officer Cap|Touhou Project
 Honoka Kousaka,humans,f1c14e067870f96d8fe1d75f807fe5777ec895c1a0059fcf3f1c5babaf8c2adb,Female|Hair (brown)|Ribbon|Love Live!
 Hooded Alex,humans,5e339a8e62bff7df8ff10b503da98f748f24ed929a5b90138f1ab703c8653f90,Female|Hooded|Hair (ginger)|Alex
 Hooded Cat Girl,humans,59f294e9a449b63f945c4ed35ecbdd1c9a7c1e9008b14d01b4ddc7be4b6d4d9,Female|Cat (other)|Young|Hair (mixed)|Costume|Animal Ear Headwear
@@ -53326,6 +53506,7 @@ Kaeya,humans,ad0a57bee4c1713220531c36601f221ca123a0a30b93008ed44fb899fcf53f4d,Ma
 Kaeya,humans,23c5af0fa084d42fa8757dae10c8b42aba50731d521b3a47adc2a97620d953da,Female|Hair (black)|Dark Skin|Ear Pins|Genshin Impact|Eye
 Kafka,humans,93a4ee47e38f7a96836472e0218c89c43b947a189a0a9ca44be10860a1caef4e,Glasses|Hair (purple)|Ear Pins|Honkai: Star Rail
 Kafu,humans,beedd584812d85faa87b2979261eb5e1582dd950b5b2287a8b11caa747e179ab,Female|Vocaloid|Hair (white)|Hair Pins|Hood in the Neck
+Kagaya Ubuyashiki,humans,b66fbdb95e7596ce0d9e283f1b0ca4104f3b7590fc742bb081e3ed76237418e8,Male|Injuries|Hair (black)|Kimetsu no Yaiba
 Kagerou Imaizumi,humans,c25ed32bb76557113108e173eaed57938fb6533b1b7df62343ccc280247dc443,Female|Glowing Eyes|Hairstyle (braid)|Hair (purple)|Touhou Project
 Kagerou Imaizumi,humans,9d2f9bfd2af1695ab809329524a5e7f767736bbcc3216faeff48ab2eccf2f8a2,Female|Hair (red)|Touhou Project|Animal Ear Headwear
 Kagetane Hiruko,humans,f872144360f2aef343e71d9e3e4b7ab655c22b9d2d71b123e3973cc7b810add8,Male|Hair (gray)|Hat|Painted Face|Black Bullet|Happy Person
@@ -53413,6 +53594,7 @@ Kashyyyk Stormtrooper,humans,d5612a1aed94b2e73f1bcabb69842246e316e5773a4996cc027
 Kashyyyk Trooper,humans,d011ef2e1ec21120e76f94370de5c743963672c78ee8cfc5ec1717b1a3e3e753,Star Wars Trooper Helmet
 Kashyyyk Trooper,humans,737d56c4064de13b7b91e7a29e2bd1161b50fb18b6364e9af650a3d64a7abd7f,Star Wars Trooper Helmet
 Kasumi Miwa,humans,fcbcdc8fb320f52fd308ced5afcc0e2b6163ffa712922302d68575d5ae021531,Female|Hair (blue)|Jujutsu Kaisen
+Kat Taylor,humans,ffe18536231b2ea966dfa7c475328c653d560a0eb27cc1e69b6b0720ca9c3f0b,Female|Who is this?|Hair (black)|Ear Pins
 Katara,humans,f4333e79b92de65604547e289332c380adce0cbb70d3deded8f55cb904fa8eac,Female|Hair (brown)|Avatar: The last Airbender|Dark Skin
 Katara,humans,b98060302d834b97bdd48bc431a2e6394d29233e557974d0fa85ac94df33488,Female|Hair (brown)|Avatar: The last Airbender|Dark Skin|Hair Pins
 Katara,humans,f77ab37044d111dd054774542c967e78d9a4a448559ec969dc9cb07126839e,Female|Hair (brown)|Avatar: The last Airbender|Hairstyle (braid)|Dark Skin
@@ -54403,6 +54585,7 @@ Kyoko Kirigiri,humans,881d7a0210d70173ba8063658d01e0d2c51e42933e423a2ace0728de63
 Kyoko Sakura,humans,102cc6abf779df1c790be1ca715a716313c17945badc2369d0cf079336a52421,Female|Madoka Magica|Hairstyle (braid)|Hair (red)
 Kyouko Kasodani,humans,8510c145ca46012de14152c33263b996b8161490a208038c1a8e970c939c4146,Female|Hair (green)|Touhou Project|Animal Ear Headwear
 Kyouko Kirigiri,humans,6b4187ff4e9ace33508c09376bd6df1e76654f09df2e5974f7f8fcfccc269dd2,Female|Danganronpa|Ribbon|Hair (pink)
+Kyousui Ichika,humans,e11e1ef5ba0e6709688aa61f47a795e9555dd75bd3f22a43b13b418ed810aea7,Female|Headband|Hair (blue)
 LDShadowLady,humans,8519e2d46f3df9b8fc598a3af0ea9b587c8dbbe6679932f4b8a442032ca88f,Female|Youtube|Minecraft Story Mode|Hair (pink)|Blushing Person
 LDShadowLady,humans,765f18494b4dc5b8339b8d4ebc2cce2697ae0fdf943a552afdfb044540b682,Female|Youtube|Hair (pink)|Blushing Person
 LDShadowLady,humans,42cbc6fb8065f855b71bed0c0d85d8d8f3ffca4f9b36b5e4373f037f588de627,Female|Summer|Youtube|Hairstyle (braid)|Hair (pink)|Beach|River|Mask (functional)
@@ -54846,6 +55029,7 @@ Man,humans,6d994679e316ea7af8fec18a95e73e82cd36b7dbbc68558c64c8fd2ac2c466ba,Male
 Man,humans,dd1d4e438c60ebd160d3a02b4161d7348d15ae2b6c16acfba061405d5c4d6bb,Male|Hair (brown)|Goatee
 Man,humans,64447164ad8f5d070773a2c1621ef528bf7de4a5e631da16e95d9368ed0c0fd6,Male|Hair (brown)|Mustache|Sunglasses
 Man,humans,23eefe38a18804bd155a604d15829cdffbbc6da90a673196b8fbd285a7a3de60,Male|Hair (brown)|Goatee
+Man,humans,fbe953b19d60a4fedf933a54fae42f8e3f56c671061dba8537158b17142bdf7e,Male|Beard|Hair (white)|Dark Skin|Hypixel (NPC)
 Man,humans,3bf9cb86b7b8af5656f797ebf23bbc33fce65971a60a1b691f8aa1e59a2ca6ec,Male|Beard|Hair (brown)|Hairstyle (modern)
 Man,humans,69fc122a8790838adb414d7c8b85b284b0fe3fc7e8906a2323ffccf258c34b0e,Male|Hair (black)|Goatee
 Man,humans,a543b82bd898e427ada668b35a2ff05840015d7e1b19c2cfc0dcccd7bd221a32,Male|Hair (brown)|Hairstyle (bald)|Mustache
@@ -54918,6 +55102,7 @@ Man,humans,128d38c6c7f8f042b1de3af99be260d7d780ddd9d1b9cb58db8f523575084e0f,Male
 Man,humans,cfe5e014c1cf0df117c99e0b81b1d9133858d8f56443eddfea08aa5fe56948b6,Male|Beard|Hair (blond)
 Man,humans,fa3741f2e00694a223d89eb8cceae7c4684a845c89f738ee5f486a574c130271,Male|Hair (brown)|Mask (functional)
 Man,humans,77c8909178330dcd37ec54b6c86c82ded34886b632fa7dd7a484938e61bef48c,Male|Hair (gray)
+Man,humans,6782c26c4e39f026b1791ca43e3c62a7ec8e43aa8d45abc933847b0dc213a9ba,Male|Hair (brown)|Hat|Mustache
 Man,humans,5d5b5ade752181a3c7c499fb3658b60a8b67bd4bf30721202cd89b6b966a6249,Male|Hair (white)|Scarf|Skeptical Person
 Man,humans,5a3a0a4e2f835a2cd1a8f1df0fe6fb576f5ab3282ca395a9277ba17d26640068,Male|Beard|Hair (brown)
 Man,humans,eca4c67945a04d3d21cb6b2bc14a062b5061969718b36801c6001dcac12f7535,Male|Hair (brown)|Goatee
@@ -54939,6 +55124,7 @@ Man,humans,c1dd279de8651166fc57a0ebd1d99a75dd49dd92f25bee373294f740a5db84,Male|B
 Man,humans,3d7c7773b69f7fafbb96fbc2d84ba2bb754d7ae5747549c29b42c6eab3c96ba,Male|Injuries|Hair (black)
 Man,humans,d27c000954278e4dfac1f48c78b8367d1c84fe3517e2b3a8339307c254015f5,Male|Hair (black)|Monocle
 Man,humans,6c077ffe94367bdc36ab13ef95b19ca682e9f296e5d09899ce77501f71f7c6a9,Male|Glasses|Hair (brown)|Mustache|Hairstyle (modern)
+Man,humans,eacd215ccde2f677c7c144e2b698ff33ea06a87aaf468d05d1f0dc5ec2bdbfe8,Male|Hair (golden)|Hypixel (NPC)
 Man,humans,bd4417b3c700db7a622a978b1567d96af96501b32774d5efe291737d13f035c,Male|Hair (brown)
 Man,humans,465c1e6399300f51bc3e8242d1b90dd4979aeb5d07b51c68602f3d35af97afb8,Male|Beard|Hair (black)|Hairstyle (modern)
 Man,humans,550dcce8c90a1868ef4f65e6957e3b69106951859db6c9e537a404c797243316,Male|Old|Steampunk|Beard|Hair (gray)|Hairstyle (bald)|Sunglasses
@@ -54948,6 +55134,7 @@ Man,humans,974750618dbabbb09163429766c0b77da6e828814e33286b0f3245cb028ea98a,Male
 Man,humans,1484a81378215fbfd8f64305f1fbbd349fdc92ea37ab2ca08d33428f35974279,Male|Beard|Hair (brown)
 Man,humans,4f025269aeceb670a304141767a9a2e63c17a2e8a6d6edc020f67bc331e64302,Male|Glasses|Hair (ginger)
 Man,humans,fb8804976c614921e9a79d538d7a16fb7a5afebfaa5489e9c81c470d622b032,Male|Hair (mixed)
+Man,humans,37f7a197ef273d049749d52bcd046e03aeb21bc5d55f4b5b9d944ccf2defd54f,Male|Hair (gray)|Hairstyle (bald)|Mustache|Dark Skin|Hypixel (NPC)
 Man,humans,595f6128175b67347a6118977fe6e4df242ad724898af9701675b434504547b1,Male|Beard|Hair (ginger)|Hairstyle (modern)|Angry Person
 Man,humans,13adc09657653a32f874ee53ef3dc52d56055547699112c1cada085fb7f8511c,Male|Hair (red)|Ear Pins
 Man,humans,1fa37944ccfa796997717763a0eab1372bb3111c1eee3a3592e92a8b86d9b8ed,Male|Hair (brown)
@@ -54972,6 +55159,7 @@ Man,humans,e8e36e8da15b216ca668daa21cfcfbba668b9291a1b305ad56096ecff42fde,Male|B
 Man,humans,986463bd95ab242bdbced6180278675ca4e3730692ad0c3873a961b1d3452248,Male|Hair (blue)|Ear Pins|Sunglasses
 Man,humans,38bc284c660bfa535c74e6018f45229b8af4d5ca3bda2a5fd076835ca3367,Male|Beard|Hair (brown)|Skeptical Person
 Man,humans,b7419a8873e025d43ed3c1dcefb33b738777a718271e9b5d0fffdc3ebda6e13c,Male|Beard|Hairstyle (modern)|Hair (blond)
+Man,humans,a30357e1f2957519258314b458dc9c39e8d7b7d8ba77e9e646a7d5b9945cb7fd,Male|Hair (brown)|Hypixel (NPC)
 Man,humans,213c87770af36a3bbdda73eb85d9ac2130c9e921ded44eb33670f1306226e574,Male|Glasses|Hair (brown)|Hat
 Man,humans,748b0144f42283d5d7a0a99deb679429c37141a23388d80fd2ec45e668368f,Male|Hair (white)|Heterochromia
 Man,humans,a7056fb3acb48522838ea6a39009a0c87b41be50f9718c09fcca31f03ec72c03,Male|Beard|Hair (black)|Fix Head
@@ -55047,6 +55235,7 @@ Man,humans,3dd7952a3aba32aa16a89e6481c4c844149e2b08a7e176d67e292842d6efb8,Male|O
 Man,humans,c283df4631966afe7d328a5de200c506e6a20045a6f3e9847bd2cb27615d82e3,Male|Beard|Hair (brown)|Headband
 Man,humans,3b48311f31efce53feed1523159375b47af060721dd0e5a7ae515651aa719f95,Male|Hair (green)
 Man,humans,389944e3bb55218b6a175401094580ac757d14a00aea4bb5a7b3b635cefc6c4a,Male|Hair (black)|Surprised Person
+Man,humans,225e35feccf5d430939913127cb67c2d583503b6c57de98ab1e9b6011f4de5ea,Male|Beard|Hair (brown)
 Man,humans,c041b22c0cd2202ba586939747e68dd8256841ccbeb21c4ae307a0644bf95e27,Male|Hair (brown)|Neutral Person
 Man,humans,a72fb1ac83da465f73ac96326989b4f4995c76c29a29e7c435d77b48a7ad384f,Male|Young|Hair (brown)
 Man,humans,e1816f2720ed6ab37d1b8d412cd723c3ec21dd77b0b6e8ff66df80b9ebf41020,Male|Ear Pins|Hair (blond)
@@ -55270,6 +55459,7 @@ Man,humans,d56d0d0ae94e2932414bae715b07197adb865040d2fe9cedbbae77ea75ca52df,Male
 Man,humans,543b3f01dc9264aed54dc1947ff40e13022f059637fce8771570d71bae5e1be6,Male|Hairstyle (braid)|Hair (mixed)|Dark Skin|Sunglasses|Goatee
 Man,humans,f443f5b5263990c001716f44d8676c0af7f9cc38c3908a46b6d6edc8e445096c,Male|Beard|Hair (brown)
 Man,humans,c08428942a5adab301d3cad93131206dd225d07e34c9a4fb1e96d1919bafcd,Male|Hair (brown)
+Man,humans,f0b1bcaa331a2f8f185ec89d2d75f1449dd93c95552d187e84a27bbd278ea56b,Male|Hair (brown)|Hairstyle (bald)|Mustache|Hypixel (NPC)
 Man,humans,34105b409f4ade9a39959f3dff3d8d0bac1ce78b913cb6e5fb20a654ac7b2ca8,Male|Hair (brown)|Hairstyle (bald)|Skeptical Person
 Man,humans,7ce9caa308f92b93993a6662dfb4a5ab2c9b48f1f9d1afe15185a61a90d2d93c,Male|Old|Beard|Hair (gray)|Surprised Person
 Man,humans,e621dbc2b8e18ecf24dd315ce4de93696473e5d6c4a5ec4d0db9fcf9e36c5cef,Male|Old|Beard|Hair (gray)|Hairstyle (bald)|Hypixel (NPC)
@@ -55824,6 +56014,7 @@ Man,humans,c79cd5a176acf9aaf44c655e51afdf968ccd95f7c581eebd06cb0eb68d81ba5a,Male
 Man,humans,e8717d71d02e47faa2c4fb84fe835c22fd7c514d531c41dd11758efb716158e9,Male|Beard|Hair (golden)
 Man,humans,357ea9481f2f5519a85ce8834e6237eb96cf2fb32f4e8a60aa59a1f3077370b5,Male|Glasses|Hair (brown)|Hypixel (NPC)|Goatee
 Man,humans,a0ab03ee11ffa13aca8fbb8ea75e8c938f28a96f1849de3250eeab213baa91cb,Male|Ear Pins|Hair (blond)|Goggles
+Man,humans,c8d62f30fb96e41f9373cf545e9a734377ee2221195dd9dc80bb48291da62d4b,Male|Hair (brown)
 Man,humans,490ff455464c6ff7203f8063079e026b16c1b7495e86199ca4fc9f90a315d846,Male|Beard|Hairstyle (modern)|Hair (mixed)|Hood in the Neck
 Man,humans,39e84c12bdc2675a978daca5026a8ee9b46a8a61f905dba88055885a31cf9bc7,Male|Hair (brown)|Hairstyle (bald)
 Man,humans,757be0267e1d0b89c697e66fd32b67689d8195670de22cf436a4faf8e9b5897,Male|Hair (black)|Glowing Eyes|Dark Skin
@@ -56091,6 +56282,7 @@ Man,humans,712c4583c9c0da5b682e0db941ab25b6dbd936338bb7edd7dad7182b4d14df6,Male|
 Man,humans,ed7a1c33d7ffb8339226cb1d8af46a82b786a3b55abf2b9f3c071ef785fc4ff,Male|Beard|Hair (brown)|Hairstyle (bald)
 Man,humans,dc6fad0aca38a3939fde52dce9e815e7cfa5ab94f72cc6793146cd6b184fb,Male|Injuries|Cap|Hair (blond)
 Man,humans,2f935d331c866c30799a74cc1e1d170e1df374bc48cdc0a94ae2426179f20947,Male|Hair (brown)|Dark Skin
+Man,humans,cefe7efa8e9c35434c553448dcef77d8ddef4c0201674f4081c29fec0bd3a7e4,Male|Hair (brown)|Flower in the Hair|Sunglasses|Hypixel (NPC)
 Man,humans,e4fe0d4eed51432eaed5b6839581f17dace0faae2c45e252e8b2e8866e2705d6,Male|Mustache|Hairstyle (modern)|Hair (rainbow)|Skeptical Person
 Man,humans,828062bd8cde971f9c1aa9d7881c21d773ea3cf85ad7f8e44eacd4a20b9ffcd,Male|Beard|Hair (black)|Dark Skin
 Man,humans,beb5f9b3eaa4b9c0fe9d748a170fe3332c681ebf7d1c505221eeefd68f3697c7,Male|Injuries|Glowing Eyes|Hairstyle (braid)|Hair (mixed)|Dark Skin
@@ -56176,6 +56368,7 @@ Man,humans,c28e1f3ede97a40a8b346797978d9193171122f52a20140f817e5ef84fa41a65,Male
 Man,humans,ce7de2505ee775ca5ded32cf9da3b3c4cfdc9a3cea0a6db71ea7ebe19457fbe9,Male|Cap|Hair (white)
 Man,humans,2bba873f0688d36c0e52a5c59ff3937de3e39b61075d766e02724ea69445dd,Male|Hair (blue)
 Man,humans,4fee37b5cdc4dd2c759c47e4bc9e372b9020938dce77235664d07320bab0200d,Male|Injuries|Hooded|Beard|Hair (black)|Heterochromia
+Man,humans,584ee174ff2607e4620fbb2330bec18d1190aae4b0b4cd5aca0010dbc5a52f05,Male|Hair (golden)|Hypixel (NPC)
 Man,humans,ed492770b3b72978708c28483d04463e63d8062ff36be566691450c94b593495,Male|Hair (black)|Dark Skin|Hypixel (NPC)
 Man,humans,f7908fd684b4febda1ae8da682a29689b9af9ed724cbae2b45633609899729b9,Male|Hair (brown)
 Man,humans,fea11d4b00043b89a65bdbeb288ddc539c6b28b0c1a59a5da0c4e776d1103b00,Male|Crazy Person|Hair (green)|Tooth Gap
@@ -56474,6 +56667,7 @@ Man,humans,7cb1de850ad9d388762e30d16498e05d6e28c5a3f3c9126624c380c2fc297489,Male
 Man,humans,6ea970dbd1e8be9956554c1aae17a81793e48cd0a98b2a7a1eb88a5b8c16af55,Male|Asian|Old|Beard|Hair (white)|Neutral Person
 Man,humans,b8c1f0b219aaedc86597f73db0ad37d1e99e3e1b976c00231baf97dd361cf76f,Male|Hair (mixed)|Heterochromia
 Man,humans,d86702fd1ee76007a8c67004d30c9cb4df0c96419df8ddf666ccfdc1a2ce7e26,Male|Beard|Hair (black)
+Man,humans,ffd54e21fb1d418def5a67b3114c2ddcadbfb8ddf6db9db2c3a0b2bf1d5ba037,Male|Hair (black)|Dark Skin|Hypixel (NPC)
 Man,humans,6d3e54052dbd17baa8b0dba209d42578f1166cc77e50bddfb9f1d25a367152c4,Male|Hair (white)
 Man,humans,18761aee45c75699063f8abaa249c437e50d38a0dfbe47319958a7e7df83e26c,Male|Painted Face|Hair (blond)
 Man,humans,843d9f79a5d58bd05d88886c3b19d935cf60feb8a70ae15eab748989c6b4bf0f,Male|Beard|Hair (brown)
@@ -56524,6 +56718,7 @@ Man,humans,b22e0bc01b27418fd96cac790fd1d1918843bfb0b1f4267c59335b55a5ed9a0,Male|
 Man,humans,9e1f0a8ade158ddc4cf112f826482ad150698b3d508ad75aa487f7fe1f904429,Male|Cap|Hair (mixed)
 Man,humans,8d9ad4ef0c5b6983c5378715cb02b7dffdbaa73e6bf2944fae90009b4dcb7438,Male|Glasses|Hair (green)
 Man,humans,741134aa23f5bc5ed947cc46c0b139f3010ee95486db045a494c5d76603e0c92,Male|Beard|Hair (blond)
+Man,humans,b2f7ac1dc95038b4793cbaec51efbee1c21cd86b7f18974942c4f2971e905358,Male|Hair (blond)|Hypixel (NPC)
 Man,humans,b153739638a484af8eb337df78a7d01d36033232607bca99cc5535864c56e99e,Male|Hair (brown)|Dark Skin|Wynncraft
 Man,humans,b7b15b2c3267ecc1b9e74a4db32558dc2226998db8addffba7c71aadc22c5212,Male|Hair (brown)|Goatee
 Man,humans,4d2941b85a898f8e2cff44b6f244236ae7f6a730b8f60fa3f40596f5c36f1463,Male|Beard|Hair (brown)
@@ -56607,6 +56802,7 @@ Man,humans,8188ef3d74248167d9c619533efb8520b73bb4332c1cc5ea341bf1b8d8e2b7c5,Male
 Man,humans,6cfb6b66337afa067d0ea6562b0aa1be22327675197d1f836e1ec03655503c8b,Male|Hair (brown)|Mustache
 Man,humans,5b28c84008ad5ee3d47dac499c970e68d41db5b546476992d058e4b7d6e05f6f,Male|Hair (white)
 Man,humans,1d134be11eded445bc34b7275967c57d78d150862f3cc689f294644584d8b37,Male|Hair (golden)
+Man,humans,790478fadffce988f347044e7aa79e931df590e7a7a18ebb20c64dc1f0970fcc,Male|Hair (brown)|Hairstyle (bald)|Mustache|Smoking
 Man,humans,612f92578b84dbe9f53aea383f0fa67540667d4cff2b70ccbf5de8953c63ec68,Male|Glasses|Hair (brown)
 Man,humans,af07f7a3bdacb0cb57bf261841aaaa991ab10e7f9ec5402ad04d3aec8c8f11a0,Male|Hair (black)
 Man,humans,38d131d9bd6f2a520ca212caf50540bada91e2704bc5baa6b3c4d6379181c564,Male|Glasses|Beard|Hair (brown)
@@ -56725,6 +56921,7 @@ Man,humans,b22a51d4df795ae5e3f0a78d576d57f28609aa6d8d431ae47df0d93b99e222b8,Male
 Man,humans,f35d635e1c24bd68596cfe2a937213b2852c9134369159827cced8dfcfc9fbb,Male|Old|Beard|Who is this?|Hair (gray)
 Man,humans,76431a8ec677eb44d1877cfc82e0e2de247b35824b746c6cded1f2e8573a7fda,Male|Hair (blond)
 Man,humans,5d3117f97ab2f6c11634f7c1b3d14fc783b9e89e531ccb705086d511beeda5f4,Male|Beard|Hair (black)|Angry Person
+Man,humans,4538c727edceb5e29cc53d2b5c4231802ac5d7b9899d423ace81e7366e2e7ebc,Male|Hair (golden)|Mustache|Hypixel (NPC)
 Man,humans,19e65fce79319e14c3c68a48b81b6daf487b2db28d1026c28268c3356295058d,Male|Glasses|Hair (blond)
 Man,humans,dc5f7d072e7e2d92977e255488d6413cf223e2d74333d7e2ac5892f462a2,Male|Hat
 Man In Reindeer Cap,humans,f844cf9072291ff6ec5e202402b79585e7be0c33bcb5a3027ccde77e50c8ec80,Male|Hair (brown)|Christmas Cap|Horns|Deer
@@ -60075,6 +60272,8 @@ Sadan,humans,fa06cb0c471c1c9bc169af270cd466ea701946776056e472ecdaeb49f0f4a4dc,Ma
 Sadie,humans,24d33c4e5af8baa4af159b1ed1d70bc42decf06e2783ce7287e79d3b9c2f6dcc,Female|Young|Hair (golden)|Steven Universe
 Sadie Adler,humans,5da54a017d9a8372aec3a5580aca1dbd75b6214057d8b72bced9925841eabeab,Female|Hair (brown)|Red Dead Redemption
 Sadie Adler,humans,e89a32f1605f972a8951f413408df06b84e750d4361fbcd9c3162931ebf6c4d8,Female|Hair (blond)|Blushing Person|Red Dead Redemption
+Safari Manager,humans,fc95a7707e2b571ae72c315e732ad81e729f83503d7594204d05051330c4dc37,Male|Hair (brown)|Hat|Mustache|Hypixel (NPC)
+Safari Receptionist,humans,2280650aa78190c5a92922df44ba155a3cf0bafe4b356a3f2464b8a0991a3e2e,Female|Hair (brown)|Hypixel (NPC)
 Sage,humans,c6704181b8ef1847f0a57d35a89c5f47f1f121b03e969175077e981d48e87622,Female|Young|Hair (black)|Hairstyle (braid)|Ear Pins|Valorant
 Sage,humans,a71eded7c60f64965df41a83c89c28147450b0afa9afeb723ddac8cbcf848dfd,Female|Hair (black)|Hairstyle (braid)|Ear Pins|Valorant
 Sage,humans,c7e498e9837b1c4d327751590b2f3bcb48b36a334724c5a16fad9b3326fb08af,Female|Young|Sonic the Hedgehog|Hair (mixed)
@@ -60145,6 +60344,7 @@ Sakura Ogami,humans,8e8ec0450c391a271a4dde6d5d1a1ed82320ef478b4ec1e1975afbc6e493
 Sakura Ogami,humans,a45d6968c028f295910d6a53ac212131b317c3236079030c535bdb66594db852,Female|Danganronpa|Hair (white)|Dark Skin
 Sakurai Miyo,humans,83162e1abb55007bf54511a6d460ece356227bc2d486a020fe74a8a5b725ca58,Female|Hair (white)|Blue Archive
 Sakuya Izayoi,humans,fc29ccb47d75e2ef30f968e8cdd76e6d04b15363c7880f325f48d9dffe6a8a3a,Female|Young|Hair (white)|Touhou Project
+Sakuya Izayoi,humans,34caff82639bc2ad3c281281e1ab8aeb8fd54e4d1ca56c3791fd9d3e52bfd1eb,Female|Young|Hair (gray)|Alice Band|Touhou Project
 Sakuya Izayoi,humans,4d933483dd424a7895921b8f762bd3e828b4cfe4467ade7da33f68fea90a097a,Female|Young|Hair (white)|Hair Pins|Touhou Project
 Sakyu Basu,humans,5cf96fbc1b38b40f0dd9127840a0acd628f2a926ea91b03b4b86225a631cb61f,Female|Yandere Simulator|Hair (purple)|Hair Pins
 Salem,humans,da067b60dcaa576511c758962b0f9d1b2d3e0ae3c88660ea45b83697b8eac656,Female|RWBY|Hair (white)|Hairstyle (braid)|Hood in the Neck
@@ -62267,6 +62467,7 @@ Viking,humans,6b2bf3e862e2281be8bbd3588286c2499d825ed9f7f56398b1aef11c6c3847b6,M
 Viking,humans,a981f756ce3f268e2b03845cfa5ebe295683a051ad9484a0267d0fd98302a7fc,Male|Seafarer|Beard|Hair (brown)|Painted Face|Hairstyle (modern)
 Viking,humans,cc830f582ba5d3de05d50c1ec5dd7a3886029649a514a2305b489beae3c0f267,Male|Seafarer|Beard|Hair (ginger)|Medieval Warfare Helmet
 Viking,humans,36795941bd6b701b9efe031d2d8ed0555c80f9e28bc556a3c02e7950214a34bf,Male|Beard|Medieval Warfare Helmet|Fix Head|Hair (blond)
+Viking,humans,659b90ad49bbcd1fe6a5401a0aa8889c00c0a47f59e40c7c8b0157b07f61769c,Male|Beard|Hair (brown)|Hairstyle (modern)
 Viking,humans,54fa23b874f9e60448379dc7d4c66b5a3d24c434e7544714ba692483a7d2460a,Male|Seafarer|Beard|Hair (brown)|Painted Face|Hairstyle (modern)
 Viking,humans,b5e28e79747a4109c9cd6aec05a742316ae7d1fefdffb208a5a05d64b12becfa,Male|Medieval Warfare Helmet|Hair (red)|Horns|Goatee
 Viking,humans,eb1eef0d0c4171931c9239aae9399ee8f3b460f70557cbf4b955f032cd9fa173,Male|Beard|Hair (brown)|Painted Face|Hairstyle (modern)
@@ -63251,6 +63452,7 @@ Woman,humans,3f010cafe66e43f5113675c9391e0e915f1abff3c0468d9e8c3f9d0be5b9addb,Fe
 Woman,humans,dbd984f8e13a020b410a4f6ccb47cd6a6f3e267f7bdf040e0adfe15d7d89cdc,Female|Hair (black)|Flower in the Hair
 Woman,humans,2a755a90856ec9c7a4346e39b221ed14249d5eea9ca9a11c1674cf8277325728,Female|Hair (green)|Blindfold
 Woman,humans,b79a1e0665cb3743118caebdcd635268afa3a724f09a338a0f20e4d427f53991,Female|Floral Ribbon|Hair (brown)
+Woman,humans,65b5f2590f10dc3363d2cd12ddba378526fa28e1bf8adcf3d340f08486f8fadf,Female|Hair (brown)|Sunglasses|Hypixel (NPC)
 Woman,humans,ef15e7176eae46d973b96856c474e402031234c4ffc7ca8ed8068644b77bee62,Female|Hair (purple)
 Woman,humans,c9d03401939bfc0ab83d58461d36c7e52ec4ef3e3c07bf35217ef58d4213a4c2,Female|Glasses|Hair (brown)|Ribbon|Hair Pins
 Woman,humans,2f993ecec4b8562185733a4633187c417385301527271a0ddc8fa04bbd46afa4,Female|Hair (gray)|Alice Band
@@ -63316,6 +63518,7 @@ Woman,humans,9e19cab17a03b2789a9f2581ff0fd3abe02b03b188b01a695fe1c89f9da0d5b4,Fe
 Woman,humans,5a07017747f89319ee0047ddc6bb8c39a3c833851db1fce96b6a49da4718b16d,Female|Hair (black)|Headphones
 Woman,humans,f025f69717bec6ec22570edd3e85e48c4d45d4f88124d76ad2c469b19edd8846,Female|Hair (brown)|Headband
 Woman,humans,9f1dc178d95f08c2720cef7ade03b4000878bd5eaabafbbe34584a4908cc69d,Female|Floral Ribbon|Hair (black)
+Woman,humans,241b8f3097740ab6b315825347969600310573eee38109fefe3050451078f989,Female|Hair (black)|Dark Skin
 Woman,humans,140ff96be7f76c4ce4ad6eb0df8173e990839b191cb309b3546b6e080585587a,Female|Floral Ribbon|Hair (pink)|Heterochromia
 Woman,humans,22ff286a0300beb4e8b42ab0b7c81dbe48bc82e4e3448708927394217e05a22e,Female|Hair (brown)|Dark Skin
 Woman,humans,8bee441157891199c35bc72fe1cdfcfb345f6e3e6c043c8325b78ea9c534,Female|Injuries|Hair (gray)|Hairstyle (braid)|Heterochromia
@@ -64605,6 +64808,7 @@ Woman,humans,14effe689b7dfd8d8b775a008307bc83d16e63395be69086902ab2363efb4e57,Fe
 Woman,humans,c023787d3e2246b535d33caf0cb77f6ace5e3d6247c64f2207f5c9ca3ec6f27e,Female|Hair (mixed)
 Woman,humans,4aa0c06648c9cac66a1cd6c9bb1a6cedf79c589c4bc79db0e9550c4684c188be,Female|Floral Ribbon|Hair (black)
 Woman,humans,e7f033c687e069c92fd061ab013df8dc2007e5e36f5e8ecb024bcc2e3ad54638,Female|Floral Ribbon|Hair (brown)
+Woman,humans,c867ee28a9e2404ef43d5533c9ce02b00736f4620000c677c64b1eea267cba26,Female|Dark Skin|Hair (blond)|Hypixel (NPC)
 Woman,humans,56641c5afb668d5c9e8387148e9331de633e41714da5db680d7b148178e9,Female|Old|Glasses|Hair (gray)|Blushing Person
 Woman,humans,563d65deab4fa842ff5c1f61239372e088d20e0b1dbe514dd9add37d55cd0b85,Female|Hair (gray)
 Woman,humans,f2a3d0b68b3cfb7597b5afea3f1e0e2bf9a44c3fff35ba19f4e73e61542e08da,Female|Glasses|Ribbon|Hair Pins|Hair (blond)
@@ -65939,6 +66143,7 @@ Yoru,humans,514858fc81bbfbe9f938645fa43f55afd78c2ee1b87b31c42debe81450b9e211,Mal
 Yosenju Sabu,humans,1e9ac4b1f6a370a8a3d0293a4d1a4e5166ebeda109af9d7e5be818cd942b3bd1,Male|Hat|Painted Face|Hair (blond)|Yu-Gi-Oh
 Yosetsu Awase,humans,3b61198da4089bb21511dd3e63c48af8d3fb83a6892a7ad3213c580ab6068de1,Male|Hair (black)|Headband|My Hero Academia
 Yoshika Miyako,humans,da4e0d59d40130cc0ca749724db226bb85ececd861d6b580da11d370502000c6,Female|Young|Hat|Hair (blue)|Touhou Project
+Yoshika Miyako,humans,dac0d5fbc5b2c4c6d7b1f02edcd7724eb54c606b106b1ba1ebe50ada6618c045,Female|Young|Officer Cap|Hair (blue)|Touhou Project
 Yoshika Miyako,humans,7cea6457f75915142bf675f20a81223a593c8c231cfcee0ce49ecc282e31f1f1,Female|Cap|Hair (blue)|Touhou Project
 Yoshikage Kira,humans,819130c1be4fddb32912bff9a6e26eaa12ba766c8e90a7d547b28b4d78d59476,Male|Hair (golden)|JoJo's Bizarre Adventure
 Yoshikage Kira,humans,3c2f99985d54ad17eaa553bf97bf7d1410da48f9839bfb1147d7c7f8e1108055,Male|Hair (golden)|Hat|JoJo's Bizarre Adventure
@@ -65946,6 +66151,7 @@ Yoshikage Kira,humans,c4aa55db92a227876bd93d0388c6f5ec45ad3f6162d5053800532736ef
 Yoshikage Kira,humans,62304b2f85b9b8f97d087f37169529a8da589ad52d706fec6a56c2db35b53c3,Male|Hair (golden)|JoJo's Bizarre Adventure
 Yoshikage Kira,humans,f935569985e290baa334aa7bee87cf2c3eab400f3b1a4ae6c691cb0002e05595,Male|Hair (golden)|JoJo's Bizarre Adventure
 Yotsuba Nakano,humans,c0c70b0c3353555c1124f724fe0e1dc9e0bbf7f87088f120e6c6878672973375,Female|Young|Hair (ginger)|Ribbon
+Youmu Konpaku,humans,6ee07e240b7b0577011074152dc31d6e243cdf7e5426921b0a60074a5539eb84,Female|Young|Hair (gray)|Alice Band|Touhou Project
 Youmu Konpaku,humans,d66acea28140d563e495d45459e928f99e7e687966bf73aadb0fa658b509feba,Female|Young|Hair (gray)|Ribbon|Alice Band|Touhou Project
 Young Alex,humans,a551cf4417dbac9eb2319d751ae23611b56f3a0b3ce79b422c619471389ab0bb,Female|Hair (ginger)|Alice Band|Alex
 Young Knight,humans,7f23db91cd8c26774669c351dd272c0d787986be36ca4a39c55a11aaec0c88d5,Male|Young|Medieval Warfare Helmet|Happy Person|Hair (blond)
@@ -65987,6 +66193,7 @@ Yumemi Nemu,humans,6ab82d5ccb3611191d02511163d61151e304d35dce026238d0f81b86414c1
 Yumi Bakura,humans,af35085056a63084d5b0abcc2c32562a3367610b71c913facb17e5c18d7ba277,Male|Hair (white)|Yu-Gi-Oh|Hood in the Neck
 Yun Jin,humans,3680097ff07dddc5fdfdaf961285b28504fd12d848381ea6939f6e223b8e4585,Female|Other Headgear|Young|Ribbon|Hair (purple)|Genshin Impact
 Yun Jin,humans,47a241acda22bb0730b5cbb235b1f49e6666b03d75179fde382ebb05e33f176a,Female|Hat|Hair (purple)|Genshin Impact
+Yunara,humans,90fa264d10bfd2470c939a258a12e6793c86af88ce06a7d0f437ca90c268dc9e,Female|League of Legends|Ribbon|Hair (purple)
 Yuno,humans,871ab8a69e95f6998ff0636adc2d23fbfa5a1a225d099c0409aaeb9053842d5a,Male|Other Headgear|Hair (brown)|Black Clover
 Yuno Gasai,humans,56e4ad3e13b2cc6ee20d4301c351e6543813fc227991afc47e6df9566c6ca4,Female|Injuries|Mirai Nikki (Future Diary)|Remove Head|Hair (pink)
 Yuno Gasai,humans,6c4f32143eeef59a55b24f0ac4c39154cee833249c88e63619fb4ff7c486a3b9,Female|Mirai Nikki (Future Diary)|Hair (pink)
@@ -66470,6 +66677,7 @@ Allay,humanoid,beea845cc0b58ff763decffe11cd1c845c5d09c3b04fe80b0663da5c7c699eb3,
 Allay,humanoid,40e1c7064af7dee68677efaa95f6e6e01430b006dd91638ea2a61849254488ec,Vanilla Mob|Minecraft Live|Wild Update
 Allay,humanoid,24cadf719f3817a3676b42c815d04fa282d35de7e84158156e58f22296919b86,Vanilla Mob|Minecraft Live|Wild Update
 Allay,humanoid,e50294a1747310f104124c6373cc639b712baa57b7d926297b645188b7bb9ab9,Vanilla Mob|Minecraft Live|Wild Update
+Allay,humanoid,f2c0fffea6559e22d835535b7ac1b40450773889b2e4843f42bf3b57687eb051,Vanilla Mob|Glowing Eyes|Ghost|Minecraft Live|Wild Update|Hypixel (Attribute Shard)
 Allay,humanoid,98896605e41a1f4e2c3c92a964f391f4e61390cb10af2c0fab615a5d34e61074,Vanilla Mob|Ghost|Wild Update
 Allay,humanoid,218c8043b27c53e7dd042bcb01389e53deb7fb14ad868abbd60182b07edbc328,Vanilla Mob|Ghost|Wild Update
 Allay,humanoid,df5de940bfe499c59ee8dac9f9c3919e7535eff3a9acb16f4842bf290f4c679f,Vanilla Mob|Minecraft Live|Wild Update
@@ -67051,6 +67259,7 @@ Bea,humanoid,e3c34b9e51f352d6c69c821a1fc29f500509803a1eec024c387015b5c43c773a,Fe
 Beach Bear,humanoid,a76f68de2f4fc4055071b483ae2f174639c158704e891d32e0525f8e9b7af11a,Bear|Hair (golden)
 Beach Boy,humanoid,e642b2c53daa0a44562a7b19e12b3f3179b6ca9c17dd9722fb53ca6e0aba162,JoJo's Bizarre Adventure (Stand)
 Beachcomber,humanoid,acb513bbda354c577b21dd32204294b456411823bf8b6bb673327a93da75,Robot|Alien|Transformers
+Beacon Bonnie,humanoid,423599362178d962de8dbfff458a11804b27f90ad193ae2d8d5c4581064646b,Glowing Eyes|FNaF Fangames|Combined Heads|Decaying (creature)
 Beagle Boy,humanoid,6132ccda5b3f5beef73bf74254b8dddf60564b2f8b7e1524be04926641896,Male|DuckTales|Young|Comic Helmet|Criminal
 Beagle Boy,humanoid,b82118f19d7526ebc1e7d0a5fa2b2dcc2d10b963592536a855c2572c81fb725d,Male|DuckTales|Young|Comic Helmet|Criminal
 Beaker,humanoid,838a4e514bc9ceb3ca3b5a9488498c642a22f9c3e351d30f4ce9f1d225f9,Hair (ginger)|Muppets|Sad Creature
@@ -68166,6 +68375,7 @@ Creaking,humanoid,77b5be72769ccff1a6cb77c5848e01d7e5704a3d349c0737ff93cb54d02380
 Creaking,humanoid,56ca558139abf797dd53894de962d328800d6fca66f8fc99d0af34d4a4ca645f,Wood|Vanilla Mob|Glowing Eyes|Pale Garden (inspired)
 Creaking,humanoid,2d5dcf119e56666be35a0a3d3787fa0013d6fff040055436f1f698a13418eb76,Wood|Glowing Eyes|Horns|Pale Garden (inspired)
 Creaking,humanoid,1c6fc9a5d92c57e7ecd3f44caa99bfdef76b9d4c2a4a3ce5df03dd982284b5ab,Wood|Royal Headgear|Glowing Eyes|Horns|Pale Garden (inspired)
+Creaking,humanoid,52a2b4674c4735aceeaf56bc1c832306ccb7d58c0a3d6d23a09521cca4f678fc,Wood|Vanilla Mob|Glowing Eyes|Horns|The Garden Awakens|Hypixel (Attribute Shard)
 Creaking (grayed),humanoid,90d9fabfdcbb810b8dac2b281ca18790c2c9e93ff3ee5f141b6df266480e8153,Wood|Glowing Eyes|Horns|Pale Garden (inspired)
 Creaking Boy,humanoid,c49b2fbfdcef7ce9a566f38e14c359de0a9dc627bc7c77bf0dbe79ec04b4e813,Male|Young|Hair (brown)|Glowing Eyes|Pale Garden (inspired)
 Creaking Boy,humanoid,89dce1bff0891e9c806d61e7680ae240d949dbf127ead1b3725fe255717bfcbb,Male|Young|Hair (black)|Dark Skin|Heterochromia|Pale Garden (inspired)
@@ -68545,6 +68755,7 @@ Dagobert Duck,humanoid,ea19e0b0edc2e2ed57c3ad604db83a931354d4d4d616f6a12231167d4
 Dagon,humanoid,19b4805321332acd11e6dc2e2d17d76ec3b1b5128728f9188a302a8852784c1b,Fish|Cthulhu Mythos
 Dagoth Ur,humanoid,97dbfdc7415594b17e9c6233ddeee944a19a62554873d2a2518b29cce2cf2dcc,Hair (black)|Skyrim|Mask (full)
 Daisy Duck,humanoid,f637d564c7b64fc8fe8f4ac4bba04264cf7eec7352555f5929ff4b99314f4b,DuckTales
+Daitaku Helios,humanoid,5f24300c3d141cb653bbdb589c6031cd99d93d14551b95921eb76ff544e56e93,Female|Hair (mixed)|Animal Ear Headwear
 Daki,humanoid,b063ce69aef374f81adf829d8c104a8ddb56c06970002bf58b37b99bcd61dabb,Male|Horns|Kimetsu no Yaiba|Demon (human-like)
 Dale,humanoid,b38e93084a7b5a085f452a527518585aaa57c8976ba1929f5ec89bc8413ed27e,Rescue Rangers|Fix Head
 Dale,humanoid,61f130279aada755f2439dd271d21c9c922fcb8d7b6e65b17f56ceb8aed034,Rescue Rangers
@@ -69958,7 +70169,7 @@ Devil,humanoid,8f4015c5d52e44a3d243babd8622e588d89c35d094bf1f41f1baef17b596b9,Re
 Devil,humanoid,91fea882d7decb9716cc84bcd97dc9bd6e8c2481724f5b319149a9328dde4adc,Horns|Heterochromia|Demon
 Devil,humanoid,9f7d40f977d21242e326a43fe360014bc820185ffabb6084eb664202f0990a24,Male|Beard|Glowing Eyes|Horns|Demon
 Devil,humanoid,9f3b6474951862192bebc9723b2d2912179083ee308d611d2714a39ea43cdebb,Religion|Cuphead|Horns|Happy Creature|Demon
-Devil,humanoid,8f07aa49617a1225230755e15c0520319da85fc4fa8f1deb1397808cc06c1933,Beard|Hair (black)|Hairstyle (bald)|Horns|Surprised Creature|Hood in the Neck|Demon
+Devil,humanoid,8f07aa49617a1225230755e15c0520319da85fc4fa8f1deb1397808cc06c1933,Beard|Hair (black)|Hairstyle (bald)|Hellboy|Horns|Surprised Creature|Hood in the Neck|Demon
 Devil,humanoid,acb33d965439c38a875e859e4eee7785a9a6dad979bf11bb6fb95849ede2841,Religion|Horns|Demon
 Devil,humanoid,3259dbbefdc1f45dc04fc3c105aa02848860572fd57fbfe7d0d0dcc7e48bbef3,Male|Religion|Hair (black)|Glowing Eyes|Fix Head|Horns|Surprised Creature|Demon
 Devil,humanoid,e00cd37a4ebcbb28cb85d75bbde7b7aad5a0f42bf4842f8da77dffdea18c1356,Religion|Angry Creature|Demon
@@ -71902,6 +72113,7 @@ Fredbear,humanoid,b087f0346a8d7d00cb855f50ca16f2539abd8ba233653b48b2b9ea66c4b91c
 Fredbear,humanoid,6a7e020c1c4cb30c7c9accdf5245cef11e79be0409298fc2b7cc321a69c07c4a,Five Nights at Freddy's|Hat (crooked)
 Fredbear,humanoid,e6991f7c26f2f8c3082cf286a74d246e117d9c9f439d514fa403d221ef8,Five Nights at Freddy's|Hat (crooked)
 Fredbear,humanoid,d206d1cfbc23eb36cedd504e3ef456194467da8e6a3bd91f2a136ea17047e65d,Five Nights at Freddy's|Hat (crooked)
+Fredbear,humanoid,d16a42ec0a0e7f82b62a0e913e369bbabb0a00c082ab46eff101466d5f6ce96f,Five Nights at Freddy's|Hat
 Fredbear,humanoid,645ac24cca2dff556d0cb8e8ecd8928fbae220903853ee12c9191a904d2965e5,Five Nights at Freddy's
 Fredbear (battington),humanoid,c69ac24b3bb4880d6dc39e894e6803cd8828d66cbceae69b3dbf18065ad4f280,FNaF Fangames|Hat (crooked)|Blushing Creature
 Freddle,humanoid,f78265e454c6ba9249edb06ab9a25a2e3d83b2c719a77691ddea1af1b2f91917,Five Nights at Freddy's|Hat (crooked)|Decaying (creature)
@@ -71941,6 +72153,7 @@ Freddy Fazbear,humanoid,3877c30780544852299899f449a4fc7e87fd6068496d8704a7111d35
 Freddy Fazbear,humanoid,758dca8d4807fa00b3af47221b2a685ae0c227723c9fe9b39a4b99ffd2205183,Five Nights at Freddy's|Hat (crooked)
 Freddy Fazbear,humanoid,17ebae20644f12520e8b3a572d0c480eb9891742c3037c7c65330458f4a7b43f,Five Nights at Freddy's|Hat (crooked)
 Freddy Fazbear,humanoid,d6d9e21a471ba19c77991de8effb0404e3e35b5a4dee8793b4a04f2f82b4aced,Five Nights at Freddy's|Hat (crooked)
+Freddy Fazbear,humanoid,ecfdf577792955826966f9823b3a97be984fad60a0c519c901a6817c6f930bf1,Five Nights at Freddy's|Hat
 Freddy Fazbear,humanoid,cc5608012c1c7a4a2253f3463ff0a146044a340902ba8dba41b40399cc6c8944,Five Nights at Freddy's|Hat (crooked)
 Freddy Fazbear,humanoid,b55a66ee11247f9354c7b0b67c7af4ad12deeab81f7dc3f2f0b378ade18bc3b7,Five Nights at Freddy's|Hat (crooked)
 Freddy Fazbear,humanoid,c7e648c6017b2473f6414198168dcef0961c057a2430160838ad1c2a4631e9f8,Five Nights at Freddy's|Hat (crooked)
@@ -72898,6 +73111,7 @@ Glamrock Freddy,humanoid,824da2f1e31a244eab7cd65d1967f71049eee75b11144b6068a1933
 Glamrock Freddy,humanoid,2981b013e89e65f0284a8a388783ded02ec42de7b39b53e1cbfe256c4d67bede,Five Nights at Freddy's|Painted Face|Hat (crooked)|FNaF Security Breach
 Glamrock Freddy,humanoid,76f3bb4c1e692af7c31c5100ba6cf72648f7d9d681dc9d4cc1d1f952f1759116,Five Nights at Freddy's|Painted Face|Hat (crooked)|FNaF Security Breach
 Glamrock Freddy,humanoid,f3cac27cb475534afc3a822ceb0d717d30d985ad158541eaa0c57c8570aeb2d4,Five Nights at Freddy's
+Glamrock Freddy (hatless),humanoid,be407b3e4e7fea42c3ec51da1b91e2f49800b32df8714d742637c4c8fb8c5e16,Five Nights at Freddy's|FNaF Security Breach
 Glamrock Funtime Foxy,humanoid,6925462d94aa7862d34af08283961af08f906c1ac246af2593bf40cf87f55e8e,FNaF Fangames|Blushing Creature
 Glamrock Funtime Freddy,humanoid,d2dd0c70e30d29cecd67e7430c0c362349937e950989f6f6118e792a5abeee83,Painted Face|FNaF Fangames|Hat (crooked)
 Glamrock Helpy,humanoid,48d2dc9dae5c6eb85a47865200f3e64ed2876e7494fbc17a7f1418a006291126,Five Nights at Freddy's|Hat (crooked)|Blushing Creature|FNaF Security Breach
@@ -73311,6 +73525,7 @@ Green Knuckles,humanoid,80cb43d36316ba1e364a9a5862328c3648f3795bb0df8ad338feac47
 Green Luma,humanoid,37b3de2f42038a5f2d69d74aa0b4b9106f16674e949cfd7e875a817b3662263f,Super Mario|PetPlugin|Figurine (Humanoid)
 Green Minion,humanoid,ec830e01eb4997f5591ecfdf54cef7f6f9d581e1d989060d83914cf2d8e3a46,Despicable Me|Happy Creature
 Green Mr. Blobby,humanoid,c5bbbe8dd306a81cc95d4ef5a7ff23e25cfb00eb000e6fedc39240cceca18c66,Mascot|Happy Creature|Noel's House Party
+Green Pippins,humanoid,107a2b083274e22fec6fa91ccb95e7475f5fd4e56327dabc2e1f62891692ddc5,Deltarune|Blushing Creature
 Green Puffle,humanoid,939060831ee466ed4cb5ff609c7072ffeba2d3cd6c2ab551ef98624c5dd36000,Club Penguin
 Green Puffle,humanoid,b33b18f49d95de70473811bff24d9a078956c36830a980312f18dc9f70af3a71,Club Penguin|PetPlugin|Happy Creature|Figurine (Humanoid)
 Green Puffle,humanoid,2d0b49818ad25c22109113ad9d06f26547897020533adfc1cee61779c1113181,Club Penguin
@@ -73419,6 +73634,7 @@ Gumball,humanoid,e81128388026b6dfc8f73ec7264122daf8e99564a8f305b763f94e153d64e3a
 Gumball,humanoid,4ea56fbaa3c1ddca5c1731cadb370151acffcd72f7fd869e6b28c8935b9c5fa4,Cat (other)|The Amazing World of Gumball
 Gumball,humanoid,7c49d66e5ebb82e0a5d511402aa7ed9288cbf384ae25eba735e7c26c2563dd0f,Cat (other)|The Amazing World of Gumball
 Gumball,humanoid,23bb10bc88c22366842f849d8dc171ff46adbfa4bf2f058d04282502cc51b81b,Cat (other)|The Amazing World of Gumball
+Gumball Swivelhands,humanoid,d8cb48620d63a669f440dbdc9bb596ccc97dca3f09675b9e5b07aa866bc7cc63,Candy|Five Nights at Freddy's|Device
 Gumball Watterson,humanoid,630ed01ab1351ba502d60b53fb52bf5152fc7fe7c4b3f44a330469bd6e76d048,Cat (other)|The Amazing World of Gumball
 Gumi (ECHO),humanoid,86d11724daa41759d7c265ca5be6c5ef17d8cc2192051b9b869f08d9783ab7a1,Monitor|Robot|Vocaloid
 Gummigoo,humanoid,1cad6ba607c1f3e5cf9df05b58319ebd36ba9ae67fd0bb086c325590bfe790dc,Candy|Hat|Swamp|Reptile|The Amazing Digital Circus
@@ -74287,6 +74503,7 @@ King Dice,humanoid,44d0f2238308a2005fe65324fd7922fe7910d85cc21f9b95a0154a5fc4aaa
 King Dice,humanoid,ca0f8391995533694bdf8d750ee411d5bb93eee9c141a21d8ae90807d39bc3ec,Toy|Cuphead|Blushing Creature
 King Dice,humanoid,8e31b6a53906d367f93286a4419d00446337c324aefc2f8ac146f3edbeeda919,Cuphead
 King Enderman,humanoid,7a4757430dbbb445e78120b3161d6e27a5c038942e019c2de33b11512d5effe5,Royal Headgear|Enderman|End (inspired)
+King Ghost,humanoid,5a395f5c4d6329909254536bebd8803e04bbd88c168a942faae9eb139d1b658e,Royal Headgear|Glowing Eyes|Ghost
 King Gollum,humanoid,2e3ba6b456185c4c105cd3c2834a3179a68cd85b6ef42572d040d6b3b0f81072,Male|Royal Headgear|Lord of the Rings|Hair (brown)|Hairstyle (bald)|Angry Creature
 King K. Rool,humanoid,8e9a0088ce1340a98b6b1f7251e9a17c2ab62f3a2f5f821c8d40d0625c85a1cc,Royal Headgear|Donkey Kong Country|Koopalings|Glowing Eyes|Anthropomorphism|Happy Creature|Reptile
 King K. Rool,humanoid,24ebeeded40eef368c401018c8194875401d002120687324d23305990499ab57,Royal Headgear|Donkey Kong Country|Koopalings|Anthropomorphism|Reptile
@@ -74945,6 +75162,7 @@ Mangle,humanoid,4e1159e1aad239597dea98629e094654015c6ddb9ced2c9b0f3bc12d9e63af8,
 Mangle,humanoid,75aefb96aa652b161a6f5662a48abfdee31e6b5de63229adfb968579ca6a13c9,Five Nights at Freddy's|Blushing Creature|Decaying (creature)
 Mangle,humanoid,6bb0134591a7b9e6d7e15d4f87c0a6bc06b95fffd31edf5d3d5c4eece7b389e,Five Nights at Freddy's|Blushing Creature|Decaying (creature)
 Mangle,humanoid,a570505fc8ec0bb0718f5b4d9cc024510d6fd1c61a6644dbb94be2750fc8eaf0,Five Nights at Freddy's|Glowing Eyes|Blushing Creature|Decaying (creature)
+Mangle Endo,humanoid,95f651a74b400121c99e9c7eacb376593f91ce277fa7cc3965ace703f4d250a6,Robot|Five Nights at Freddy's|Decaying (creature)
 Mangles Endo,humanoid,2b9adb956f4361a2177dbb065e70b24e4e348075405d1f924c32ca57482617ad,Robot|Five Nights at Freddy's|Decaying (creature)
 Mango Minion,humanoid,ed885f2393a3c11a1c6a53182a2a00f9dddc5312e71b8fd192e815f9ca984020,Fruit|Hypixel (Fandom)
 Mangrove Minion,humanoid,25268778943f04e5a1a6cc2b5ce236419b6c4e77447ac5996b919e2401ee96c,Hooded|Blushing Creature|Hypixel (Fandom)|Ghost (hooded)
@@ -75523,6 +75741,7 @@ Moxxie,humanoid,b013f8233a5c740ade2a9726998193ecda603e133a8d2d624715018378ca1d9d
 Moyai,humanoid,73afcb6a7b74ca79184497c17cf636f98edc2611281b9d5a9051eda25bbb1805,Stone|PetPlugin|Antiquity|Figurine (Other)|Hololive (EN Advent)|Hololive
 Mr. Blobby,humanoid,37ee5a3fd362597f439049b66231d7fa29cdc94aba04ae01995f980db2f53140,Mascot|Happy Creature|Noel's House Party
 Mr. Blobby (gargling),humanoid,d37f1d0e995d1fcd649355937091df215ede8226f6540cd5e58278dc3c25a6b4,Mascot|Noel's House Party
+Mr. Can Do,humanoid,c0934ea190766cf955e6d8cfad248cba9d59b36e464b9badbd26769881ab8144,Five Nights at Freddy's|Party
 Mr. Chipper,humanoid,370cdb756b69abd48fb78a22e1c149c38f4db23ac07d3a3439e81c9fd117629e,FNaF World|Chipper and Sons Lumber Co
 Mr. Dice,humanoid,df1aea047bcfc1179398aa460205397db0246a2fc47d035e0e6e97923fb3cb12,Toy|Cuphead
 Mr. Freeze,humanoid,7f62ede16cffc725b8521c439831b06d90e75788058398292bc43429184a5ee7,Male|DC|Winter|Batman|Goggles
@@ -76734,6 +76953,7 @@ Pinky,humanoid,3b50298c384284ab13033f1f9c09785f639f0a08d9ebbdfa2cd202e6cb63cbf5,
 Pinocchio,humanoid,b46e15b9dffe2263a5cc44638fb8cdb080e2d5c9d1dda858f3cad7d73cc76e,Male|Young|Hat|Pinocchio
 Piper,humanoid,511a7fd17dad2f89ddd9df90501eaf57c00dde1e8b08407c737cc90c045c99bf,Bendy and the Ink Machine
 Piper Charley,humanoid,529d8cca09e2ed3c79f8b5afcde1c81f2e970da045a94e200edb09b99b8f9aa0,Bendy and the Ink Machine
+Pippins,humanoid,202056652fcc81936aca6fa7551104326c2c945ec3d91d935622ffe083e6a73c,Deltarune|Blushing Creature
 Pirate Clark,humanoid,b1de60dc59e888c7fa2d835981475f1ddc945ad04016693ec79b0dcb6e3e70e2,Male|Seafarer|Beard|Hair (brown)|Dark Skin|Backrooms (Movie)
 Pirate Dog,humanoid,459c9a44adc29c121fcfa0f91236cd7a4a41ca7f1b1e50dc1e24a298f82038f7,Dog (other)|Seafarer|Head Cloth|Anthropomorphism
 Pirate Dryad,humanoid,4bd4b91552edf0c771b89ee91bac3eae65edab134d470bf72b1d7fc68577e797,Female|Seafarer|Hat|Hair (green)|Greek Mythology
@@ -78362,6 +78582,7 @@ Sculk Monster,humanoid,65764f7047cf219c8b9f926c4bf367f4972e2176d831e6d2c9a3594ce
 Sculk Person,humanoid,a58e59aabae058979cbda7678c749768d6402de529b24870370847ff01b8b70,Hair (blue)|Deep Dark (inspired)
 Sculk Protogen,humanoid,7428343593d1993a05c3d02065e77409434f57b6041b17de510d92da0e7033ae,Cyborg|Deep Dark (inspired)
 Sculk Prototype,humanoid,81c280d5a08a5b315d88e31948fd795d0dec90048c988f30f369645f2bc29e2e,Robot|Machine Part|Deep Dark (inspired)
+Sculk Queen,humanoid,816b97dd94abca6ba8b5eab44cafca7249a5f314465a22df88f3800df55142a8,Female|Royal Headgear|Floral Ribbon|Deep Dark (inspired)|Hair (turquoise)
 Sculk Robot,humanoid,1f0230511b844cf3aff0cedb44c13242799d33152235f17cee574651878ed5d0,Robot|Deep Dark (inspired)
 Sculk Skeleton,humanoid,f5525893feb6139ab5b7724c699c02dc6ce7dd1ca244f1c0ef3dc126e875cad5,Skeleton (Vanilla)|Deep Dark (inspired)
 Sculk Skeleton Skull,humanoid,45f67c9d770259f9b0499da3670a526b95a46e1b7e7869a23eafbe287ca682cf,Skeleton (Vanilla)|Deep Dark (inspired)
@@ -78771,6 +78992,7 @@ Skeleton Bard,humanoid,872ec5171c97d7e81ff090cab63c7233f1a4a563780766f8c63908b6f
 Skeleton Boy,humanoid,660f58f63121efb13da704045fed0c451a3f39fafa9bcf257802045b4104b5c,Male|Skeleton|Young|Hair (white)
 Skeleton Captain,humanoid,f4f85d6ae77e12e51ee43adef43c3c324e4e3784899b90376182fe7f47a5e,Seafarer|Skeleton (Vanilla)|Hat|Eyepatch
 Skeleton Captain,humanoid,5753a521eef2c9488978fb2fc82cbb8349d515270460b056ba72f3e2788c4f7b,Skeleton|Seafarer|Hat
+Skeleton Covered in Honey,humanoid,3bab26ea1e954681e5fd82f73d015c53702121cc1cc218eba51cb7cfb1061abc,Bee Keeping|Skeleton (Vanilla)|Food Fight|Hypixel (Attribute Shard)
 Skeleton Defender,humanoid,884269f661409acfa10b4bf6575a0f452b097ef89a28ab506130988a59949b24,Skeleton (Vanilla)|Glowing Eyes|Vanilla Helmet
 Skeleton Diver,humanoid,7b40b3f16a2dc24106780090f485c9b5866d66e77e6f900292a0527b60d174f2,Skeleton (Vanilla)|Beach|River|Mask (functional)
 Skeleton Diver,humanoid,ccc69ffc8a92af671cc84b75218098551a263236a1c0ab660b2f8ab79319817a,Skeleton (Vanilla)|Ocean|Work Safety Helmet|Decaying (creature)
@@ -79073,6 +79295,7 @@ Sniffer Ghost,humanoid,342f47dca1040c93c08029e36e207182197b2a10d9cc9a656b485fdff
 Snoopy,humanoid,c5a88fcf80dbe9dbd5c9679a2c5bf364d4c0e0ac313fe214d6d803d7b70d9f54,Dog (other)|Peanuts (Snoopy)|Anthropomorphism|Goggles
 Snorkel Zombie,humanoid,f5c5eb5ee072c06580986d12a029e28010c1290875534810c53140bc76dabfeb,Zombie (Vanilla)|Beard|Goggles|Hypixel (NPC)
 Snow Elf,humanoid,d1601ded4207c0f7a62e5e6c53ae635b879f28937d8f5db4b80d633b0944ee96,Elf|Winter|Hair (white)|Ear Pins
+Snow Golem,humanoid,6cd265c4b9a1326253e66b3f9cf1e0b8de8d077eb5cbda87654c6dbac875c8db,Pumpkin|Golem|Winter|Vanilla Mob|Hypixel (Attribute Shard)
 Snow Hunter,humanoid,ec4d37a83af45d30e4b6e4793f9966d0034ab08f825e1e71a91cc2acb8c92178,Hooded|Destiny|Mask (full)
 Snow Minion,humanoid,f6d180684c3521c9fc89478ba4405ae9ce497da8124fa0da5a0126431c4b78c3,Hypixel (Minion)|Snow Sculpture
 Snow Minion II,humanoid,69921bab54af140481c016a59a819b369667a4e4fb2f2449ceebf7c897ed588e,Hypixel (Minion)|Snow Sculpture
@@ -80753,6 +80976,7 @@ Villager Doctor,humanoid,7861767aeb5c87ab15d9a24dd4cae71e6d53356001e3545819aacfa
 Villager Drowned,humanoid,56daf50eaf76c3a6d5ad39c966f29877b91d950dd1e37122e9c819585c89d92e,Villager|Ocean|Zombie (Vanilla)|Glowing Eyes
 Villager Elf,humanoid,1d82f9c36e824c1e37963a849bf5abd76d3b349125023504af58369086089ee9,Elf|Villager|Christmas Cap|Hypixel (Skins)
 Villager Elf,humanoid,4ec5455f43426ca1874b5c7b4a492ec3722a502f8b9599e758e133fed8b3c1e4,Elf|Villager|Christmas Cap|Hypixel (Skins)
+Villager Gamer,humanoid,da1709e470aad2586310694e1c02dcdc03f226790705ce53e85b3e71e7b793f,Villager|Baseballcap|Flags (Europe| Other)|Hood in the Neck
 Villager Girl,humanoid,dc5f5d411cb2e8b8c6c99c3e2604f070066e939ea036b0ba7a32a21edf01ec39,Female|Villager|Young|Hair (brown)|Ribbon|Alice Band|Flower in the Hair
 Villager Goblin,humanoid,fcc9f33aa4dbe7eaae57d1922602f2b4f18d2af59ac3385a585e22e8d8946103,Villager|Fairy Tales|Hairstyle (bald)|Cryptid (Folklore)|Angry Creature
 Villager Golem (purple),humanoid,c5c28b100f8a3ac61ff40cf30f1867e3165df58693fcb047b9cb9376adca4166,Golem|Improve Head
@@ -80800,6 +81024,7 @@ Villager Star Platinum,humanoid,866ea805d5bd19b767355e25686c0688f3574e839eaab5ad
 Villager Steve,humanoid,74824375b55fc85b646675c9f799ed98e26b42778d2aa11457ab18ca84cdc2e8,Male|Villager|Glasses|Hair (brown)|Cap|Steve|Skeptical Creature
 Villager Warrior,humanoid,99ba2e519ab2ea335e99343a4ea4d8ac764cf1cfcd711d3181ad7235cc4f6e16,Male|Villager|Mask|Costume
 Villager Wearing Mushroom,humanoid,443dafa0caebb9e6824db4793a3d42e12fa7d5fadb4b29834fa145842ba68d7,Villager|Mushroom (Headwear)
+Villager Witch,humanoid,28c456c9bd879ed222abe8dcc8f1b0591df5abdfe4c237874980523fd6640135,Villager|Halloween|Hat (pointed)|Hypixel (Minion)|Hypixel (Skins)
 Villager Woman,humanoid,b07a97b2fc4aeda1db671baeec1ccc849cea7c7c5cb753e8ca2ebd2eb305f7f,Female|Villager|Ribbon|Pride
 Villager Woman,humanoid,7e85b42a1ae2b92ee6b5013fbba3a584bcc85557f514cf6c889c6329200e1ae8,Female|Villager|Hair (brown)|Flower in the Hair|Blushing Creature
 Villager in Banana Costume,humanoid,fe2e282d128cfada812ef62cf5a44f13fff34dc386927adb63d6b8c66340ae7e,Fruit|Villager|Costume
@@ -81364,6 +81589,7 @@ Yellow Puffle,humanoid,bdcaf6ac8b8eedf22d6323fbdabeffef51972a0fc72f787ad69da0326
 Yellow R.E.P.O. Robot,humanoid,5e4284693a87a5a42072e82c33544768db14f40a597bc05c1bbe77ce6558617c,Robot|R.E.P.O.
 Yellow R2 Unit,humanoid,5c1d774dcd788804996cea0cd6769e65d1cbd020bb498d6c2851205f59dbe597,Star Wars|Robot|PetPlugin|Figurine (Humanoid)
 Yellow Rabbit,humanoid,2ed744ab02d16489d3b160b5457e16b8a06c65692a0a9ae665c3015d490d8c05,Five Nights at Freddy's|Glowing Eyes|Decaying (creature)
+Yellow Rabbit,humanoid,2b1e79d1c43680c096f463fe63d251f2538c85f6cd119ec6ba8f6d8104456da5,Five Nights at Freddy's
 Yellow Robot,humanoid,fbc42b5f8f76815519cf8a48c37a0a561a721f98ade999880b6ca8cdac2a51c5,Robot|PetPlugin|Figurine (Other)
 Yellow Tattletail,humanoid,38a237fb712a3d8091c5c9b983aee0fe81231e0d00d4195ada83d14bfa28d793,Tattletail
 Yellow Toad,humanoid,c118782ef50ba3326c6afd854fdae973b3c87293f8aaf33a21518b547a1fdae0,Super Mario|Mushroom (Headwear)
@@ -82057,6 +82283,7 @@ Andalusia,miscellaneous,fdc8125e0070ca0b5f042e7f7e2ab298e54f794cb291fe9a7935be13
 Andorra,miscellaneous,aa59822fef52c4a9ba960efe1d2f6f5fb7d70e5e82792fc668a16e296f2c3af4,Flags (Europe| Other)
 Angola,miscellaneous,d93df99c4990315fbe60dc737b5d41ffd4c5e08a1963a63a6059a0ee0c7628e8,Flags (Africa)
 Angry Particle,miscellaneous,fbb1256eb9f667c05fb21e027aa1d53558bda74e240e4fa9e137d851c416fe98,Icons (Ironblock)
+Anguilla,miscellaneous,a712cf616aae2d9aebe9eb1dc5e0d8766eb1e54319f2d8035e1c7b624bc07b14,Flags (America)
 Ankara,miscellaneous,d511bfede5c4f3c4adcb85fd8d7f2d18e3dcafcc94d94d47fbc2d557a766aeca,Flags (Asia)
 Antarctica,miscellaneous,6dbc4b24e3189ab419b2940f30f9e8b1696b1e455cfca97877465a4cb75c413,Flags (Other)
 Antigua & Barbuda,miscellaneous,99bffbce79a69cef212495a37ee95ee758ce7aac5e95bc6ccfe6faa306fedec2,Flags (America)
@@ -82280,6 +82507,7 @@ Brilliant Azure (#48a4ff),miscellaneous,bdb14b486788217e39fc9bac2dc72be87192be31
 British Antarctic Territory,miscellaneous,7b62a8c3b981e80050e835f7f1762ffdd6f52d0981b5092bb52c4fde4188b0cc,Flags (Other)
 British Columbia,miscellaneous,8a86b834c49a4b36daff65f46ee179e81f781d532337d3f0306bec9fbfb57767,Flags (America)
 British Indian Ocean Territory,miscellaneous,a20d31d38a6439b05db9c12ed80d4741f6d2c92225096bf408aa58e3249c9f08,Flags (Asia)
+British Virgin Islands,miscellaneous,cfbf59cf4b808dc3c2f54f6b9351d44c291b90ee769e108eadde48f4ba6a57f7,Flags (America)
 Brittany,miscellaneous,4728394966c45f79cd2b5816acde1e38a99ab20902e77ebec7eee183f858c867,Flags (Europe| Other)
 Brown (#663300),miscellaneous,7305e1ca2806da40de8788099daf7a1ef81569099abbb7e4acf49c99b557028a,Colored Blocks
 Brown (#824100),miscellaneous,8ed0a13bc429b32be25b6e6c2876f53f6bc315eb979bf5947ab58528887cb76,Colored Blocks
@@ -82351,6 +82579,7 @@ Catalonia,miscellaneous,8dc57d3c83daf66d03677737d9769eae36b5b478d052759b0b4479fc
 Catalonia,miscellaneous,27ef549b8c9802b3bb673ba8e4dfab91fd3df93ce976b9f058e8c5f36b4aca60,Flags (Europe| Other)
 Catalonia (Estelada),miscellaneous,629ff19f8e74d4e052982dafe1a916812f6878c3862e995f891e4322e37f93f1,Flags (Europe| Other)
 Catalytic Rune,miscellaneous,8b1149071a87bd22cb23377bd7bcefea84c22cb2baeec1546b0bfda0c91aea63,Stone|Rune|Runescape
+Cayman Islands,miscellaneous,9c816efe0ecc23a1d3f0f21a6677698f9044ce4094ca3a775b859b9711b385b6,Flags (America)
 Celestial Starstone,miscellaneous,cedf4ba5829220e2977629880305b2e54e66eba491c7e2f1254524522c8ba012,Fancy Cube|Hypixel (Talismans)
 Central African Republic,miscellaneous,503c2de96ec2a8a24f4fdbedc61747824196781c7b51e0f7317aac9505152883,Flags (Africa)
 Centre-Val de Loire,miscellaneous,965e3ef15ea2a230673c81c97625340f3feb6b17e36147d9747ebd2254ea655e,Flags (Europe| Other)
@@ -82737,6 +82966,7 @@ Discord,miscellaneous,b2efa83c998233e9deaf7975ace4cd16b6362a859d5682c36314d1e60a
 Discord,miscellaneous,566fda81aa30cdd2079db7cc90dae6ee346ce4aabf9e6a87f1f51aeb1a440d,Logo
 Discord,miscellaneous,2e9274e478a72b7e1d510333297e40c6f0bbc7f990fc2558d93524571b43b0c6,Logo|Icons (Ironblock)
 Discord,miscellaneous,3f4650d97f94fb0553a38e4fb26d674ed431b5c4bf6b44423a1c9f4c164e11b4,Logo
+Discord,miscellaneous,7bad7b1b44bc4ddc69a2ef0d0eb4f7bbd46ea67952949f8d1bb20177c7cf0595,Logo|Hypixel (NPC)
 Discord,miscellaneous,dc59e5c7b0738b579f3b444c13a47bed496b30838b2ee2b127cc59cd798aee77,Logo
 Discord,miscellaneous,92ca27cab87722896dc668c7b9b76e6fc3e2dce770583adfbe162adc94e9d82d,Logo
 Discord,miscellaneous,7873c12bffb5251a0b88d5ae75c7247cb39a75ff1a81cbe4c8a39b311ddeda,Logo
@@ -83431,6 +83661,7 @@ Expand,miscellaneous,6461508b64ecbd8b37bdae53a6b94004405b1c9d0f815d0c6516d0049ad
 Experience Cube,miscellaneous,399ad7a0431692994b6c412c7eafb9e0fc49975240b73a27d24ed797035fb894,Fancy Cube
 Exploding Bubble,miscellaneous,681e4811361374ed2a055a9ff6e618c1f8f6bd2c5ae8bd691d4ae3be72dfd1a3,Icons (Ironblock)
 Exploding Bubble,miscellaneous,8d03280183fe7e96dc8e88cbcd232600e5ad5e72137d22156607fe80ab2cb9d,Icons (Ironblock)
+Explosifall Rune,miscellaneous,7ea4c2287ad9e5050df112e612a65b649306dc513888f145607e455ee5ea347c,Hypixel (Runes)
 Explosion,miscellaneous,f831d5721950efa9aa79967eb1916abeb64c978ea8593a0c683354809c6c361d,Explosive|Fire Department
 Explosion,miscellaneous,602a1169309f05ef2f061b1fa0fe225f29d73a24f8f07ccc2a705deeaca069d1,Fancy Cube|Explosive|Fire Department|Hypixel
 Explosive Cube,miscellaneous,d0a471e37c513fd75f3f1aa3ee2c5d710f61da5bb1a2ce844269a2e4db12a00d,Explosive|Orb
@@ -83679,6 +83910,7 @@ Flower Cube,miscellaneous,9e8c449f1dc5c3b585c05f8fe8671b363c0466aa223f972878564a
 Flower Seal,miscellaneous,4313324e25bb6cb6b893adc769860d60d49cf9fd17e7bd5e36c8cc7bb1da17d8,Icons (Other)
 Flowers,miscellaneous,735f20b14737fe1d55cd76722a9a8a833d7885cecbe7eb6134e19509135b5eb,Greenery
 Flowery Carpet Rune,miscellaneous,b0ffeddcd2c3a8bbbe4fcfccd9df2c871176ed92786534de8d9c084bc4ac3338,Blossom|Hypixel (Runes)
+Flowing Fall Rune,miscellaneous,9a4d525300e2bb6069757d68995cb442ba006c865588a51086237a43522a1ee8,Hypixel (Runes)
 Footprint,miscellaneous,61d2871f6e54ac67326bb167cfc69c11154b4bf2513c59d98d7ecaecd0d63f69,Armorstand Head|Minecraft April Fools
 Footstep Particle,miscellaneous,4d9b68915b1472d89e5e3a9ba6c935aae603d12c1454f3822825f43dfe8a2cac,Icons (Ironblock)
 Foraging Fortune,miscellaneous,4e44e2a8dff90f5b005e76e6f5db7c12ae59cbbc56d8bc8050f3e3dbf0c3b734,Storage (other)|Wood|Cloth|Icons (Other)|Hypixel
@@ -84576,6 +84808,7 @@ Monster Cube,miscellaneous,39f0bf243d84dd7be622f3a9cee34c55236648586ab7edf33a8d6
 Monster Cube,miscellaneous,8839f8c6f4c28eb8f0f04bf1cf458f29e37f758f4edd82ddbde8ec38ea6388,Fancy Cube
 Monster Icon,miscellaneous,125be97e9d53f3f878d9d2e458f8a0427e24d72a28855e066eb7c58332a9f76f,Icons (GUI)
 Montenegro,miscellaneous,ce611900d37ea58457e5752df51cdaf31d181dcd928d67b4e86da1ed754d1af5,Flags (Europe| Other)
+Montserrat,miscellaneous,d43d16873abdafc7df7769712ad35a111349a6fc13518220d9c366c4d9850ed9,Flags (America)
 Moon,miscellaneous,6862a784f7a11e7e89702a3d801013d3b5f26f3a9ac474b9b7e64034f5726c40,Planet
 Moon,miscellaneous,6f02d3308a3c5e383a7e859e4fe6ca9fd40bc98fbac71cdcc19543d769065bbc,Planet|Icons (Other)|Space Travel
 Moon,miscellaneous,88872839cfc232c44a4bebe05a71c31a8b9725edbe97bfbc4e10875a1918fe2e,Planet|Space Travel
@@ -84896,6 +85129,7 @@ Pink Stars,miscellaneous,e8b069a255a39ab19bfd8a5ce222eb77147c4ccd7c911a616ca15b8
 Pinterest,miscellaneous,e8e7667a73a0074fe1aea74d1b6b3ba3ce49f18192b4f7d5d8fe636e0c54f,Logo
 Pipe,miscellaneous,737741ab7c2ffbfd2141ab72bf5fffdfbcb900bfc35c0872ae60c525a50ea6e8,Armorstand Head|Icons (Ironblock)|Garden Decoration
 Piston (Minecon Cape 2013),miscellaneous,6cdb23f75826548d8fbb566711fc6d302608c95a0831b9f7fccad406099d8613,Redstone|Minecraft Live|Clothing
+Pitcairn Islands,miscellaneous,cdaf98d179b92ee1749a5a9fbe5fc1f474c6d821e412f58e4a0c3dd512edfc8d,Flags (Oceania)
 Pixel Cube,miscellaneous,6d31e4386ca7f26e7599e2184c7aeb86791f0bf133e6b9953936c845ffc3082e,Fancy Cube
 Pixiv,miscellaneous,8c13262976b21153e81f23dfdf484e55d5c5e549dc0cbcbbe7fba78f9c15df4b,Logo
 Plaid,miscellaneous,a7a7bbdaa809c4af6f096a5602c0fd1924e05f25d700a53809daa35b2783d822,Fancy Cube
@@ -85281,8 +85515,10 @@ Saarland,miscellaneous,6021dbd0144d908e2d0f87421cbafcfc57235604eacbf1a187beb47b3
 Saba,miscellaneous,ff78e5b902b5ee5d7f84e54defd181cca04502512fcdf28dbcbe7c02e0a6d7b2,Flags (America)
 Saddle Brown (#8b4513),miscellaneous,e54e54e47b962b83fea779176e956612c12390b7d0eaa51a621c76255cddf3ab,Colored Blocks
 Safari,miscellaneous,c2c33af2329a02f43cf87ee164ff6a2b12e9cfb1ad5aaff31914b47efb38,Monitor|Logo
+Safari Essence,miscellaneous,2d9eb19536a482fdffba3dcd89dcbbd5daa94180d69e156d052061e376373aea,Hypixel
 Sahrawi Arab Democratic Republic,miscellaneous,4947e95de8d5a2b565ad6626e75b8c8de6231e8fba0c52085f727e92c7468d6f,Flags (Africa)
 Saint Barthélemy,miscellaneous,a2cf6224c43422d23f60adfa1306fb31346579fe10bbad4bcddecc8efa526858,Flags (America)
+Saint Helena,miscellaneous,f0d584b4309be8fafe9d907d22cc9d3068322370856cb216dc599d494d474c8,Flags (Africa)
 Saint Kitts and Nevis,miscellaneous,53b98ad9c73de6f51a8a04c9dda6dc8f9294c521a40c4bc03eb3b32a29591e74,Flags (America)
 Saint-Pierre-et-Miquelon,miscellaneous,10a37f9b248fb1b1ba622a5d5f076d7622fbe002571fdedb99fcfb9e1b639692,Flags (America)
 Saint-Pierre-et-Miquelon,miscellaneous,c96ce05f6e165cb409d47a905fda31c15d713e5a40d303540a1b5b0d8b84cbf4,Flags (America)
@@ -86548,6 +86784,7 @@ Branken,monsters,f8470932a5f72a66fce3d58e5dc3c774a4da88e4e0822260f0c59cb0e3bb31e
 Brass Dragon,monsters,b0d19b3c61eae6b8e76dde846a720071849e1b8166bb9386b0cd12f4f86a93b9,Dragon|PetPlugin|Figurine (Monster)|Dragonvale
 Breeze,monsters,a275728af7e6a29c88125b675a39d88ae9919bb61fdc200337fed6ab0c49d65c,Vanilla Mob|Angry Creature|Tricky Trials Update
 Breeze,monsters,80843a94f925b5598924ff9b52b7999c8d29d1b790ad487dd54e27956e540d20,Vanilla Mob|Transparent Head|Angry Creature|Tricky Trials Update
+Breeze,monsters,2630c3171c4028544ff979ba87fa03102aacbc1e917ace9984d8ee51a9bbd5ba,Vanilla Mob|Tricky Trials Update|Hypixel (Attribute Shard)
 Breeze,monsters,cd6e602f76f80c0657b5aed64e267eeea702b31e6dae86346c8506f2535ced02,Vanilla Mob|Tricky Trials Update
 Breeze (grayed),monsters,236a393adc2eb2537ce42316da256754c1639311813c4ef8c34165b42dfb9022,Angry Creature
 Breeze (programmer art),monsters,c49a4d2a16a13cab7cba491823894ae08d2f33dc2ae1009f49686180e0bde912,Vanilla Mob|Tricky Trials Update
@@ -88028,6 +88265,7 @@ Eyes,monsters,8dfcb11cc74c33d97f4ae2b4dd3c01fd8f1174614ce9f1824d19f602ff7570a4,E
 Eyes,monsters,93cb8fb78f5453280baa8ea0bcc8d949ae4308b2ed5064f170eca175c0ea4df8,Eye
 Eyes,monsters,60009715f8713e2bb7cc72c9376bf4b2a22c44d67e648a1ab0686afb2d4d4e2f,Nuclear Throne|Eye
 Eyes,monsters,4b6b1d90b44a5955473d8c284b44aea7dbcc5c1fb5959c7aa96efe98da841cc5,Eye
+Eyes,monsters,b53b5270f282c2fb75b47255d0784707f458910865e534a97d4ca13d2b3a4760,Eye
 Eyes,monsters,1b4859db28f0b7fb9eac0d538bc4f55530546be4aee1c08ea7ec33c45e222373,Eye
 Eyes,monsters,decdc3d7a0821e6bdd8e1f3ccb41076247f14bb670400724d61cce18b4c50ac0,Eye
 Eyes,monsters,28eb6884133d99cad6771d41ba753191df81c527909c60b663386f07e5c76d4b,Eye
@@ -89365,6 +89603,8 @@ Mimic Slime,monsters,da06d9f0d868ca139de411ace59ac27fb424810f38a808e2d9e5b177d3c
 Mimikyu (#778),monsters,37176fdf78a311af618f4bee02bcb64ccf48ad647e67813caa301c1c55fd64f1,Pokemon|PetPlugin|Pokemon Generation 7|Figurine (Monster)
 Mimikyu (#778),monsters,167e3c74be3bd737993ef4b8921f8653885b4041ab9c2bd7f96e57193a628a39,Pokemon|PetPlugin|Pokemon Generation 7|Figurine (Monster)
 Mimikyu (#778),monsters,8fb261fd3eb2138fbcafa80301311daec78aadc107760ec02fb53ef2d572da94,Pokemon|Pokemon Generation 7
+Mimikyu (#778),monsters,140fd7a7b1f3308059e25f936898d5dccb7de9033024212d4816762a1e0f2551,Pokemon|Pokemon Generation 7|Combined Heads
+Mimikyu (body),monsters,42e0e44cceb6df4bd5ec9b1a943230256bf40acaa1e50232d9dd27fe132ec18c,Organs and Bodyparts|Pokemon|Pokemon Generation 7|Combined Heads
 Mine Dragon,monsters,6bcaa3c595cb7d8f8589df9e951713be26394206814cf328285191829f258e58,Dragon|PetPlugin|Figurine (Monster)|Dragonvale
 Mini Creeper,monsters,98625bc9971256ab3b1de5e7b3338d5dec2683bfef0310793495d27aa38aa408,Minecraft April Fools|PetPlugin|Creeper|Happy Creature|Figurine (Monster)
 Mini Pikachu (#25),monsters,7c46192ee763849174d79c6fef490b4de918839681eba45c4a3f49f2f36f53,Pokemon|Mascot|Starter Pokemon|PetPlugin|Pokemon Generation 1|Neutral Creature|Figurine (Monster)
@@ -91514,6 +91754,7 @@ Warden,monsters,3959ae02e35cbc4743e6e702fda6980bad2e98049403c16996286eb412f94689
 Warden,monsters,54afb30794433f32c97b02c1d228327333f259f56c68c02027b2a16dfb4aa66d,Vanilla Mob|Wild Update|Deep Dark (vanilla)
 Warden,monsters,9953cfb696d9e47693b2a78f3ebf8b89941bfa83668e0f83cff745b69e90321d,Horns|Deep Dark (inspired)
 Warden,monsters,bc9c84349742164a22971ee54516fff91d868da72cdcce62069db128c42154b2,Vanilla Mob|Deep Dark (vanilla)
+Warden,monsters,3a1ba6b2b49f3c12bae223513be8a8e96055e38ec68ab13fb89db1b2ef664321,Vanilla Mob|Horns|Wild Update|Deep Dark (vanilla)|Hypixel (Attribute Shard)
 Warden,monsters,53c4970510fb0f99be3f0c3d5a5919c6eeef04e433120e20107c66aba675a9b7,Vanilla Mob|Wild Update|Deep Dark (vanilla)
 Warden,monsters,5f0e416fbc046c340758d1963f39bb840cbbe6397b0ccf906784e013edcd323f,Vanilla Mob|Angry Creature|Deep Dark (vanilla)
 Warden,monsters,355291a15239ab249ffc48f9662815aca857255069cbab035bc63261f738ea5e,Vanilla Mob|Wild Update|Deep Dark (vanilla)
@@ -92949,6 +93190,13 @@ Metal Berry,plants,3ff0bee591e5f0000ef16f966b949adcb5c2f409a14ccfc5b91222fd92504
 Mojang Logo Pumpkin,plants,aa6edde4cabf033a59b328ab74f50e47e0a9089f29e33b9af66aafa3267c9091,Logo|Pumpkin (Lit)
 Mold,plants,e136eef801b30f8cb6cd6ed53250527c92205aded1477620a27f5e62bb88b060,Smoking|Decaying (organic)|Greenery
 Moonflower,plants,bd1001840c85349f87c6e20478317f4026b588514d8b1e78241a849d93f9cd94,Blossom|Hypixel (Mutations)
+Morning Glory (light blue),plants,264bb21c6f7e4db7e121a3974d0a0fc1b2d8ba769c25bf54fa22de5a01a1c363,Flowerpot|Blossom
+Morning Glory (light pink),plants,dcb87897c3985a116dee6a83431a1c5e18d4528059beba517dba931bb055f8e5,Flowerpot|Blossom
+Morning Glory (magenta),plants,bc40470039469e6b703b0e92cdf58bd63de31391fc250a8eb79ec24d82415051,Flowerpot|Blossom
+Morning Glory (red),plants,15389e4b237daedadc6bce391dc478eddf61c46af2d9fe280159b33a61577ae5,Flowerpot|Blossom
+Morning Glory (skyblue),plants,3c3fa837d5e9ae5d06150a699495387d068fb9e682572b191e6868959f51bc52,Flowerpot|Blossom
+Morning Glory (ultramarine),plants,a7bd7cf7d93865c32024cd3fd58482a639d35a3a54555bfc86ae19bf67e68b0c,Flowerpot|Blossom
+Morning Glory (violet),plants,a0bbcac48348cc1fae67de5a2cde2b56456ba6feaa38a8829507b0dc1283efc7,Flowerpot|Blossom
 Moss,plants,c6eaa44c8fd410b421fe4adbf329fa1f758c6d006bcf19f89fd5f216f2fb9c83,Greenery
 Moss,plants,8cc9b85c0602de65a73742f75177d7698bbdce96c798d8e32b4004bdd33ac5aa,Smoking|Decaying (organic)|Greenery
 Moss,plants,781741714dc4c5deec185053e7f94bdac9358b547354f91697d0a108a7bfa960,Greenery
@@ -93495,7 +93743,7 @@ Red Onion,plants,6ce036e327cb9d4d8fef36897a89624b5d9b18f705384ce0d7ed1e1fc7f56,V
 Red Onion (sliced),plants,e28a6bc8e49e3dd64d5fd96ae36973222e4921c8d47b8b1bb9fffcac4703783,Vegetable|Sliced
 Red Pepper,plants,2b31a81125b53ec8ff11d09db37a2dd442c427b5c36d4c6ba5c19dcd02e631,Vegetable|Hypixel
 Red Pepper,plants,d107c62ce7133eac063e4321c9a3de78c81eef46e2e74f07e969b086230c509d,Vegetable
-Red Shrub,plants,d3dbebafbadb9edd8405f2b5a3ccda34d2a02e4794ceac6b7b4b3ef400406353,Vanilla Block|Greenery|Inner Layer Block|Wilderness Bound
+Red Shrub,plants,d3dbebafbadb9edd8405f2b5a3ccda34d2a02e4794ceac6b7b4b3ef400406353,Vanilla Block|Greenery|Wilderness Bound
 Red Tulips,plants,5c35efdd1f73e82f1cd0429d906efaad4b0baaa8c6b6d5cf308ebe472dd47676,Vanilla Item|Blossom|Greenery
 Redstone Torch Jack OLantern,plants,ecc3904d6f4640eec872fb18f84010a83442ae3ebababff0caa1350f2c332f18,Redstone|Pumpkin (Lit)
 Repeater,plants,13b25f1bcb4bd90e488e93c929a256980025a3350025fb19fc7616d607d3b8c8,Plants vs. Zombies
